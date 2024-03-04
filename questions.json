@@ -1,0 +1,196 @@
+[
+    {
+      "materia": "Geografia",
+      "pergunta": "Quem é José e o que ele tem a ver com o Censo?",
+      "alternativas": [
+        "José é um personagem bíblico que nasceu em Belém, cidade onde o Censo também foi realizado.",
+        "José é um cidadão brasileiro que participa do Censo pela primeira vez.",
+        "José é um funcionário do IBGE responsável pela coleta de dados do Censo.",
+        "José é um especialista em Geografia que estuda a distribuição da população brasileira."
+      ],
+      "alternativa_correta": 0
+    },
+    {
+      "materia": "Geografia",
+      "pergunta": "O que é o Censo e qual a sua importância?",
+      "alternativas": [
+        "O Censo é uma pesquisa que visa conhecer a quantidade de habitantes em um do mundo.",
+        "O Censo é um registro obrigatório de todos os cidadãos brasileiros. É importante para que o governo possa controlar a população e garantir a segurança nacional.",
+        "O Censo é uma pesquisa que visa conhecer as características da população brasileira, quem são, quantos são e como vivem os habitantes do país.",
+        "O Censo é uma pesquisa que visa conhecer a distribuição espacial da população brasileira. É importante para que o governo possa planejar o desenvolvimento urbano e rural do país."
+      ],
+      "alternativa_correta": 2
+    },
+    {
+      "materia": "Geografia",
+      "pergunta": "Qual a periodicidade do Censo no Brasil?",
+      "alternativas": [
+        "A cada ano",
+        "A cada cinco anos",
+        "A cada dez anos",
+        "A cada quinze anos"
+      ],
+      "alternativa_correta": 2
+    },
+    {
+      "materia": "Geografia",
+      "pergunta": "O que é amostragem e qual a sua relação com o Censo?",
+      "alternativas": [
+        "Amostragem é uma técnica de pesquisa que consiste em coletar dados de apenas uma parte da população. É utilizada no Censo para reduzir os custos e o tempo da pesquisa.",
+        "Amostragem é uma técnica de pesquisa que consiste em coletar dados de toda a população. É utilizada no Censo para garantir a qualidade dos dados coletados.",
+        "Amostragem é uma técnica de pesquisa que consiste em coletar dados de uma população específica, como os indígenas ou os quilombolas. É utilizada no Censo para conhecer as características específicas dessas populações.",
+        "Amostragem é uma técnica de pesquisa que consiste em coletar dados de uma região específica do país, como a Amazônia ou o Nordeste. É utilizada no Censo para conhecer as características específicas dessas regiões."
+      ],
+      "alternativa_correta": 0
+    },
+    {
+      "materia": "Geografia",
+      "pergunta": "Em que ano o Brasil fez a primeira contagem total de sua população por meio do censo?",
+      "alternativas": [
+        "1900",
+        "1872",
+        "2021",
+        "1500"
+      ],
+      "alternativa_correta": 1
+    },
+    {
+      "materia": "Geografia",
+      "pergunta": "O que é Amostragem?",
+      "alternativas": [
+        "Pesquisa com toda a população, em todas as cidades",
+        "Pesquisa realizada com uma pessoa e de uma cidade",
+        "Pesquisa realizada com apenas parte da população e somente em algumas cidades",
+        "Pesquisa ilimitada realizada em algumas cidades"
+      ],
+      "alternativa_correta": 2
+    },
+    {
+      "materia": "Geografia",
+      "pergunta": "O Censo pode ser chamado também de:",
+      "alternativas": [
+        "Amostragem",
+        "Rechecagem",
+        "Contagem",
+        "Recenseamento"
+      ],
+      "alternativa_correta": 3
+    },
+    {
+      "materia": "Geografia",
+      "pergunta": "Onde o censo é realizado?",
+      "alternativas": [
+        "Em cada domicílio ou residencia, apenas na zona urbana",
+        "Em cada domicílio rural",
+        "Em cada domicílio ou residência, tanto na zona urbana como na rural",
+        "Em cada domicílio ou residência, na zona rural"
+      ],
+      "alternativa_correta": 2
+    },    
+    {
+      "materia": "Geografia",
+      "pergunta": "Qual Órgão realiza o censo no Brasíl",
+      "alternativas": [
+        "INEP",
+        "IBGE",
+        "INSS",
+        "EMBRAPA"
+      ],
+      "alternativa_correta": 1
+    },
+    {
+      "materia": "Geografia",
+      "pergunta": "Onde são registrados os nascimentos e óbitos",
+      "alternativas": [
+        "No IBGE",
+        "Nos cartórios de registro civil",
+        "Nos hospitais públicos e cemitérios",
+        "Nos cartórios de registros de títulos e documentos "
+      ],
+      "alternativa_correta": 1
+    },
+    {
+      "materia": "Geografia",
+      "pergunta": "O que faz aumentar a população no Brasíl",
+      "alternativas": [
+        "Nascimento registrados, estrangeiros que entram no país, óbitos",
+        "Saída de brasileiro para viver em outro país, Nascimento registrados e óbitos",
+        "Nascimento registrados e estrangeiros que entram no país",
+        "Nascimento registrados e Óbitos registrados"
+      ],
+      "alternativa_correta": 2
+    },
+    {
+      "materia": "Geografia",
+      "pergunta": "Onde é feito o registro dos Estrangeiros que entram no país?",
+      "alternativas": [
+        "No IBGE",
+        "Nos cartórios de registro civil",
+        "Na Polícia Federal",
+        "Nos hospitais públicos e cemitérios"
+      ],
+      "alternativa_correta": 2
+    },    
+    {
+      "materia": "Geografia",
+      "pergunta": "O que faz diminuir a população no Brasíl",
+      "alternativas": [
+        "Nascimento registrados, estrangeiros que entram no país e óbitos",
+        "Saída de brasileiro para vive em outro país e óbitos registrados",
+        "Nascimento registrados, estrangeiros que entram no país",
+        "Nascimento registrados e Óbitos registrados"
+      ],
+      "alternativa_correta": 1
+    },
+    {
+      "materia": "Geografia",
+      "pergunta": "Quias os três países mais populosos do mundo?",
+      "alternativas": [
+        "Brasil, Índia e China",
+        "China, Índia e Paquistão",
+        "Estados Unidos, Rússia e Brasíl",
+        "Índia, China e Estados Unidos"
+      ],
+      "alternativa_correta": 3
+    },
+    {
+      "materia": "Geografia",
+      "pergunta": "Segundo a OMS (Organização Mundial de Saúde) qual as duas principais causas de morte de adolecentes e jovens brasileiros",
+      "alternativas": [
+        "Violência doméstica e acientes de ônibus",
+        "Violência interpessoal e acidentes de trânsito",
+        "Acidentes de bicicleta e violência urbana",
+        "Brigas e violência interpessoal"
+      ],
+      "alternativa_correta": 1
+    },
+    {
+      "materia": "Geografia",
+      "pergunta": "As brigas entre jovens e a prática do bullying são consideradas violência interpessoal?",
+      "alternativas": [
+        "Verdadeiro",
+        "Falso"
+      ],
+      "alternativa_correta": 0
+    },
+    {
+      "materia": "Geografia",
+      "pergunta": "É incomum casos de acidente de trânsito envolvendo veículos dirigidos por jovens?",
+      "alternativas": [
+        "Verdadeiro",
+        "Falso"
+      ],
+      "alternativa_correta": 1
+    },
+    {
+      "materia": "Geografia",
+      "pergunta": "A ausência de habilitação para dirigir pode levar à ocorrência de acidentes fatais?",
+      "alternativas": [
+        "Verdadeiro",
+        "Falso"
+      ],
+      "alternativa_correta": 0
+    }                                                                                     
+
+
+  ]
