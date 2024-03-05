@@ -162,23 +162,12 @@
     },
     {
         "materia": "História",
-        "pergunta": "O que as cheias do Nilo proporcionavam para a agricultura no Egito Antigo?",
+        "pergunta": "O que as cheias do Nilo proporcionavam para o Egito Antigo?",
         "alternativas": [
-            "Solo encharcado",
+            "Piora a terra para o plantio",
             "Depósitos de areia",
-            "Nutrientes fertilizantes",
+            "Boas condições para a prática da agricultura",
             "Deserto árido"
-        ],
-        "alternativa_correta": 2
-    },
-    {
-        "materia": "História",
-        "pergunta": "Qual é a importância das cheias do Nilo para a população que vive às suas margens hoje em dia?",
-        "alternativas": [
-            "Abastecimento de água potável",
-            "Proteção contra enchentes",
-            "Fornecimento de nutrientes para a agricultura",
-            "Rota de navegação"
         ],
         "alternativa_correta": 2
     },
@@ -192,17 +181,6 @@
             "O rio diminui de largura"
         ],
         "alternativa_correta": 1
-    },
-    {
-        "materia": "História",
-        "pergunta": "Qual é a importância das cheias anuais do Nilo para a sociedade antiga?",
-        "alternativas": [
-            "Proteção contra invasões",
-            "Previsão do calendário",
-            "Fornecimento de terra fértil para a agricultura",
-            "Abastecimento de água potável"
-        ],
-        "alternativa_correta": 2
     },
     {
         "materia": "História",
@@ -313,17 +291,6 @@
             "Egito, Etiópia, Uganda e China"
         ],
         "alternativa_correta": 0
-    },
-    {
-        "materia": "História",
-        "pergunta": "Que povo construiu suas moradias às margens do Nilo?",
-        "alternativas": [
-            "Astecas",
-            "Povos do Nordeste da África",
-            "Sumérios",
-            "Vikings"
-        ],
-        "alternativa_correta": 1
     },
     {
         "materia": "História",
@@ -450,7 +417,7 @@
       "materia": "História",
       "pergunta": "Quais produtos os Garamantes produziam além da agricultura?",
       "alternativas": [
-        "Azeite de oliva e vinhos.",
+        "Azeitonas, das quais extraíam o azeite de oliva.",
         "Cerveja e licores.",
         "Carvão e ferro.",
         "Instrumentos de metal e azeite de oliva."
@@ -462,7 +429,7 @@
       "pergunta": "Onde se localiza a maior população tuaregue do Saara?",
       "alternativas": [
         "Argélia e Marrocos.",
-        "Níger, Mali, Líbia e Argélia.",
+        "Entre a Líbia, a Argélia, o Mali e o Níger",
         "Egito e Sudão.",
         "Quênia e Tanzânia."
       ],
@@ -470,20 +437,9 @@
     },
     {
       "materia": "História",
-      "pergunta": "Qual é a principal atividade econômica dos Tuaregues?",
-      "alternativas": [
-        "Mineração de ouro.",
-        "Comércio de camelos.",
-        "Agricultura.",
-        "Criação de gado e dromedários."
-      ],
-      "alternativa_correta": 3
-    },
-    {
-      "materia": "História",
       "pergunta": "Qual é a vestimenta tradicional dos homens tuaregues?",
       "alternativas": [
-        "Turbante de índigo.",
+        "Roupas largas e compridas e turbante de índigo.",
         "Túnica e sandálias.",
         "Roupas de seda.",
         "Capas de pele de cabra."
@@ -506,7 +462,7 @@
       "pergunta": "Como são feitas as habitações dos tuaregues?",
       "alternativas": [
         "Casas de tijolos.",
-        "Tendas de palmeira e peles de cabra.",
+        "Fíbra trançadas de palmeira e peles de cabra.",
         "Cabanas de barro.",
         "Casas de pedra."
       ],
@@ -536,78 +492,12 @@
     },
     {
       "materia": "História",
-      "pergunta": "Qual era a principal atividade econômica dos Garamantes em relação ao comércio?",
-      "alternativas": [
-        "Comércio de ouro",
-        "Comércio de especiarias",
-        "Comércio de tecidos",
-        "Comércio de sal"
-      ],
-      "alternativa_correta": 3
-    },
-    {
-      "materia": "História",
-      "pergunta": "Como eram as cidades fortificadas dos Garamantes?",
-      "alternativas": [
-        "Com torres de observação",
-        "Com muralhas de até quatro metros de altura",
-        "Com sistemas de defesa aérea",
-        "Com labirintos subterrâneos"
-      ],
-      "alternativa_correta": 1
-    },
-    {
-      "materia": "História",
-      "pergunta": "Quais eram os principais produtos agrícolas dos Garamantes?",
-      "alternativas": [
-        "Trigo, arroz e batata",
-        "Cevada, uvas e figos",
-        "Milho, feijão e abóbora",
-        "Cenoura, beterraba e alface"
-      ],
-      "alternativa_correta": 1
-    },
-    {
-      "materia": "História",
-      "pergunta": "Qual era a principal atividade econômica dos Tuaregues além da agricultura?",
-      "alternativas": [
-        "Pesca",
-        "Mineração",
-        "Criação de gado e dromedários",
-        "Fabricação de cerâmica"
-      ],
-      "alternativa_correta": 2
-    },
-    {
-      "materia": "História",
-      "pergunta": "Qual é a importância dos camelos para os Tuaregues?",
-      "alternativas": [
-        "Meio de transporte e comércio",
-        "Animal sagrado em suas crenças",
-        "Principal fonte de alimentação",
-        "Utilizado como moeda de troca"
-      ],
-      "alternativa_correta": 0
-    },
-    {
-      "materia": "História",
       "pergunta": "Qual era o material usado na construção das habitações dos Tuaregues?",
       "alternativas": [
         "Pedra e argamassa",
         "Madeira e barro",
         "Fibras trançadas de palmeira e peles de cabra",
         "Tijolos de adobe"
-      ],
-      "alternativa_correta": 2
-    },
-    {
-      "materia": "História",
-      "pergunta": "Como os Tuaregues se protegem das condições climáticas adversas?",
-      "alternativas": [
-        "Vestindo roupas leves",
-        "Utilizando chapéus de palha",
-        "Usando turbantes e roupas compridas",
-        "Fazendo fogueiras constantemente"
       ],
       "alternativa_correta": 2
     },
