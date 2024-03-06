@@ -138,7 +138,7 @@
             "A cada 366 dias",
             "De 1 em 1 anos"
         ],
-        "alternativa_correta": 2
+        "alternativa_correta": 1
     },
     {
         "materia": "Ciências",
@@ -160,7 +160,7 @@
             "Total, Parcial e Penumbral",
             "Parcial, Penubral e Cinzenta"
         ],
-        "alternativa_correta": 2
+        "alternativa_correta": 3
     },
     {
         "materia": "Ciências",
@@ -224,7 +224,7 @@
             "Verdadeiro",
             "Falso"
         ],
-        "alternativa_correta": 1
+        "alternativa_correta": 0
     },
     {
         "materia": "Ciências",
