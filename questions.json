@@ -23,6 +23,15 @@
     },
     {
         "materia": "Ciências",
+        "pergunta": "A responsabilidade de cuidar do planeta não é exclusiva de uma pessoa, mas de todos aqueles que utilizam os bens naturais disponíveis.",
+        "alternativas": [
+            "Verdadeiro",
+            "Falso"
+        ],
+        "alternativa_correta": 0
+    },	
+    {
+        "materia": "Ciências",
         "pergunta": "Quantos movimentos a Terra realiza e quais são?",
         "alternativas": [
             "Um movimento, de rotação",
@@ -32,6 +41,17 @@
         ],
         "alternativa_correta": 1
     },
+    {
+        "materia": "Ciências",
+        "pergunta": "Qual movimento realizado pela Terra é responsável pela alternância entre os dias e as noites?",
+        "alternativas": [
+            "Rotação",
+            "Translação",
+            "Oscilação",
+            "Revolução"
+        ],
+        "alternativa_correta": 0
+    },	
     {
         "materia": "Ciências",
         "pergunta": "O que é rotação?",
@@ -47,12 +67,12 @@
         "materia": "Ciências",
         "pergunta": "Qual a duração da rotação?",
         "alternativas": [
-            "24 horas",
             "365 dias",
             "4 horas",
+            "24 horas",
             "1 ano"
         ],
-        "alternativa_correta": 0
+        "alternativa_correta": 2
     },
     {
         "materia": "Ciências",
@@ -76,6 +96,17 @@
         ],
         "alternativa_correta": 1
     },
+    {
+        "materia": "Ciências",
+        "pergunta": "O que é Geocentrismos?",
+        "alternativas": [
+            "Um eclipse solar",
+            "Dia Mundial da Terra",
+            "Teoria que a terra é redonda",
+            "Teoria que acreditava que a Terra era o centro do Universo"
+        ],
+        "alternativa_correta": 3
+    },	
     {
         "materia": "Ciências",
         "pergunta": "Como funciona o ano bissexto?",
@@ -169,11 +200,11 @@
         "pergunta": "Quias são as estações do ano?",
         "alternativas": [
             "Primavera, Verão, Outubro e Dezembro",
-            "Primavera, Verão, Outono e Inverno",
             "Primavera, Vera, Outubro e Inverno",
+            "Primavera, Verão, Outono e Inverno",
             "Primavera, Chuvoso, Seco e Verão"
         ],
-        "alternativa_correta": 1
+        "alternativa_correta": 2
     },
     {
         "materia": "Ciências",
@@ -183,6 +214,15 @@
             "Seco e Chuvosa",
             "Chuvosa e Inverno",
             "Neve e Chuvosa"
+        ],
+        "alternativa_correta": 1
+    },
+	    {
+        "materia": "Ciências",
+        "pergunta": "No Brasil, um país de grande extensão territorial, as quatro estações apresentam características distintas nas diferentes regiões.",
+        "alternativas": [
+            "Verdadeiro",
+            "Falso"
         ],
         "alternativa_correta": 1
     },
