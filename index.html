@@ -22,6 +22,18 @@
 <body>
     <h1>Simulado</h1>
 
+    <div>
+        <label for="materia">Matéria:</label>
+        <select id="materia">
+            <option value="">Selecione uma matéria</option>
+        </select>
+    </div>
+    <div>
+        <label for="capitulo">Capítulo:</label>
+        <select id="capitulo">
+            <option value="">Selecione um capítulo</option>
+        </select>
+    </div>
 
     <ul id="perguntas-list"></ul>
     <!-- Aqui você vai adicionar as perguntas e alternativas -->
@@ -31,63 +43,112 @@
     <br><br>
     <h1 id="resultado"></h1> <!-- Resultado final será exibido aqui -->
 
-
     <script>
         const respostas = []; // Array para armazenar as respostas do usuário
+        let perguntasFiltradas = []; // Array para armazenar perguntas filtradas
 
         fetch('questions.json')
             .then(response => response.json())
             .then(data => {
-                // Embaralha as perguntas
-                const perguntasOrdenadas = shuffleArray(data);
+                const materiasDropdown = document.getElementById('materia');
+                const capituloDropdown = document.getElementById('capitulo');
 
-                const perguntasList = document.getElementById('perguntas-list');
+                // Preenche o dropdown de matérias
+                for (const materia in data.materias) {
+                    const option = document.createElement('option');
+                    option.textContent = materia;
+                    materiasDropdown.appendChild(option);
+                }
 
-                perguntasOrdenadas.forEach((pergunta, index) => {
-                    const li = document.createElement('li');
-                    const tituloPergunta = document.createElement('strong');
-                    tituloPergunta.textContent = `Questão ${index + 1}: `;
-                    li.appendChild(tituloPergunta);
-                    li.appendChild(document.createTextNode(pergunta.pergunta));
+                // Atualiza o dropdown de capítulos ao selecionar uma matéria
+                materiasDropdown.addEventListener('change', () => {
+                    const selectedMateria = materiasDropdown.value;
+                    capituloDropdown.innerHTML = '<option value="">Selecione um capítulo</option>'; // Limpa o dropdown de capítulos
 
-                    // Crie uma lista de alternativas
-                    const ulAlternativas = document.createElement('ul');
-                    pergunta.alternativas.forEach((alternativa, altIndex) => {
-                        const liAlternativa = document.createElement('li');
-                        liAlternativa.textContent = alternativa;
+                    if (selectedMateria) {
+                        const capitulos = data.materias[selectedMateria].capitulo;
 
-                        // Adicione um input radio para cada alternativa
-                        const inputRadio = document.createElement('input');
-                        inputRadio.type = 'radio';
-                        inputRadio.name = `pergunta-${index}`; // Adicione um ID único para cada pergunta
-                        inputRadio.value = altIndex; // Valor da alternativa
-                        liAlternativa.insertBefore(inputRadio, liAlternativa.firstChild); // Insere antes do texto da alternativa
-
-                        ulAlternativas.appendChild(liAlternativa);
-                    });
-
-                    // Adicione a lista de alternativas à pergunta
-                    li.appendChild(ulAlternativas);
-
-                    // Espaçamento entre a questão e as alternativas
-                    const espacamento = document.createElement('div');
-                    espacamento.className = 'espacamento';
-                    li.appendChild(espacamento);
-
-                    // Informação de resposta correta/incorreta
-                    const respostaInfo = document.createElement('p');
-                    respostaInfo.style.display = 'none'; // Inicialmente escondido
-                    li.appendChild(respostaInfo);
-
-                    perguntasList.appendChild(li);
-
-                    // Adiciona a resposta à array de respostas
-                    respostas.push({
-                        pergunta: index + 1,
-                        resposta_correta: pergunta.alternativa_correta,
-                        resultado: null // inicialmente nulo, será atualizado posteriormente
-                    });
+                        for (const capitulo in capitulos) {
+                            const option = document.createElement('option');
+                            option.textContent = capitulo;
+                            capituloDropdown.appendChild(option);
+                        }
+                    }
                 });
+
+                // Filtra e exibe as perguntas ao selecionar um capítulo
+                capituloDropdown.addEventListener('change', () => {
+                    const selectedMateria = materiasDropdown.value;
+                    const selectedCapitulo = capituloDropdown.value;
+
+                    if (selectedMateria && selectedCapitulo) {
+                        const perguntas = data.materias[selectedMateria].capitulo[selectedCapitulo].questoes;
+                        renderizarPerguntas(perguntas);
+                    } else {
+                        limparPerguntas();
+                    }
+                });
+
+                // Função para renderizar perguntas na tela
+                function renderizarPerguntas(perguntas) {
+                    limparPerguntas();
+
+                    perguntasFiltradas = shuffleArray(perguntas.slice()); // Embaralha e copia as perguntas filtradas
+
+                    perguntasFiltradas.forEach((pergunta, index) => {
+                        const li = document.createElement('li');
+                        const tituloPergunta = document.createElement('strong');
+                        tituloPergunta.textContent = `Questão ${index + 1}: `;
+                        li.appendChild(tituloPergunta);
+                        li.appendChild(document.createTextNode(pergunta.pergunta));
+
+                        // Crie uma lista de alternativas
+                        const ulAlternativas = document.createElement('ul');
+                        pergunta.alternativas.forEach((alternativa, altIndex) => {
+                            const liAlternativa = document.createElement('li');
+                            liAlternativa.textContent = alternativa;
+
+                            // Adicione um input radio para cada alternativa
+                            const inputRadio = document.createElement('input');
+                            inputRadio.type = 'radio';
+                            inputRadio.name = `pergunta-${index}`; // Adicione um ID único para cada pergunta
+                            inputRadio.value = altIndex; // Valor da alternativa
+                            liAlternativa.insertBefore(inputRadio, liAlternativa.firstChild); // Insere antes do texto da alternativa
+
+                            ulAlternativas.appendChild(liAlternativa);
+                        });
+
+                        // Adicione a lista de alternativas à pergunta
+                        li.appendChild(ulAlternativas);
+
+                        // Espaçamento entre a questão e as alternativas
+                        const espacamento = document.createElement('div');
+                        espacamento.className = 'espacamento';
+                        li.appendChild(espacamento);
+
+                        // Informação de resposta correta/incorreta
+                        const respostaInfo = document.createElement('p');
+                        respostaInfo.style.display = 'none'; // Inicialmente escondido
+                        li.appendChild(respostaInfo);
+
+                        const perguntasList = document.getElementById('perguntas-list');
+                        perguntasList.appendChild(li);
+
+                        // Adiciona a resposta à array de respostas
+                        respostas.push({
+                            pergunta: index + 1,
+                            resposta_correta: pergunta.alternativa_correta,
+                            resultado: null // inicialmente nulo, será atualizado posteriormente
+                        });
+                    });
+                }
+
+                // Função para limpar as perguntas da tela
+                function limparPerguntas() {
+                    const perguntasList = document.getElementById('perguntas-list');
+                    perguntasList.innerHTML = '';
+                    respostas.length = 0; // Limpa o array de respostas
+                }
 
                 // Adiciona um evento de clique para o botão "Enviar Respostas"
                 document.getElementById('enviar-respostas').addEventListener('click', () => {
@@ -146,48 +207,7 @@
 
                     document.getElementById('resultado').textContent = '';
 
-                    // Embaralha e reexibe as perguntas
-                    const perguntasList = document.getElementById('perguntas-list');
-                    perguntasList.innerHTML = '';
-                    const perguntasEmbaralhadas = shuffleArray(perguntasOrdenadas);
-                    perguntasEmbaralhadas.forEach((pergunta, index) => {
-                        const li = document.createElement('li');
-                        const tituloPergunta = document.createElement('strong');
-                        tituloPergunta.textContent = `Questão ${index + 1}: `;
-                        li.appendChild(tituloPergunta);
-                        li.appendChild(document.createTextNode(pergunta.pergunta));
-
-                        // Crie uma lista de alternativas
-                        const ulAlternativas = document.createElement('ul');
-                        pergunta.alternativas.forEach((alternativa, altIndex) => {
-                            const liAlternativa = document.createElement('li');
-                            liAlternativa.textContent = alternativa;
-
-                            // Adicione um input radio para cada alternativa
-                            const inputRadio = document.createElement('input');
-                            inputRadio.type = 'radio';
-                            inputRadio.name = `pergunta-${index}`; // Adicione um ID único para cada pergunta
-                            inputRadio.value = altIndex; // Valor da alternativa
-                            liAlternativa.insertBefore(inputRadio, liAlternativa.firstChild); // Insere antes do texto da alternativa
-
-                            ulAlternativas.appendChild(liAlternativa);
-                        });
-
-                        // Adicione a lista de alternativas à pergunta
-                        li.appendChild(ulAlternativas);
-
-                        // Espaçamento entre a questão e as alternativas
-                        const espacamento = document.createElement('div');
-                        espacamento.className = 'espacamento';
-                        li.appendChild(espacamento);
-
-                        // Informação de resposta correta/incorreta
-                        const respostaInfo = document.createElement('p');
-                        respostaInfo.style.display = 'none'; // Inicialmente escondido
-                        li.appendChild(respostaInfo);
-
-                        perguntasList.appendChild(li);
-                    });
+                    limparPerguntas();
                 });
             })
             .catch(error => console.error('Erro ao carregar as perguntas:', error));
