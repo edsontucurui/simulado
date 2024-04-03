@@ -1,240 +1,286 @@
-[
-    {
-        "materia": "Ciências",
-        "pergunta": "Quais são os fatores peculiares do planeta Terra que contribuem para a existência de vida?",
-        "alternativas": [
-            "Existência de água, atmosfera adequada, atuação da gravidade, distância em relação ao Sol e influência da Lua nas marés",
-            "Atmosfera densa, distância em relação à Lua, órbita elíptica e influência das estações do ano",
-            "Presença de oxigênio, órbita circular, ejeção constante de material vulcânico e movimento de translação rápida",
-            "Atmosfera densa, existência de luas orbitando o planeta e grande quantidade de crateras"
-        ],
-        "alternativa_correta": 0
-    },
-    {
-        "materia": "Ciências",
-        "pergunta": "Qual é o principal objetivo do Dia Mundial da Terra?",
-        "alternativas": [
-            "Promover a conscientização sobre a importância das estações do ano",
-            "Celebrar o movimento de rotação da Terra",
-            "Defender o meio ambiente e a preservação dos recursos naturais",
-            "Destacar a importância da exploração espacial"
-        ],
-        "alternativa_correta": 2
-    },
-    {
-        "materia": "Ciências",
-        "pergunta": "A responsabilidade de cuidar do planeta não é exclusiva de uma pessoa, mas de todos aqueles que utilizam os bens naturais disponíveis.",
-        "alternativas": [
-            "Verdadeiro",
-            "Falso"
-        ],
-        "alternativa_correta": 0
-    },	
-    {
-        "materia": "Ciências",
-        "pergunta": "Quantos movimentos a Terra realiza e quais são?",
-        "alternativas": [
-            "Um movimento, de rotação",
-            "Dois movimentos, de rotação e translação",
-            "Três movimentos, de rotação, translação e oscilação",
-            "Quatro movimentos, de rotação, translação, revolução e precessão"
-        ],
-        "alternativa_correta": 1
-    },
-    {
-        "materia": "Ciências",
-        "pergunta": "Qual movimento realizado pela Terra é responsável pela alternância entre os dias e as noites?",
-        "alternativas": [
-            "Rotação",
-            "Translação",
-            "Oscilação",
-            "Revolução"
-        ],
-        "alternativa_correta": 0
-    },	
-    {
-        "materia": "Ciências",
-        "pergunta": "O que é rotação?",
-        "alternativas": [
-            "Movimento da Terra que gira em torno de si mesma",
-            "Movimento da Terra girando em torno do Sol",
-            "Movimento da Terra girando em torno da Lua",
-            "Movimento da Terra girando e parando"
-        ],
-        "alternativa_correta": 0
-    },
-    {
-        "materia": "Ciências",
-        "pergunta": "Qual a duração da rotação?",
-        "alternativas": [
-            "365 dias",
-            "4 horas",
-            "24 horas",
-            "1 ano"
-        ],
-        "alternativa_correta": 2
-    },
-    {
-        "materia": "Ciências",
-        "pergunta": "Qual a duração da translação?",
-        "alternativas": [
-            "24 horas",
-            "365 dias e seis horas",
-            "4 horas",
-            "1 ano"
-        ],
-        "alternativa_correta": 1
-    },
-    {
-        "materia": "Ciências",
-        "pergunta": "Quem foi o cientista que propôs o modelo heliocêntrico do Sistema Solar?",
-        "alternativas": [
-            "Galileu Galilei",
-            "Nicolau Copérnico",
-            "Isaac Newton",
-            "Johannes Kepler"
-        ],
-        "alternativa_correta": 1
-    },
-    {
-        "materia": "Ciências",
-        "pergunta": "O que é Geocentrismos?",
-        "alternativas": [
-            "Um eclipse solar",
-            "Dia Mundial da Terra",
-            "Teoria que a terra é redonda",
-            "Teoria que acreditava que a Terra era o centro do Universo"
-        ],
-        "alternativa_correta": 3
-    },	
-    {
-        "materia": "Ciências",
-        "pergunta": "Como funciona o ano bissexto?",
-        "alternativas": [
-            "É um ano com menos dias que o normal",
-            "É um ano com mais horas de luz solar",
-            "É um ano com um dia a mais, acrescentado em fevereiro",
-            "É um ano com um dia a menos, subtraído de fevereiro"
-        ],
-        "alternativa_correta": 2
-    },
-    {
-        "materia": "Ciências",
-        "pergunta": "Quantos dias tem o ano bissexto?",
-        "alternativas": [
-            "364 dias",
-            "365 dias",
-            "366 dias",
-            "367 dias"
-        ],
-        "alternativa_correta": 2
-    },
-    {
-        "materia": "Ciências",
-        "pergunta": "O ano bissexto acontece de quanto em quanto tempo?",
-        "alternativas": [
-            "Diariamente",
-            "De 4 em 4 anos",
-            "A cada 366 dias",
-            "De 1 em 1 anos"
-        ],
-        "alternativa_correta": 1
-    },
-    {
-        "materia": "Ciências",
-        "pergunta": "O que é um eclipse?",
-        "alternativas": [
-            "É a ocultação total do Sol pela Lua",
-            "É o movimento da Terra ao redor do Sol",
-            "É a inversão dos polos magnéticos",
-            "É a movimentação de um corpo celeste sobre outro"
-        ],
-        "alternativa_correta": 3
-    },
-    {
-        "materia": "Ciências",
-        "pergunta": "Quais os tipos de eclipse lunar?",
-        "alternativas": [
-            "Total, Medial e Parcial",
-            "Total, Parcial e Escuro",
-            "Total, Parcial e Penumbral",
-            "Parcial, Penubral e Cinzenta"
-        ],
-        "alternativa_correta": 2
-    },
-    {
-        "materia": "Ciências",
-        "pergunta": "O que causa um eclipse solar?",
-        "alternativas": [
-            "A Lua se posiciona entre a Terra e o Sol",
-            "A Terra se posiciona entre a Lua e o Sol",
-            "A Terra fica na sombra da Lua",
-            "O Sol fica oculto, podendo ser total, parcial ou anular"
-        ],
-        "alternativa_correta": 0
-    },
-    {
-        "materia": "Ciências",
-        "pergunta": "Quais os tipos de eclipse solar?",
-        "alternativas": [
-            "Total, Medial e Parcial",
-            "Total, Parcial e Anular",
-            "Total, Parcial e Penumbral",
-            "Parcial, Penubral e Anular"
-        ],
-        "alternativa_correta": 1
-    },
-    {
-        "materia": "Ciências",
-        "pergunta": "Qual é o principal fator que determina a quantidade de luz solar recebida pelos hemisférios Norte e Sul?",
-        "alternativas": [
-            "A distância em relação ao Sol",
-            "A inclinação do eixo de rotação da Terra",
-            "A velocidade de translação da Terra",
-            "A influência das estações do ano"
-        ],
-        "alternativa_correta": 1
-    },
-    {
-        "materia": "Ciências",
-        "pergunta": "Quias são as estações do ano?",
-        "alternativas": [
-            "Primavera, Verão, Outubro e Dezembro",
-            "Primavera, Vera, Outubro e Inverno",
-            "Primavera, Verão, Outono e Inverno",
-            "Primavera, Chuvoso, Seco e Verão"
-        ],
-        "alternativa_correta": 2
-    },
-    {
-        "materia": "Ciências",
-        "pergunta": "Na Linha do Equador há apenas duas estações, quais sejam:",
-        "alternativas": [
-            "Primavera e Verão",
-            "Seco e Chuvosa",
-            "Chuvosa e Inverno",
-            "Neve e Chuvosa"
-        ],
-        "alternativa_correta": 1
-    },
-	    {
-        "materia": "Ciências",
-        "pergunta": "No Brasil, um país de grande extensão territorial, as quatro estações apresentam características distintas nas diferentes regiões.",
-        "alternativas": [
-            "Verdadeiro",
-            "Falso"
-        ],
-        "alternativa_correta": 0
-    },
-    {
-        "materia": "Ciências",
-        "pergunta": "Qual influência das estações do ano no preço dos alimento?",
-        "alternativas": [
-            "Não há impacto ",
-            "Os preços só aumentam",
-            "Os preços só diminuem",
-            "Os preços aumentam ou diminuem"
-        ],
-        "alternativa_correta": 3
+{
+  "materias": {
+    "História": {
+      "capitulo": {
+        "2 - A vida nas montanhas": {
+          "questoes": [
+            {
+              "pergunta": "Qual o principal produto agrícola cultivado pelos hmongs em terraços nas montanhas?",
+              "alternativas": [
+                "Trigo",
+                "Arroz",
+                "Milho",
+                "Batata"
+              ],
+              "alternativa_correta": 1
+            },
+            {
+              "pergunta": "Qual é a cidade mais movimentada na região das montanhas, mencionada no capitulo?",
+              "alternativas": [
+                "Sapa",
+                "Hanoi",
+                "Bangkok",
+                "Xangai"
+              ],
+              "alternativa_correta": 0
+            },
+            {
+              "pergunta": "Como é chamada a vestimenta produzida pela etnia black hmong?",
+              "alternativas": [
+                "Vestimenta de seda",
+                "Vestimenta de algodão",
+                "Vestimenta de linho",
+                "Vestimenta de indigo"
+              ],
+              "alternativa_correta": 3
+            },
+            {
+              "pergunta": "Quem é responsável por cuidar da viúva e dos filhos do falecido na cultura hmong?",
+              "alternativas": [
+                "O pai da viúva",
+                "A própria viúva",
+                "O clã do marido falecido",
+                "O clã da viúva"
+              ],
+              "alternativa_correta": 2
+            },
+            {
+              "pergunta": "O que é o dote que a família do noivo precisa oferecer à família da noiva na cultura hmong?",
+              "alternativas": [
+                "Terras",
+                "Animais",
+                "Dinheiro",
+                "Joias"
+              ],
+              "alternativa_correta": 2
+            },
+            {
+              "pergunta": "Qual é a altura aproximada do Monte Everest?",
+              "alternativas": [
+                "6.500 metros",
+                "7.850 metros",
+                "8.850 metros",
+                "9.500 metros"
+              ],
+              "alternativa_correta": 2
+            },
+            {
+              "pergunta": "Quem foi o primeiro a atingir o cume do Everest?",
+              "alternativas": [
+                "Maurice Herzog",
+                "Edmund Hillary",
+                "Tensing Norgay",
+                "Waldemar Niclewicz"
+              ],
+              "alternativa_correta": 1
+            },
+            {
+              "pergunta": "Onde se localiza o Himalaia? ",
+              "alternativas": [
+                "No continente americando, entre Canadé e México",
+                "No continente europeu, entre Portugal e França",
+                "No continente asiático, entre o Paquistão, a Ìndia, a China, O Nepal e o Butão.",
+                "No continente asiático, entre a China e Rússia"
+              ],
+              "alternativa_correta": 2
+            },
+            {
+              "pergunta": "Quem são os sherpas?",
+              "alternativas": [
+                "Povos nômades do Himalaia",
+                "Povos agricultores do Vietnã",
+                "Povos mercadores da China",
+                "Povos montanheses do Nepal"
+              ],
+              "alternativa_correta": 3
+            },
+            {
+              "pergunta": "As mulheres da etnia flower hmong fazem tecidos:",
+              "alternativas": [
+                "Bordados e multicoloridos.",
+                "Bordados com apenas uma cor",
+                "Bordados somente com a cor verde",
+                "Bordados somente com a cor azul"
+              ],
+              "alternativa_correta": 0
+            },
+            {
+              "pergunta": "O que significa a palavra Himalaia?",
+              "alternativas": [
+                "Morada das chuvas",
+                "Morada das neves",
+                "Morada do sol",
+                "Morada dos ventos"
+              ],
+              "alternativa_correta": 1
+            },
+            {
+              "pergunta": "Nas montanhas do Himalaia, qual animal é utilizado para puxar as cargas pesadas, além de servir como alimento, produção de artesanato e vestuário?",
+              "alternativas": [
+                "Camelo",
+                "Cavalo",
+                "Iaque",
+                "Ovelha"
+              ],
+              "alternativa_correta": 2
+            },
+            {
+              "pergunta": "Quem eram os indivíduos do grupo sudras ou dalits na antiga sociedade nepalesa?",
+              "alternativas": [
+                "Servos, camponeses, artesãos e operários",
+                "Sacerdotes e intelectuais",
+                "Governantes e guerreiros",
+                "Comerciantes e agricultores"
+              ],
+              "alternativa_correta": 0
+            },
+            {
+              "pergunta": "As comunidades que vivem mais perto do Pico do Everest  tem suas atividades em torno da agricultura nas encostas das montanhas. Quem são eles? ",
+              "alternativas": [
+                "Os Maias",
+                "Os Hmongs",
+                "Os Sherpas",
+                "Os Xátrias"
+              ],
+              "alternativa_correta": 2
+            },
+            {
+              "pergunta": "Quando foi instituído o sistema republicano de governo no Nepal?",
+              "alternativas": [
+                "1947",
+                "1950",
+                "1979",
+                "2006"
+              ],
+              "alternativa_correta": 3
+            },
+            {
+              "pergunta": "O que é o ar rarefeito, mencionado no texto sobre o Himalaia?",
+              "alternativas": [
+                "Ar com pressão atmosférica elevada",
+                "Ar com pressão atmosférica normal",
+                "Ar com pressão atmosférica reduzida",
+                "Ar com pressão atmosférica constante"
+              ],
+              "alternativa_correta": 2
+            },
+            {
+              "pergunta": "Como é a região do Himalaia em relação ao clima e vegetação? ",
+              "alternativas": [
+                "É bastante fria, tem muita neve, pouca vegetação, vendavais frequentes",
+                "É bastante quente, tem pouca neve, muita vegetação, ventos fracos",
+                "É úmida e seco, com muitas arvores e rochas",
+                "É rochoso com muitas arvores e ventos fortes"
+              ],
+              "alternativa_correta": 0
+            },
+            {
+              "pergunta": "Por qual motivo foi o criado o Parque Nacional de Sagarmatha?",
+              "alternativas": [
+                "Para as crianças brincarem",
+                "Para a proteção do parque nacional e para proteção da fauna e flora nativa.",
+                "Para o turismo social",
+                "Para a proteção dos habitantes e turistas"
+              ],
+              "alternativa_correta": 1
+            }
+          ]
+        },
+        "3 - A vida em uma ilha": {
+          "questoes": [
+            {
+              "pergunta": "Em qual oceano as Ilhas Faroé se encontram?",
+              "alternativas": [
+                "Ártico",
+                "Pacífico",
+                "Atlântico",
+                "Índico"
+              ],
+              "alternativa_correta": 2
+            },
+            {
+              "pergunta": "Quantas ilhas compõem esse arquipélago",
+              "alternativas": [
+                "10 ilhas maiores",
+                "18 ilhas e outras menores",
+                "1 ilha e 18 menores",
+                "5 ilhas menores"
+              ],
+              "alternativa_correta": 1
+            },
+            {
+              "pergunta": "As ilhas de Faroé pertencem a qual país?",
+              "alternativas": [
+                "Estados Unidos da América",
+                "Irlândia",
+                "Brasíl",
+                "Dinamarca"
+              ],
+              "alternativa_correta": 3
+            },
+            {
+              "pergunta": "Qual a principal atividade econômica da ilha de Faroé",
+              "alternativas": [
+                "Pesca, Pague e Exportação de fruto do mar ",
+                "Agricultura, Pesca e Miniração",
+                "Pesca, Exportação de fruto do mar e Transporte marítico",
+                "Venda, Pesca e Agricultura"
+              ],
+              "alternativa_correta": 2
+            },
+            {
+              "pergunta": "Como é o solo das Ilhas de Faroé",
+              "alternativas": [
+                "Gramado e Plano",
+                "Montanhoso com Árvores",
+                "Seco e úmido",
+                "Rochoso e sem Árvore"
+              ],
+              "alternativa_correta": 3
+            },
+            {
+              "pergunta": "Como é o clima nas Ilhas de Faroé",
+              "alternativas": [
+                "Frio e Úmido",
+                "Calor e Seco",
+                "Quente e Frio",
+                "Frio e Seco"
+              ],
+              "alternativa_correta": 0
+            } ,
+            {
+              "pergunta": "Em quais meses há mais luz solar e menos chuvas nas Ilhas do Faroé",
+              "alternativas": [
+                "Dezembro e Março",
+                "Junho e Setembro",
+                "Maio e Agosto",
+                "Outubro e Dezembro"
+              ],
+              "alternativa_correta": 1
+            }  ,
+            {
+              "pergunta": "Em quais meses a neve cai nas Ilhas do Faroé",
+              "alternativas": [
+                "Dezembro e Março",
+                "Junho e Setembro",
+                "Maio e Agosto",
+                "Outubro e Dezembro"
+              ],
+              "alternativa_correta": 0
+            }  ,
+            {
+              "pergunta": "As áreas de pastagens nas Ilhas de Faroé favorecem a criação de:",
+              "alternativas": [
+                "Galinhas",
+                "Vacas",
+                "Ovelhas",
+                "Cavalos"
+              ],
+              "alternativa_correta": 2
+            }                                                
+          ]
+        }
+      }
     }
-]
+  }
+}
