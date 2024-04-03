@@ -65,16 +65,6 @@
               "alternativa_correta": 2
             },
             {
-              "pergunta": "Quem foi o primeiro a atingir o cume do Everest?",
-              "alternativas": [
-                "Maurice Herzog",
-                "Edmund Hillary",
-                "Tensing Norgay",
-                "Waldemar Niclewicz"
-              ],
-              "alternativa_correta": 1
-            },
-            {
               "pergunta": "Onde se localiza o Himalaia? ",
               "alternativas": [
                 "No continente americando, entre Canadé e México",
@@ -183,7 +173,101 @@
                 "Para a proteção dos habitantes e turistas"
               ],
               "alternativa_correta": 1
-            }
+            },
+            {
+              "pergunta": "Os lagos da região do Himalaia são alimentados pelo degelo das encostas das montanhas",
+              "alternativas": [
+                "Verdadeiro",
+                "Falso"
+              ],
+              "alternativa_correta": 0
+            },
+            {
+              "pergunta": "Os Sherpas são uma comunidade que vivem no pico do Everest e eles vivem a 3.962 m de altitude do vale do Khumbu.",
+              "alternativas": [
+                "Verdadeiro",
+                "Falso"
+              ],
+              "alternativa_correta": 0
+            },
+            {
+              "pergunta": "O que são os Iaques é uma espécie de Camelo domesticado para puxar cargas pesadas e da também leite e a carne.",
+              "alternativas": [
+                "Verdadeiro",
+                "Falso"
+              ],
+              "alternativa_correta": 1
+            },
+            {
+              "pergunta": "Em que ano foi abolida a sociedade de castas na Índia? Por qual motivo?",
+              "alternativas": [
+                "No ano de 2006, no ano que foi intituido o sistema republicano",
+                "No ano de 1947, por causa das mudanças políticas e nas leis do país.",
+                "No ano de 2023, no ano das Olimpiadas",
+                "No ano de 1950, no ano que o desafio de atingir o topo do Monte Evereste foi superado"
+              ],
+              "alternativa_correta": 1
+            },
+            {
+              "pergunta": "Como funcionava a sociedade de castas no Nepal?",
+              "alternativas": [
+                "Cada casta defini o povo mais rico da sociedade",
+                "As castas elege o Rei.",
+                "Cada casta define quem é o governante",
+                "Cada casta define a origem e a função dos integrantes exercerão na sociedade."
+              ],
+              "alternativa_correta": 3
+            },
+            {
+              "pergunta": "o que são Brâmanes",
+              "alternativas": [
+                "Reis e Mestres",
+                "Intelectual e sacerdotal",
+                "Agricultores e Servos",
+                "Guerreiros e Medrosos"
+              ],
+              "alternativa_correta": 1
+            },
+            {
+              "pergunta": "o que são Xátrias",
+              "alternativas": [
+                "Guerreiros e os Governantes",
+                "Intelectual e sacerdotal",
+                "Agricultores e Servos",
+                "Guerreiros e Medrosos"
+              ],
+              "alternativa_correta": 0
+            },
+            {
+              "pergunta": "o que são Vaixás",
+              "alternativas": [
+                "Guerreiros e os Governantes",
+                "Intelectual e sacerdotal",
+                "Agricultores, os pastores e os Comerciantes",
+                "Guerreiros e Medrosos"
+              ],
+              "alternativa_correta": 2
+            },
+            {
+              "pergunta": "o que são Sudras ou Dalits",
+              "alternativas": [
+                "Os servos, os camponeses, os artesões e os operários",
+                "Intelectual e sacerdotal",
+                "Agricultores, os pastores e os Comerciantes",
+                "Guerreiros e Medrosos"
+              ],
+              "alternativa_correta": 0
+            },
+            {
+              "pergunta": "Quais são as etnias hmongs?",
+              "alternativas": [
+                "Black, Blue, Brown, Dog e Flower",
+                "White, Red, Yellow, Black e Flower",
+                "Black, White, Red, Green e Flower",
+                "Green, White, Yellow, Red e Black"
+              ],
+              "alternativa_correta": 2
+            }                           
           ]
         },
         "3 - A vida em uma ilha": {
@@ -199,7 +283,7 @@
               "alternativa_correta": 2
             },
             {
-              "pergunta": "Quantas ilhas compõem esse arquipélago",
+              "pergunta": "Quantas ilhas compõem esse arquipélago de Faroé",
               "alternativas": [
                 "10 ilhas maiores",
                 "18 ilhas e outras menores",
@@ -277,7 +361,15 @@
                 "Cavalos"
               ],
               "alternativa_correta": 2
-            }                                                
+            },
+            {
+              "pergunta": "Os habitantes da Ilha constroem suas casas com grama em cima do telhado, para ajudar a mantê-las mais aquecida",
+              "alternativas": [
+                "Verdadeiro",
+                "Falso"
+              ],
+              "alternativa_correta": 0
+            }                                       
           ]
         }
       }
