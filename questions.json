@@ -373,6 +373,195 @@
           ]
         }
       }
+    },
+    "Geografia": {
+      "capitulo": {
+        "2 - Ter ou não ter filhos": {
+          "questoes": [
+            {
+              "pergunta": "O que são pirâmides etárias?",
+              "alternativas": [
+                "Gráfico onde são apresentadas as informações de idade da população",
+                "Gráfico onde são apresentadas as informações de gêneros da população",
+                "Gráfico onde são apresentadas as informações de estado do Brasíl",
+                "Gráfico onde são apresentadas as informações de cidades do Brasil"
+              ],
+              "alternativa_correta": 0
+            },
+            {
+              "pergunta": "Por que é importente conhecer a idade dos Brasileiros",
+              "alternativas": [
+                "Para fazer a contagem por idade",
+                "Ter Informações de gêneros da população",
+                "Para conhecer necessidade de cada grupo que devem ser atendida",
+                "Para ver qual é o maior grupo"
+              ],
+              "alternativa_correta": 2
+            },
+            {
+              "pergunta": "O número de filhos diminuiu nos ultimos anos porque muitas famílias que viviam no campo passaram a viver na cidade",
+              "alternativas": [
+                "Verdadeiro",
+                "Falso"
+              ],
+              "alternativa_correta": 0
+            },
+            {
+              "pergunta": "O número de filhos diminuiu nos ultimos anos porque o governo proibiu o nascimento de muitas crianças",
+              "alternativas": [
+                "Verdadeiro",
+                "Falso"
+              ],
+              "alternativa_correta": 1
+            },
+            {
+              "pergunta": "O número de filhos diminuiu nos ultimos anos porque foram disponibilizado métodos de prevenção à gravidez",
+              "alternativas": [
+                "Verdadeiro",
+                "Falso"
+              ],
+              "alternativa_correta": 0
+            },
+            {
+              "pergunta": "O número de filhos diminuiu nos ultimos anos porque o custo de um filho ficou ainda maior do que no campo",
+              "alternativas": [
+                "Verdadeiro",
+                "Falso"
+              ],
+              "alternativa_correta": 0
+            }                  
+          ]
+        },
+        "3 - Desafios da população": {
+          "questoes": [
+            {
+              "pergunta": "Qual o nome da Lei criada em 2006 para proteger as mulheres?",
+              "alternativas": [
+                "Lei Mario de Andrade",
+                "Lei Maria da Penha",
+                "Lei Maria da Peia",
+                "Lei Maria da Conceição"
+              ],
+              "alternativa_correta": 1
+            },
+            {
+              "pergunta": "Onde a Mulher vítima de violência tem que ir pedir socorro?",
+              "alternativas": [
+                "No corpo de bombeiros",
+                "Na emissora de televisão",
+                "Na Delegacia de Defesa da Mulher",
+                "No supermercado"
+              ],
+              "alternativa_correta": 2
+            },
+            {
+              "pergunta": "A violência contra mulher é entendida como:",
+              "alternativas": [
+                "Uma ação de pouca gravidade, pois mulheres e homens são igual em tudo",
+                "Todos os atos que as ferem física ou emocionalmente",
+                "Qualquer ação praticada por um homem em relação a uma mulher",
+                "Ações que as impedem de trabalhar, gerar filhos e estudar"
+              ],
+              "alternativa_correta": 1
+            },
+            {
+              "pergunta": "O que significa expectativa de vida",
+              "alternativas": [
+                "O número médio de anos que uma pessoa poderá viver",
+                "E a definição do dia em que a pessoa vai morrer",
+                "O número de pessoas que possuem vida",
+                "A espera de uma vida que vai nascer"
+              ],
+              "alternativa_correta": 0
+            },
+            {
+              "pergunta": "Quais profissões eram essencialmente masculina e passaram a exercidas também por mulheres",
+              "alternativas": [
+                "Médico, babá, dona de casa, policial",
+                "Cozinheiro, agricultor, enfermeiro, professor",
+                "Professor, bombeiro, motorista de ônibus, babá",
+                "Policial, bombeiro, motorista de ônibus, mecânico"
+              ],
+              "alternativa_correta": 3
+            },
+            {
+              "pergunta": "A necessidade financeira de contribuir para o sustento da família, por exemplo, fez com que muitas mulheres começassem a trabalhar fora de casa",
+              "alternativas": [
+                "Verdadeiro",
+                "Falso"
+              ],
+              "alternativa_correta": 0
+            },
+            {
+              "pergunta": "Qual a definição de Geração",
+              "alternativas": [
+                "São grupo familiares, como filhos, pais, netos, bisnetos",
+                "São apenas os pais",
+                "São grupo de familiares e vizinhos",
+                "São grupo de uma escola, como professores, alunos e diretores"
+              ],
+              "alternativa_correta": 0
+            },
+            {
+              "pergunta": "O principal motivos para o aumento da expectativa de vida são:",
+              "alternativas": [
+                "Muita alimentação, refrigerantes e doces",
+                "Acesso a cuidados médicos, programas de prevenção de doenças, alimentação adequada e atividades físicas",
+                "Pouca atividade física e pouca alimentação",
+                "Evitar ir ao médica para não contrair doenças"
+              ],
+              "alternativa_correta": 1
+            },
+            {
+              "pergunta": "O estatuto do idoso resumem em direitos que envolvem: saúde, respeito, alimentação digna e liberdade",
+              "alternativas": [
+                "Verdadeiro",
+                "Falso"
+              ],
+              "alternativa_correta": 0
+            },
+            {
+              "pergunta": "Pela Lei Maria da Penha vários atos são considerados violência, entre eles:",
+              "alternativas": [
+                "Ameaça, gentileza, respeito, humilhação",
+                "Calúnia, obediencia, contrangimento, difamação",
+                "Ameaça, humilhação, violência física, perseguição",
+                "Difamação, gentileza, carinhos, humilhação"
+              ],
+              "alternativa_correta": 2
+            },
+            {
+              "pergunta": "É importante que meninos e meninas assumam igualmente responsabilidades nas tarefas domésticas, pois elas desenvolverão uma série de habilidades importantes.",
+              "alternativas": [
+                "Verdadeiro",
+                "Falso"
+              ],
+              "alternativa_correta": 0
+            },
+            {
+              "pergunta": "Por que é importante que meninos e meninas assumam igualmente responsabilidade nas tarefas domésticas?",
+              "alternativas": [
+                "Para exigir pagamento pelas tarefas",
+                "Para ter organização, responsabilidades, autonomia",
+                "Para ter preguiça, responsabilidade e desobediência",
+                "Para ter responsabilidade e remuneração salarial"
+              ],
+              "alternativa_correta": 2
+            },
+            {
+              "pergunta": "O dia 10 de outubro é considerado o dia de?",
+              "alternativas": [
+                "Dia das crianças",
+                "Dia nacional da luta contra a Violência à Mulher",
+                "Dia do Professor",
+                "Dia nascional da mentira"
+              ],
+              "alternativa_correta": 1
+            }                                      
+          ]
+        }       
+      }
     }
   }
 }
+
