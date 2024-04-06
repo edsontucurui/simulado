@@ -905,7 +905,87 @@
               "1 - Eye, 2 - Ear, 3 - Shoulders, 4 - Leg, 5 - Hands, 6 - Arm"
               ],
               "alternativa_correta": 3
-            }                           
+            },
+            {
+              "pergunta": "What color is coat?",
+              "imagem": {
+                "src": "src/img/clothes.png",
+                "largura": 500,
+                "altura": 100
+            },    
+              "alternativas": [
+              "Blue",
+              "Puple",
+              "Pink",
+              "Red"
+              ],
+              "alternativa_correta": 3
+            },
+            {
+              "pergunta": "What color is Tshirt?",
+              "imagem": {
+                "src": "src/img/clothes.png",
+                "largura": 500,
+                "altura": 100
+            },    
+              "alternativas": [
+              "Blue",
+              "Puple",
+              "Pink",
+              "Red"
+              ],
+              "alternativa_correta": 0
+            },
+            {
+              "pergunta": "What color is Pants?",
+              "imagem": {
+                "src": "src/img/clothes.png",
+                "largura": 500,
+                "altura": 100
+            },    
+              "alternativas": [
+              "Blue",
+              "Brown",
+              "Pink",
+              "Red"
+              ],
+              "alternativa_correta": 1
+            },
+            {
+              "pergunta": "What color is Sweater?",
+              "imagem": {
+                "src": "src/img/clothes.png",
+                "largura": 500,
+                "altura": 100
+            },    
+              "alternativas": [
+              "Blue",
+              "Brown",
+              "Yellow",
+              "Red"
+              ],
+              "alternativa_correta": 2
+            },
+            {
+              "pergunta": "Choose the correct sport in English: Corrida, Ping Pong, Futebol Brasileiro e Nadar",
+              "alternativas": [
+              "Swimming, Table Tennis, Football and Volleyball ",
+              "Running, Table Tennis, Soccer and Swimming",
+              "Running, Table Tennis, Soccer and Yellow",
+              "Running, Table Tennis, Basketball and Swimming"
+              ],
+              "alternativa_correta": 1
+            },
+            {
+              "pergunta": "Choose the correct body parts in English: Perna, Pés, Dedos das Mãoe e Boca",
+              "alternativas": [
+              "Swimming, Head, Ear and Mouth",
+              "Leg, Feet, Eyes and Arm",
+              "Leg, Feet, Fingers and Mouth",
+              "Leg, Fingers, Feet and shoulder"
+              ],
+              "alternativa_correta": 2
+            }                                                
           ]
         }
       }
