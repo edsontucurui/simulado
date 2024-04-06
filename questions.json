@@ -877,7 +877,7 @@
               "alternativa_correta": 2
             },
             {
-              "pergunta": "Look at the image and select the correct option.",
+              "pergunta": "Look at the image and select the correct option:",
               "imagem": {
                 "src": "src/img/partecorpo.png",
                 "largura": 500,
@@ -892,7 +892,7 @@
               "alternativa_correta": 2
             },
             {
-              "pergunta": "Look at the image and select the correct option.",
+              "pergunta": "Look at the image and select the correct option:",
               "imagem": {
                 "src": "src/img/partecorpo2.png",
                 "largura": 500,
