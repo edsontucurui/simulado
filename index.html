@@ -29,6 +29,7 @@
             display: block; /* Garante que a imagem não fique ao lado do texto */
             max-width: 100%; /* Ajusta a largura da imagem para não ultrapassar o contêiner */
             margin: 0 0 0 80px; /* Define margem superior, direita, inferior e esquerda */
+            height: auto; /* Mantém a proporção da imagem */
         }
 
         /* Aumenta o tamanho dos selects */
@@ -127,14 +128,16 @@
                         // Adiciona a imagem, se existir, após o texto da pergunta e antes das alternativas
                         if (pergunta.imagem) {
                             const imagem = document.createElement('img');
-                            imagem.src = pergunta.imagem;
-                            imagem.style.width = '50px'; // Defina o tamanho desejado para a imagem
+                            imagem.src = pergunta.imagem.url || pergunta.imagem.src; // Usamos operador 'or' para escolher a propriedade correta
+                            imagem.style.width = pergunta.imagem.largura + 'px'; // Define a largura da imagem com base no JSON
+                            imagem.style.height = pergunta.imagem.altura + 'px'; // Define a altura da imagem com base no JSON
                             li.appendChild(imagem);
 
                             // Adicione um espaço após a imagem
                             const espacoImagem = document.createElement('br');
                             li.appendChild(espacoImagem);
                         }
+
 
                         // Crie uma lista de alternativas
                         const ulAlternativas = document.createElement('ul');
@@ -176,6 +179,7 @@
                         });
                     });
                 }
+
 
 
 

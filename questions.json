@@ -863,7 +863,11 @@
           "questoes": [
             {
               "pergunta": "Look at the image and select the correct option.",
-              "imagem": "https://img.freepik.com/vetores-premium/desenho-de-menino-jogando-futebol-no-fundo-branco_353337-504.jpg?w=740",            
+              "imagem": {
+                "url": "https://img.freepik.com/vetores-premium/desenho-de-menino-jogando-futebol-no-fundo-branco_353337-504.jpg?w=740",
+                "largura": 50,
+                "altura": 70
+              },              
               "alternativas": [
               "We love to play volleyball at the beach",
               "She likes to swimming in the pool",
@@ -871,7 +875,37 @@
               "You can play basketball at the park"
               ],
               "alternativa_correta": 2
-            }
+            },
+            {
+              "pergunta": "Look at the image and select the correct option.",
+              "imagem": {
+                "src": "src/img/partecorpo.png",
+                "largura": 500,
+                "altura": 100
+            },    
+              "alternativas": [
+              "1 - Arm, 2 - Ear, 3 - Leg, 4 - Eye, 5 - Head, 6 - Fingers",
+              "1 - Head, 2 - Knee, 3 - Nose, 4 - Shoulders, 5 - Leg, 6 - Fingers",
+              "1 - Knee, 2 - Nose, 3 - Mouth, 4 - Feet, 5 - Head, 6 - Fingers",
+              "1 - Shoulders, 2 - Eye, 3 - Arm, 4 - Leg, 5 - Ear, 6 - Mouth"
+              ],
+              "alternativa_correta": 2
+            },
+            {
+              "pergunta": "Look at the image and select the correct option.",
+              "imagem": {
+                "src": "src/img/partecorpo2.png",
+                "largura": 500,
+                "altura": 100
+            },    
+              "alternativas": [
+              "1 - Arm, 2 - Ear, 3 - Leg, 4 - Eye, 5 - Head, 6 - Fingers",
+              "1 - Head, 2 - Knee, 3 - Nose, 4 - Shoulders, 5 - Leg, 6 - Fingers",
+              "1 - Knee, 2 - Nose, 3 - Mouth, 4 - Feet, 5 - Head, 6 - Fingers",
+              "1 - Eye, 2 - Ear, 3 - Shoulders, 4 - Leg, 5 - Hands, 6 - Arm"
+              ],
+              "alternativa_correta": 3
+            }                           
           ]
         }
       }
