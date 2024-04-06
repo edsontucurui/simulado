@@ -1,3 +1,266 @@
+<<<<<<< HEAD
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Perguntas e Respostas</title>
+    <style>
+        /* Estilize a lista de alternativas como preferir */
+        ul {
+            list-style: none;
+            margin-bottom: 35px; /* Espaçamento entre as questões */
+        }
+        li strong {
+            font-weight: bold; /* Texto do título em negrito */
+        }
+        .espacamento {
+            margin-top: 10px; /* Espaçamento entre o título e as alternativas */
+        }
+        
+        /* Estilize a lista de perguntas */
+        #perguntas-list {
+            list-style: none;
+            margin: 0;
+            padding: 0;
+        }
+
+        /* Estilo para a imagem */
+        #perguntas-list img {
+            display: block; /* Garante que a imagem não fique ao lado do texto */
+            max-width: 100%; /* Ajusta a largura da imagem para não ultrapassar o contêiner */
+            margin: 0 0 0 80px; /* Define margem superior, direita, inferior e esquerda */
+        }
+
+        /* Aumenta o tamanho dos selects */
+        select {
+            height: 30px; /* Defina a largura desejada */
+            width: 250px; /* Defina a largura desejada */
+             font-size: 16px; /* Defina o tamanho da fonte */
+        }
+    </style>
+</head>
+
+<body>
+    <h1>Simulado</h1>
+
+    <div>
+        <label for="materia">Matéria:</label>
+        <select id="materia">
+            <option value="">Selecione uma matéria</option>
+        </select>
+    </div>
+    <div>
+        <label for="capitulo">Capítulo:</label>
+        <select id="capitulo">
+            <option value="">Selecione um capítulo</option>
+        </select>
+    </div>
+    <br><br>
+    <ul id="perguntas-list"></ul>
+    <!-- Aqui você vai adicionar as perguntas e alternativas -->
+
+    <button id="enviar-respostas">Enviar Respostas</button> <!-- Botão para enviar respostas -->
+    <button id="limpar-respostas">Limpar e Refazer</button> <!-- Botão para limpar as respostas e refazer -->
+    <br><br>
+    <h1 id="resultado"></h1> <!-- Resultado final será exibido aqui -->
+
+    <script>
+        const respostas = []; // Array para armazenar as respostas do usuário
+        let perguntasFiltradas = []; // Array para armazenar perguntas filtradas
+
+        fetch('questions.json')
+            .then(response => response.json())
+            .then(data => {
+                const materiasDropdown = document.getElementById('materia');
+                const capituloDropdown = document.getElementById('capitulo');
+
+                // Preenche o dropdown de matérias
+                for (const materia in data.materias) {
+                    const option = document.createElement('option');
+                    option.textContent = materia;
+                    materiasDropdown.appendChild(option);
+                }
+
+                // Atualiza o dropdown de capítulos ao selecionar uma matéria
+                materiasDropdown.addEventListener('change', () => {
+                    const selectedMateria = materiasDropdown.value;
+                    capituloDropdown.innerHTML = '<option value="">Selecione um capítulo</option>'; // Limpa o dropdown de capítulos
+
+                    if (selectedMateria) {
+                        const capitulos = data.materias[selectedMateria].capitulo;
+
+                        for (const capitulo in capitulos) {
+                            const option = document.createElement('option');
+                            option.textContent = capitulo;
+                            capituloDropdown.appendChild(option);
+                        }
+                    }
+                });
+
+                // Filtra e exibe as perguntas ao selecionar um capítulo
+                capituloDropdown.addEventListener('change', () => {
+                    const selectedMateria = materiasDropdown.value;
+                    const selectedCapitulo = capituloDropdown.value;
+
+                    if (selectedMateria && selectedCapitulo) {
+                        const perguntas = data.materias[selectedMateria].capitulo[selectedCapitulo].questoes;
+                        renderizarPerguntas(perguntas);
+                    } else {
+                        limparPerguntas();
+                    }
+                });
+
+                // Função para renderizar perguntas na tela
+                function renderizarPerguntas(perguntas) {
+                    limparPerguntas();
+
+                    perguntasFiltradas = shuffleArray(perguntas.slice()); // Embaralha e copia as perguntas filtradas
+
+                    perguntasFiltradas.forEach((pergunta, index) => {
+                        const li = document.createElement('li');
+
+                        const tituloPergunta = document.createElement('strong');
+                        tituloPergunta.textContent = `Questão ${index + 1}: `;
+                        li.appendChild(tituloPergunta);
+                        li.appendChild(document.createTextNode(pergunta.pergunta));
+
+                        // Adiciona a imagem, se existir, após o texto da pergunta e antes das alternativas
+                        if (pergunta.imagem) {
+                            const imagem = document.createElement('img');
+                            imagem.src = pergunta.imagem;
+                            imagem.style.width = '50px'; // Defina o tamanho desejado para a imagem
+                            li.appendChild(imagem);
+
+                            // Adicione um espaço após a imagem
+                            const espacoImagem = document.createElement('br');
+                            li.appendChild(espacoImagem);
+                        }
+
+                        // Crie uma lista de alternativas
+                        const ulAlternativas = document.createElement('ul');
+                        pergunta.alternativas.forEach((alternativa, altIndex) => {
+                            const liAlternativa = document.createElement('li');
+                            liAlternativa.textContent = alternativa;
+
+                            // Adicione um input radio para cada alternativa
+                            const inputRadio = document.createElement('input');
+                            inputRadio.type = 'radio';
+                            inputRadio.name = `pergunta-${index}`; // Adicione um ID único para cada pergunta
+                            inputRadio.value = altIndex; // Valor da alternativa
+                            liAlternativa.insertBefore(inputRadio, liAlternativa.firstChild); // Insere antes do texto da alternativa
+
+                            ulAlternativas.appendChild(liAlternativa);
+                        });
+
+                        // Adicione a lista de alternativas à pergunta
+                        li.appendChild(ulAlternativas);
+
+                        // Espaçamento entre a questão e as alternativas
+                        const espacamento = document.createElement('div');
+                        espacamento.className = 'espacamento';
+                        li.appendChild(espacamento);
+
+                        // Informação de resposta correta/incorreta
+                        const respostaInfo = document.createElement('p');
+                        respostaInfo.style.display = 'none'; // Inicialmente escondido
+                        li.appendChild(respostaInfo);
+
+                        const perguntasList = document.getElementById('perguntas-list');
+                        perguntasList.appendChild(li);
+
+                        // Adiciona a resposta à array de respostas
+                        respostas.push({
+                            pergunta: index + 1,
+                            resposta_correta: pergunta.alternativa_correta,
+                            resultado: null // inicialmente nulo, será atualizado posteriormente
+                        });
+                    });
+                }
+
+
+
+                // Função para limpar as perguntas da tela
+                function limparPerguntas() {
+                    const perguntasList = document.getElementById('perguntas-list');
+                    perguntasList.innerHTML = '';
+                    respostas.length = 0; // Limpa o array de respostas
+                }
+
+                // Adiciona um evento de clique para o botão "Enviar Respostas"
+                document.getElementById('enviar-respostas').addEventListener('click', () => {
+                    const resultados = respostas.map((resposta, index) => {
+                        const selectedAlternative = document.querySelector(`input[name="pergunta-${index}"]:checked`);
+                        if (selectedAlternative) {
+                            const respostaUsuario = parseInt(selectedAlternative.value);
+                            resposta.resposta_usuario = respostaUsuario;
+                            if (respostaUsuario === resposta.resposta_correta) {
+                                resposta.resultado = 'acerto';
+                            } else {
+                                resposta.resultado = 'erro';
+                            }
+                        } else {
+                            resposta.resultado = 'sem resposta';
+                        }
+                        return resposta;
+                    });
+
+                    // Mostra os resultados na página
+                    resultados.forEach(resultado => {
+                        const respostaInfo = document.querySelector(`li:nth-child(${resultado.pergunta}) p`);
+                        if (respostaInfo) {
+                            if (resultado.resultado === 'acerto') {
+                                respostaInfo.textContent = 'Resposta correta! 🎉';
+                                respostaInfo.style.color = 'green';
+                            } else if (resultado.resultado === 'erro') {
+                                respostaInfo.textContent = 'Resposta incorreta. Tente novamente. 😕';
+                                respostaInfo.style.color = 'red';
+                            } else {
+                                respostaInfo.textContent = 'Você não respondeu a esta pergunta.';
+                                respostaInfo.style.color = 'orange';
+                            }
+                            respostaInfo.style.display = 'block'; // Exibe a informação
+                        }
+                    });
+
+                    // Exibe o resultado final antes da primeira questão
+                    const acertos = resultados.filter(resultado => resultado.resultado === 'acerto').length;
+                    const erros = resultados.filter(resultado => resultado.resultado === 'erro').length;
+                    const resultadoFinalElement = document.getElementById('resultado');
+                    resultadoFinalElement.textContent = `Acertos: ${acertos}, Erros: ${erros}`;
+                });
+
+                // Adiciona um evento de clique para o botão "Limpar e Refazer"
+                document.getElementById('limpar-respostas').addEventListener('click', () => {
+                    // Limpa as seleções dos usuários e redefina os resultados
+                    document.querySelectorAll('input[type="radio"]:checked').forEach(input => {
+                        input.checked = false;
+                    });
+
+                    document.querySelectorAll('li p').forEach(p => {
+                        p.textContent = '';
+                        p.style.display = 'none';
+                    });
+
+                    document.getElementById('resultado').textContent = '';
+
+                    limparPerguntas();
+                });
+            })
+            .catch(error => console.error('Erro ao carregar as perguntas:', error));
+
+        // Função para embaralhar um array (algoritmo de Fisher-Yates)
+        function shuffleArray(array) {
+            for (let i = array.length - 1; i > 0; i--) {
+                const j = Math.floor(Math.random() * (i + 1));
+                [array[i], array[j]] = [array[j], array[i]];
+            }
+            return array;
+        }
+    </script>
+</body>
+</html>
+=======
 <!DOCTYPE html>
 <html lang="pt-BR">
 <head>
@@ -229,3 +492,4 @@
     </script>
 </body>
 </html>
+>>>>>>> 7ce3468b524c9148fe7eb9d6f7132ba6ccd993c6
