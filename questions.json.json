@@ -1,0 +1,625 @@
+[
+    {
+        "materia": "História",
+        "pergunta": "Qual é a localização do Deserto do Saara em relação ao continente africano?",
+        "alternativas": [
+            "No sul",
+            "No norte",
+            "No leste",
+            "No oeste"
+        ],
+        "alternativa_correta": 1
+    },
+    {
+        "materia": "História",
+        "pergunta": "Qual é a característica marcante do Deserto do Saara?",
+        "alternativas": [
+            "Vegetação exuberante",
+            "Montanhas nevadas",
+            "Dunas arenosas e montes rochosos",
+            "Clima polar"
+        ],
+        "alternativa_correta": 2
+    },
+    {
+        "materia": "História",
+        "pergunta": "Onde o Rio Nilo deságua?",
+        "alternativas": [
+            "Mar Negro",
+            "Mar Vermelho",
+            "Mar Mediterrâneo",
+            "Oceano Atlântico"
+        ],
+        "alternativa_correta": 2
+    },
+    {
+        "materia": "História",
+        "pergunta": "Que civilização antiga se estabeleceu às margens do Rio Nilo devido às cheias anuais?",
+        "alternativas": [
+            "Astecas",
+            "Egípcios",
+            "Sumérios",
+            "Maias"
+        ],
+        "alternativa_correta": 1
+    },
+    {
+        "materia": "História",
+        "pergunta": "Qual era a principal atividade econômica dos egípcios na Antiguidade?",
+        "alternativas": [
+            "Comércio de ouro",
+            "Pecuária",
+            "Agricultura",
+            "Construção de pirâmides"
+        ],
+        "alternativa_correta": 2
+    },
+    {
+        "materia": "História",
+        "pergunta": "Qual das seguintes ferramentas era usada pelos agricultores do Egito Antigo?",
+        "alternativas": [
+            "Trator",
+            "Enxada",
+            "Foice e arado de pedra",
+            "Computador"
+        ],
+        "alternativa_correta": 2
+    },
+    {
+        "materia": "História",
+        "pergunta": "O que determinava as estações do ano no Egito Antigo?",
+        "alternativas": [
+            "Cheias do Nilo",
+            "Nevascas no deserto",
+            "Movimento dos planetas",
+            "Fases da Lua"
+        ],
+        "alternativa_correta": 0
+    },
+    {
+        "materia": "História",
+        "pergunta": "Quais são os produtos agrícolas mais cultivados no Egito atualmente?",
+        "alternativas": [
+            "Milho e batata",
+            "Algodão, trigo, arroz, trevo e hortaliças",
+            "Café e chá",
+            "Cacau e cana-de-açúcar"
+        ],
+        "alternativa_correta": 1
+    },
+    {
+        "materia": "História",
+        "pergunta": "O que a construção da Barragem de Assuã possibilitou?",
+        "alternativas": [
+            "Aumento das cheias do Nilo",
+            "Controle das cheias do Nilo, irrigação, geração de energia elétrica",
+            "Redução da população urbana",
+            "Secagem do Rio Nilo"
+        ],
+        "alternativa_correta": 1
+    },
+    {
+        "materia": "História",
+        "pergunta": "Qual foi o impacto da construção da Barragem de Assuã na fertilidade do solo?",
+        "alternativas": [
+            "Melhorou",
+            "Não teve impacto",
+            "Piorou, pois os componentes fertilizantes foram depositados no fundo do lago",
+            "Aumentou, pois os fertilizantes industriais foram dispensados"
+        ],
+        "alternativa_correta": 2
+    },
+    {
+        "materia": "História",
+        "pergunta": "Durante a construção da represa e a formação do Lago Nasser, cerca de 90 mil camponeses egípcios e núbios sudaneses nômades tiveram que abandonar o lugar onde moravam. Verdadeiro ou Falso?",
+        "alternativas": [
+            "Verdadeiro",
+            "Falso"
+        ],
+        "alternativa_correta": 0
+    },
+    {
+        "materia": "História",
+        "pergunta": "O antigo templo egípcio de Abu Simbel, construído no século XIII a.C., também teve que ser deslocado para não desaparecer como patrimônio histórico. Verdadeiro ou Falso?",
+        "alternativas": [
+            "Verdadeiro",
+            "Falso"
+        ],
+        "alternativa_correta": 0
+    },
+    {
+        "materia": "História",
+        "pergunta": "Qual é a rota do Rio Nilo?",
+        "alternativas": [
+            "Nasce no Lago Vitória, passa pelo Deserto do Saara e deságua no Mar Vermelho",
+            "Nasce no Lago Vitória, passa pelo Deserto do Saara e deságua no Mar Mediterrâneo",
+            "Nasce no Deserto do Saara, passa pela Floresta Amazônica e deságua no Oceano Pacífico",
+            "Nasce na Antártida, passa pela África Central e deságua no Oceano Atlântico"
+        ],
+        "alternativa_correta": 1
+    },
+    {
+        "materia": "História",
+        "pergunta": "Onde o Nilo deságua?",
+        "alternativas": [
+            "Mar Vermelho",
+            "Oceano Índico",
+            "Mar Mediterrâneo",
+            "Oceano Atlântico"
+        ],
+        "alternativa_correta": 2
+    },
+    {
+        "materia": "História",
+        "pergunta": "Quais são as estações do ano no Egito Antigo, de acordo com as cheias do Nilo?",
+        "alternativas": [
+            "Primavera, verão, outono",
+            "Inverno, primavera, verão",
+            "Inundação, semeadura, colheita",
+            "Seca, chuva, neve"
+        ],
+        "alternativa_correta": 2
+    },
+    {
+        "materia": "História",
+        "pergunta": "O que as cheias do Nilo proporcionavam para a agricultura no Egito Antigo?",
+        "alternativas": [
+            "Solo encharcado",
+            "Depósitos de areia",
+            "Nutrientes fertilizantes",
+            "Deserto árido"
+        ],
+        "alternativa_correta": 2
+    },
+    {
+        "materia": "História",
+        "pergunta": "Qual é a importância das cheias do Nilo para a população que vive às suas margens hoje em dia?",
+        "alternativas": [
+            "Abastecimento de água potável",
+            "Proteção contra enchentes",
+            "Fornecimento de nutrientes para a agricultura",
+            "Rota de navegação"
+        ],
+        "alternativa_correta": 2
+    },
+    {
+        "materia": "História",
+        "pergunta": "O que acontece durante a estação de inundação do Nilo?",
+        "alternativas": [
+            "As águas recuam, deixando o rio seco",
+            "O rio transborda, inundando as terras vizinhas",
+            "O nível do rio permanece constante",
+            "O rio diminui de largura"
+        ],
+        "alternativa_correta": 1
+    },
+    {
+        "materia": "História",
+        "pergunta": "Qual é a importância das cheias anuais do Nilo para a sociedade antiga?",
+        "alternativas": [
+            "Proteção contra invasões",
+            "Previsão do calendário",
+            "Fornecimento de terra fértil para a agricultura",
+            "Abastecimento de água potável"
+        ],
+        "alternativa_correta": 2
+    },
+    {
+        "materia": "História",
+        "pergunta": "O que foi construído para controlar as cheias do Nilo e gerar energia elétrica?",
+        "alternativas": [
+            "Pirâmides",
+            "Esfinges",
+            "Templos",
+            "Barragem de Assuã"
+        ],
+        "alternativa_correta": 3
+    },
+    {
+        "materia": "História",
+        "pergunta": "O que aconteceu com os componentes fertilizantes do Nilo após a construção da Barragem de Assuã?",
+        "alternativas": [
+            "Foram levados para o Mediterrâneo",
+            "Foram usados como matéria-prima para construir a barragem",
+            "Foram depositados no fundo do Lago Nasser",
+            "Desapareceram completamente"
+        ],
+        "alternativa_correta": 2
+    },
+    {
+        "materia": "História",
+        "pergunta": "Onde os egípcios construíram uma grande civilização por volta de 3500 a.C.?",
+        "alternativas": [
+            "Nas montanhas do Saara",
+            "No Deserto do Saara",
+            "Às margens do Nilo",
+            "No meio do deserto"
+        ],
+        "alternativa_correta": 2
+    },
+    {
+        "materia": "História",
+        "pergunta": "Qual é o continente em que se encontra o deserto do Saara?",
+        "alternativas": [
+            "Continente Africano",
+            "Continente Asiático",
+            "Continente Europeu",
+            "Continente Americano"
+        ],
+        "alternativa_correta": 0
+    },
+    {
+        "materia": "História",
+        "pergunta": "Quais as características citadas dessa região desértica?",
+        "alternativas": [
+            "Solo fértil e muitas árvores",
+            "Região fria e nevada",
+            "Poucas dunas e muita vegetação",
+            "É uma região bastante quente, repleta de dunas arenosas e montes rochosos. Quase não existe vegetação."
+        ],
+        "alternativa_correta": 3
+    },
+    {
+        "materia": "História",
+        "pergunta": "Qual é o nome do rio que percorre a região Nordeste da África?",
+        "alternativas": [
+            "Rio Congo",
+            "Rio Nilo",
+            "Rio Zambeze",
+            "Rio Amazonas"
+        ],
+        "alternativa_correta": 1
+    },
+    {
+        "materia": "História",
+        "pergunta": "Qual é o maior rio do mundo em tamanho?",
+        "alternativas": [
+            "Rio Amazonas",
+            "Rio Yangtzé",
+            "Rio Nilo",
+            "Rio Mississipi"
+        ],
+        "alternativa_correta": 2
+    },
+    {
+        "materia": "História",
+        "pergunta": "Onde deságua o rio Nilo?",
+        "alternativas": [
+            "Mar Vermelho",
+            "Mar Negro",
+            "Mar Mediterrâneo",
+            "Oceano Índico"
+        ],
+        "alternativa_correta": 2
+    },
+    {
+        "materia": "História",
+        "pergunta": "Onde o Nilo nasce?",
+        "alternativas": [
+            "Rio Kagera, no Burundi e no Lago Vitória",
+            "Deserto do Saara",
+            "Planalto da Etiópia",
+            "Montes Atlas, no Marrocos"
+        ],
+        "alternativa_correta": 0
+    },
+    {
+        "materia": "História",
+        "pergunta": "Por quais países da África o Nilo percorre até chegar no mar?",
+        "alternativas": [
+            "Egito, Sudão, Sudão do Sul, Uganda, Ruanda, Burundi, Tanzânia, Zaire, Quênia, Etiópia.",
+            "Egito, Sudão do Sul, Brasíli, Tanzânia",
+            "Egito, Congo, Tanzânia e Zaire",
+            "Egito, Etiópia, Uganda e China"
+        ],
+        "alternativa_correta": 0
+    },
+    {
+        "materia": "História",
+        "pergunta": "Que povo construiu suas moradias às margens do Nilo?",
+        "alternativas": [
+            "Astecas",
+            "Povos do Nordeste da África",
+            "Sumérios",
+            "Vikings"
+        ],
+        "alternativa_correta": 1
+    },
+    {
+        "materia": "História",
+        "pergunta": "O que fazia com que as terras próximas ao Nilo fossem boas para o plantio?",
+        "alternativas": [
+            "Secas prolongadas",
+            "Ás cheias anuais as águas transbordavam",
+            "Enchentes constantes",
+            "Incêndios florestais"
+        ],
+        "alternativa_correta": 1
+    },
+    {
+        "materia": "História",
+        "pergunta": "Como era composta a população da sociedade egípcia na antiguidade?",
+        "alternativas": [
+            "Apenas reis e nobres",
+            "Apenas sacerdotes e escribas",
+            "Apenas guerreiros",
+            "Por camponeses"
+        ],
+        "alternativa_correta": 3
+    },
+    {
+        "materia": "História",
+        "pergunta": "Como os egípcios aproveitavam as águas das cheias do Nilo?",
+        "alternativas": [
+            "Beber diretamente do rio",
+            "Construíam diques e canais para irrigação",
+            "Desviavam o curso do rio para o deserto",
+            "Usavam as águas para nadar"
+        ],
+        "alternativa_correta": 1
+    },
+    {
+        "materia": "História",
+        "pergunta": "Que tipo de ferramenta era usada pelos agricultores no Egito?",
+        "alternativas": [
+            "Machado e martelo",
+            "Foice e arado de pedra",
+            "Tesoura e pá",
+            "Furadeira e serrote"
+        ],
+        "alternativa_correta": 1
+    },
+    {
+        "materia": "História",
+        "pergunta": "Liste os tipos de alimentos que eram cultivados.",
+        "alternativas": [
+            "Milho, feijão e batata",
+            "Arroz, mandioca e cana-de-açúcar",
+            "Trigo, cevada e frutas como o figo",
+            "Tomate, alface e cenoura"
+        ],
+        "alternativa_correta": 2
+    },
+    {
+        "materia": "História",
+        "pergunta": "Como eram definidas as estações dos anos de acordo com as cheias do rio Nilo?",
+        "alternativas": [
+            "Verão, Outono e Inverno",
+            "Primavera, Verão e Outono",
+            "1ª inundação - julho á outubro; 2ª semeadura - novembro à fevereiro; 3ª colheita - março à junho",
+            "Chuvas, Seca e Vento"
+        ],
+        "alternativa_correta": 2
+    },
+    {
+        "materia": "História",
+        "pergunta": "Atualmente onde vivem as pessoas do Egito?",
+        "alternativas": [
+            "No deserto do Saara",
+            "Nas montanhas da África Oriental",
+            "Em cidades modernas construídas longe do Nilo",
+            "Ainda continuam vivendo às margens do rio Nilo"
+        ],
+        "alternativa_correta": 3
+    },
+    {
+      "materia": "História",
+      "pergunta": "Onde se desenvolveu a civilização dos Garamantes?",
+      "alternativas": [
+        "No Deserto de Saara.",
+        "No Deserto de Fezã.",
+        "Nas margens do Rio Nilo.",
+        "Na região do Mar Mediterrâneo."
+      ],
+      "alternativa_correta": 1
+    },
+    {
+      "materia": "História",
+      "pergunta": "Qual foi a principal atividade econômica dos Garamantes?",
+      "alternativas": [
+        "Comércio de camelos.",
+        "Agricultura.",
+        "Pesca no Rio Nilo.",
+        "Mineração de ouro."
+      ],
+      "alternativa_correta": 1
+    },
+    {
+      "materia": "História",
+      "pergunta": "Qual era o sistema de irrigação utilizado pelos Garamantes?",
+      "alternativas": [
+        "Fossos de irrigação.",
+        "Foggara, khettara ou qanat.",
+        "Barragens de água.",
+        "Pivôs de irrigação."
+      ],
+      "alternativa_correta": 1
+    },
+    {
+      "materia": "História",
+      "pergunta": "Qual era o significado da palavra 'Garamante'?",
+      "alternativas": [
+        "Povo seminômade.",
+        "Povo agricultor.",
+        "Povo do deserto.",
+        "Cidades."
+      ],
+      "alternativa_correta": 3
+    },
+    {
+      "materia": "História",
+      "pergunta": "Quais produtos os Garamantes produziam além da agricultura?",
+      "alternativas": [
+        "Azeite de oliva e vinhos.",
+        "Cerveja e licores.",
+        "Carvão e ferro.",
+        "Instrumentos de metal e azeite de oliva."
+      ],
+      "alternativa_correta": 3
+    },
+    {
+      "materia": "História",
+      "pergunta": "Onde se localiza a maior população tuaregue do Saara?",
+      "alternativas": [
+        "Argélia e Marrocos.",
+        "Níger, Mali, Líbia e Argélia.",
+        "Egito e Sudão.",
+        "Quênia e Tanzânia."
+      ],
+      "alternativa_correta": 1
+    },
+    {
+      "materia": "História",
+      "pergunta": "Qual é a principal atividade econômica dos Tuaregues?",
+      "alternativas": [
+        "Mineração de ouro.",
+        "Comércio de camelos.",
+        "Agricultura.",
+        "Criação de gado e dromedários."
+      ],
+      "alternativa_correta": 3
+    },
+    {
+      "materia": "História",
+      "pergunta": "Qual é a vestimenta tradicional dos homens tuaregues?",
+      "alternativas": [
+        "Turbante de índigo.",
+        "Túnica e sandálias.",
+        "Roupas de seda.",
+        "Capas de pele de cabra."
+      ],
+      "alternativa_correta": 0
+    },
+    {
+      "materia": "História",
+      "pergunta": "Por que os tuaregues usam turbantes e roupas compridas ao viajar pelo deserto?",
+      "alternativas": [
+        "Para se camuflarem na paisagem.",
+        "Por tradição religiosa.",
+        "Para se protegerem do sol e vento.",
+        "Para se destacarem entre outros povos."
+      ],
+      "alternativa_correta": 2
+    },
+    {
+      "materia": "História",
+      "pergunta": "Como são feitas as habitações dos tuaregues?",
+      "alternativas": [
+        "Casas de tijolos.",
+        "Tendas de palmeira e peles de cabra.",
+        "Cabanas de barro.",
+        "Casas de pedra."
+      ],
+      "alternativa_correta": 1
+    },
+    {
+      "materia": "História",
+      "pergunta": "Qual era a principal fonte de água dos Garamantes?",
+      "alternativas": [
+        "Rios e lagos",
+        "Chuvas ocasionais",
+        "Água subterrânea",
+        "Derretimento de geleiras"
+      ],
+      "alternativa_correta": 2
+    },
+    {
+      "materia": "História",
+      "pergunta": "Qual era o sistema de irrigação utilizado pelos Garamantes para acessar a água subterrânea?",
+      "alternativas": [
+        "Aquedutos",
+        "Foggara",
+        "Canais de superfície",
+        "Bombas manuais"
+      ],
+      "alternativa_correta": 1
+    },
+    {
+      "materia": "História",
+      "pergunta": "Qual era a principal atividade econômica dos Garamantes em relação ao comércio?",
+      "alternativas": [
+        "Comércio de ouro",
+        "Comércio de especiarias",
+        "Comércio de tecidos",
+        "Comércio de sal"
+      ],
+      "alternativa_correta": 3
+    },
+    {
+      "materia": "História",
+      "pergunta": "Como eram as cidades fortificadas dos Garamantes?",
+      "alternativas": [
+        "Com torres de observação",
+        "Com muralhas de até quatro metros de altura",
+        "Com sistemas de defesa aérea",
+        "Com labirintos subterrâneos"
+      ],
+      "alternativa_correta": 1
+    },
+    {
+      "materia": "História",
+      "pergunta": "Quais eram os principais produtos agrícolas dos Garamantes?",
+      "alternativas": [
+        "Trigo, arroz e batata",
+        "Cevada, uvas e figos",
+        "Milho, feijão e abóbora",
+        "Cenoura, beterraba e alface"
+      ],
+      "alternativa_correta": 1
+    },
+    {
+      "materia": "História",
+      "pergunta": "Qual era a principal atividade econômica dos Tuaregues além da agricultura?",
+      "alternativas": [
+        "Pesca",
+        "Mineração",
+        "Criação de gado e dromedários",
+        "Fabricação de cerâmica"
+      ],
+      "alternativa_correta": 2
+    },
+    {
+      "materia": "História",
+      "pergunta": "Qual é a importância dos camelos para os Tuaregues?",
+      "alternativas": [
+        "Meio de transporte e comércio",
+        "Animal sagrado em suas crenças",
+        "Principal fonte de alimentação",
+        "Utilizado como moeda de troca"
+      ],
+      "alternativa_correta": 0
+    },
+    {
+      "materia": "História",
+      "pergunta": "Qual era o material usado na construção das habitações dos Tuaregues?",
+      "alternativas": [
+        "Pedra e argamassa",
+        "Madeira e barro",
+        "Fibras trançadas de palmeira e peles de cabra",
+        "Tijolos de adobe"
+      ],
+      "alternativa_correta": 2
+    },
+    {
+      "materia": "História",
+      "pergunta": "Como os Tuaregues se protegem das condições climáticas adversas?",
+      "alternativas": [
+        "Vestindo roupas leves",
+        "Utilizando chapéus de palha",
+        "Usando turbantes e roupas compridas",
+        "Fazendo fogueiras constantemente"
+      ],
+      "alternativa_correta": 2
+    },
+    {
+      "materia": "História",
+      "pergunta": "Qual era o material usado pelos Tuaregues para fabricar seus turbantes?",
+      "alternativas": [
+        "Algodão",
+        "Seda",
+        "Lã",
+        "Índigo"
+      ],
+      "alternativa_correta": 3
+    }
+]
