@@ -1,196 +1,861 @@
-[
-    {
-      "materia": "Geografia",
-      "pergunta": "Quem é José e o que ele tem a ver com o Censo?",
-      "alternativas": [
-        "José é um personagem bíblico que nasceu em Belém, cidade onde o Censo também foi realizado.",
-        "José é um cidadão brasileiro que participa do Censo pela primeira vez.",
-        "José é um funcionário do IBGE responsável pela coleta de dados do Censo.",
-        "José é um especialista em Geografia que estuda a distribuição da população brasileira."
-      ],
-      "alternativa_correta": 0
+{
+  "materias": {
+    "História": {
+      "capitulo": {
+        "2 - A vida nas montanhas": {
+          "questoes": [
+            {
+              "pergunta": "Qual o principal produto agrícola cultivado pelos hmongs em terraços nas montanhas?",
+              "alternativas": [
+                "Trigo",
+                "Arroz",
+                "Milho",
+                "Batata"
+              ],
+              "alternativa_correta": 1
+            },
+            {
+              "pergunta": "Qual é a cidade mais movimentada na região das montanhas, mencionada no capitulo?",
+              "alternativas": [
+                "Sapa",
+                "Hanoi",
+                "Bangkok",
+                "Xangai"
+              ],
+              "alternativa_correta": 0
+            },
+            {
+              "pergunta": "Como é chamada a vestimenta produzida pela etnia black hmong?",
+              "alternativas": [
+                "Vestimenta de seda",
+                "Vestimenta de algodão",
+                "Vestimenta de linho",
+                "Vestimenta de indigo"
+              ],
+              "alternativa_correta": 3
+            },
+            {
+              "pergunta": "Quem é responsável por cuidar da viúva e dos filhos do falecido na cultura hmong?",
+              "alternativas": [
+                "O pai da viúva",
+                "A própria viúva",
+                "O clã do marido falecido",
+                "O clã da viúva"
+              ],
+              "alternativa_correta": 2
+            },
+            {
+              "pergunta": "O que é o dote que a família do noivo precisa oferecer à família da noiva na cultura hmong?",
+              "alternativas": [
+                "Terras",
+                "Animais",
+                "Dinheiro",
+                "Joias"
+              ],
+              "alternativa_correta": 2
+            },
+            {
+              "pergunta": "Qual é a altura aproximada do Monte Everest?",
+              "alternativas": [
+                "6.500 metros",
+                "7.850 metros",
+                "8.850 metros",
+                "9.500 metros"
+              ],
+              "alternativa_correta": 2
+            },
+            {
+              "pergunta": "Onde se localiza o Himalaia? ",
+              "alternativas": [
+                "No continente americando, entre Canadé e México",
+                "No continente europeu, entre Portugal e França",
+                "No continente asiático, entre o Paquistão, a Ìndia, a China, O Nepal e o Butão.",
+                "No continente asiático, entre a China e Rússia"
+              ],
+              "alternativa_correta": 2
+            },
+            {
+              "pergunta": "Quem são os sherpas?",
+              "alternativas": [
+                "Povos nômades do Himalaia",
+                "Povos agricultores do Vietnã",
+                "Povos mercadores da China",
+                "Povos montanheses do Nepal"
+              ],
+              "alternativa_correta": 3
+            },
+            {
+              "pergunta": "As mulheres da etnia flower hmong fazem tecidos:",
+              "alternativas": [
+                "Bordados e multicoloridos.",
+                "Bordados com apenas uma cor",
+                "Bordados somente com a cor verde",
+                "Bordados somente com a cor azul"
+              ],
+              "alternativa_correta": 0
+            },
+            {
+              "pergunta": "O que significa a palavra Himalaia?",
+              "alternativas": [
+                "Morada das chuvas",
+                "Morada das neves",
+                "Morada do sol",
+                "Morada dos ventos"
+              ],
+              "alternativa_correta": 1
+            },
+            {
+              "pergunta": "Nas montanhas do Himalaia, qual animal é utilizado para puxar as cargas pesadas, além de servir como alimento, produção de artesanato e vestuário?",
+              "alternativas": [
+                "Camelo",
+                "Cavalo",
+                "Iaque",
+                "Ovelha"
+              ],
+              "alternativa_correta": 2
+            },
+            {
+              "pergunta": "Quem eram os indivíduos do grupo sudras ou dalits na antiga sociedade nepalesa?",
+              "alternativas": [
+                "Servos, camponeses, artesãos e operários",
+                "Sacerdotes e intelectuais",
+                "Governantes e guerreiros",
+                "Comerciantes e agricultores"
+              ],
+              "alternativa_correta": 0
+            },
+            {
+              "pergunta": "As comunidades que vivem mais perto do Pico do Everest  tem suas atividades em torno da agricultura nas encostas das montanhas. Quem são eles? ",
+              "alternativas": [
+                "Os Maias",
+                "Os Hmongs",
+                "Os Sherpas",
+                "Os Xátrias"
+              ],
+              "alternativa_correta": 2
+            },
+            {
+              "pergunta": "Quando foi instituído o sistema republicano de governo no Nepal?",
+              "alternativas": [
+                "1947",
+                "1950",
+                "1979",
+                "2006"
+              ],
+              "alternativa_correta": 3
+            },
+            {
+              "pergunta": "O que é o ar rarefeito, mencionado no texto sobre o Himalaia?",
+              "alternativas": [
+                "Ar com pressão atmosférica elevada",
+                "Ar com pressão atmosférica normal",
+                "Ar com pressão atmosférica reduzida",
+                "Ar com pressão atmosférica constante"
+              ],
+              "alternativa_correta": 2
+            },
+            {
+              "pergunta": "Como é a região do Himalaia em relação ao clima e vegetação? ",
+              "alternativas": [
+                "É bastante fria, tem muita neve, pouca vegetação, vendavais frequentes",
+                "É bastante quente, tem pouca neve, muita vegetação, ventos fracos",
+                "É úmida e seco, com muitas arvores e rochas",
+                "É rochoso com muitas arvores e ventos fortes"
+              ],
+              "alternativa_correta": 0
+            },
+            {
+              "pergunta": "Por qual motivo foi o criado o Parque Nacional de Sagarmatha?",
+              "alternativas": [
+                "Para as crianças brincarem",
+                "Para a proteção do parque nacional e para proteção da fauna e flora nativa.",
+                "Para o turismo social",
+                "Para a proteção dos habitantes e turistas"
+              ],
+              "alternativa_correta": 1
+            },
+            {
+              "pergunta": "Os lagos da região do Himalaia são alimentados pelo degelo das encostas das montanhas",
+              "alternativas": [
+                "Verdadeiro",
+                "Falso"
+              ],
+              "alternativa_correta": 0
+            },
+            {
+              "pergunta": "Os Sherpas são uma comunidade que vivem no pico do Everest e eles vivem a 3.962 m de altitude do vale do Khumbu.",
+              "alternativas": [
+                "Verdadeiro",
+                "Falso"
+              ],
+              "alternativa_correta": 0
+            },
+            {
+              "pergunta": "O que são os Iaques é uma espécie de Camelo domesticado para puxar cargas pesadas e da também leite e a carne.",
+              "alternativas": [
+                "Verdadeiro",
+                "Falso"
+              ],
+              "alternativa_correta": 1
+            },
+            {
+              "pergunta": "Em que ano foi abolida a sociedade de castas na Índia? Por qual motivo?",
+              "alternativas": [
+                "No ano de 2006, no ano que foi intituido o sistema republicano",
+                "No ano de 1947, por causa das mudanças políticas e nas leis do país.",
+                "No ano de 2023, no ano das Olimpiadas",
+                "No ano de 1950, no ano que o desafio de atingir o topo do Monte Evereste foi superado"
+              ],
+              "alternativa_correta": 1
+            },
+            {
+              "pergunta": "Como funcionava a sociedade de castas no Nepal?",
+              "alternativas": [
+                "Cada casta defini o povo mais rico da sociedade",
+                "As castas elege o Rei.",
+                "Cada casta define quem é o governante",
+                "Cada casta define a origem e a função dos integrantes exercerão na sociedade."
+              ],
+              "alternativa_correta": 3
+            },
+            {
+              "pergunta": "o que são Brâmanes",
+              "alternativas": [
+                "Reis e Mestres",
+                "Intelectual e sacerdotal",
+                "Agricultores e Servos",
+                "Guerreiros e Medrosos"
+              ],
+              "alternativa_correta": 1
+            },
+            {
+              "pergunta": "o que são Xátrias",
+              "alternativas": [
+                "Guerreiros e os Governantes",
+                "Intelectual e sacerdotal",
+                "Agricultores e Servos",
+                "Guerreiros e Medrosos"
+              ],
+              "alternativa_correta": 0
+            },
+            {
+              "pergunta": "o que são Vaixás",
+              "alternativas": [
+                "Guerreiros e os Governantes",
+                "Intelectual e sacerdotal",
+                "Agricultores, os pastores e os Comerciantes",
+                "Guerreiros e Medrosos"
+              ],
+              "alternativa_correta": 2
+            },
+            {
+              "pergunta": "o que são Sudras ou Dalits",
+              "alternativas": [
+                "Os servos, os camponeses, os artesões e os operários",
+                "Intelectual e sacerdotal",
+                "Agricultores, os pastores e os Comerciantes",
+                "Guerreiros e Medrosos"
+              ],
+              "alternativa_correta": 0
+            },
+            {
+              "pergunta": "Quais são as etnias hmongs?",
+              "alternativas": [
+                "Black, Blue, Brown, Dog e Flower",
+                "White, Red, Yellow, Black e Flower",
+                "Black, White, Red, Green e Flower",
+                "Green, White, Yellow, Red e Black"
+              ],
+              "alternativa_correta": 2
+            }                           
+          ]
+        },
+        "3 - A vida em uma ilha": {
+          "questoes": [
+            {
+              "pergunta": "Em qual oceano as Ilhas Faroé se encontram?",
+              "alternativas": [
+                "Ártico",
+                "Pacífico",
+                "Atlântico",
+                "Índico"
+              ],
+              "alternativa_correta": 2
+            },
+            {
+              "pergunta": "Quantas ilhas compõem esse arquipélago de Faroé",
+              "alternativas": [
+                "10 ilhas maiores",
+                "18 ilhas e outras menores",
+                "1 ilha e 18 menores",
+                "5 ilhas menores"
+              ],
+              "alternativa_correta": 1
+            },
+            {
+              "pergunta": "As ilhas de Faroé pertencem a qual país?",
+              "alternativas": [
+                "Estados Unidos da América",
+                "Irlândia",
+                "Brasíl",
+                "Dinamarca"
+              ],
+              "alternativa_correta": 3
+            },
+            {
+              "pergunta": "Qual a principal atividade econômica da ilha de Faroé",
+              "alternativas": [
+                "Pesca, Pague e Exportação de fruto do mar ",
+                "Agricultura, Pesca e Miniração",
+                "Pesca, Exportação de fruto do mar e Transporte marítico",
+                "Venda, Pesca e Agricultura"
+              ],
+              "alternativa_correta": 2
+            },
+            {
+              "pergunta": "Como é o solo das Ilhas de Faroé",
+              "alternativas": [
+                "Gramado e Plano",
+                "Montanhoso com Árvores",
+                "Seco e úmido",
+                "Rochoso e sem Árvore"
+              ],
+              "alternativa_correta": 3
+            },
+            {
+              "pergunta": "Como é o clima nas Ilhas de Faroé",
+              "alternativas": [
+                "Frio e Úmido",
+                "Calor e Seco",
+                "Quente e Frio",
+                "Frio e Seco"
+              ],
+              "alternativa_correta": 0
+            } ,
+            {
+              "pergunta": "Em quais meses há mais luz solar e menos chuvas nas Ilhas do Faroé",
+              "alternativas": [
+                "Dezembro e Março",
+                "Junho e Setembro",
+                "Maio e Agosto",
+                "Outubro e Dezembro"
+              ],
+              "alternativa_correta": 1
+            }  ,
+            {
+              "pergunta": "Em quais meses a neve cai nas Ilhas do Faroé",
+              "alternativas": [
+                "Dezembro e Março",
+                "Junho e Setembro",
+                "Maio e Agosto",
+                "Outubro e Dezembro"
+              ],
+              "alternativa_correta": 0
+            }  ,
+            {
+              "pergunta": "As áreas de pastagens nas Ilhas de Faroé favorecem a criação de:",
+              "alternativas": [
+                "Galinhas",
+                "Vacas",
+                "Ovelhas",
+                "Cavalos"
+              ],
+              "alternativa_correta": 2
+            },
+            {
+              "pergunta": "Os habitantes da Ilha constroem suas casas com grama em cima do telhado, para ajudar a mantê-las mais aquecida",
+              "alternativas": [
+                "Verdadeiro",
+                "Falso"
+              ],
+              "alternativa_correta": 0
+            }                                       
+          ]
+        }
+      }
     },
-    {
-      "materia": "Geografia",
-      "pergunta": "O que é o Censo e qual a sua importância?",
-      "alternativas": [
-        "O Censo é uma pesquisa que visa conhecer a quantidade de habitantes em um do mundo.",
-        "O Censo é um registro obrigatório de todos os cidadãos brasileiros. É importante para que o governo possa controlar a população e garantir a segurança nacional.",
-        "O Censo é uma pesquisa que visa conhecer as características da população brasileira, quem são, quantos são e como vivem os habitantes do país.",
-        "O Censo é uma pesquisa que visa conhecer a distribuição espacial da população brasileira. É importante para que o governo possa planejar o desenvolvimento urbano e rural do país."
-      ],
-      "alternativa_correta": 2
+    "Geografia": {
+      "capitulo": {
+        "2 - Ter ou não ter filhos": {
+          "questoes": [
+            {
+              "pergunta": "O que são pirâmides etárias?",
+              "alternativas": [
+                "Gráfico onde são apresentadas as informações de idade da população",
+                "Gráfico onde são apresentadas as informações de gêneros da população",
+                "Gráfico onde são apresentadas as informações de estado do Brasíl",
+                "Gráfico onde são apresentadas as informações de cidades do Brasil"
+              ],
+              "alternativa_correta": 0
+            },
+            {
+              "pergunta": "Por que é importente conhecer a idade dos Brasileiros",
+              "alternativas": [
+                "Para fazer a contagem por idade",
+                "Ter Informações de gêneros da população",
+                "Para conhecer necessidade de cada grupo que devem ser atendida",
+                "Para ver qual é o maior grupo"
+              ],
+              "alternativa_correta": 2
+            },
+            {
+              "pergunta": "O número de filhos diminuiu nos ultimos anos porque muitas famílias que viviam no campo passaram a viver na cidade",
+              "alternativas": [
+                "Verdadeiro",
+                "Falso"
+              ],
+              "alternativa_correta": 0
+            },
+            {
+              "pergunta": "O número de filhos diminuiu nos ultimos anos porque o governo proibiu o nascimento de muitas crianças",
+              "alternativas": [
+                "Verdadeiro",
+                "Falso"
+              ],
+              "alternativa_correta": 1
+            },
+            {
+              "pergunta": "O número de filhos diminuiu nos ultimos anos porque foram disponibilizado métodos de prevenção à gravidez",
+              "alternativas": [
+                "Verdadeiro",
+                "Falso"
+              ],
+              "alternativa_correta": 0
+            },
+            {
+              "pergunta": "O número de filhos diminuiu nos ultimos anos porque o custo de um filho ficou ainda maior do que no campo",
+              "alternativas": [
+                "Verdadeiro",
+                "Falso"
+              ],
+              "alternativa_correta": 0
+            }                  
+          ]
+        },
+        "3 - Desafios da população": {
+          "questoes": [
+            {
+              "pergunta": "Qual o nome da Lei criada em 2006 para proteger as mulheres?",
+              "alternativas": [
+                "Lei Mario de Andrade",
+                "Lei Maria da Penha",
+                "Lei Maria da Peia",
+                "Lei Maria da Conceição"
+              ],
+              "alternativa_correta": 1
+            },
+            {
+              "pergunta": "Onde a Mulher vítima de violência tem que ir pedir socorro?",
+              "alternativas": [
+                "No corpo de bombeiros",
+                "Na emissora de televisão",
+                "Na Delegacia de Defesa da Mulher",
+                "No supermercado"
+              ],
+              "alternativa_correta": 2
+            },
+            {
+              "pergunta": "A violência contra mulher é entendida como:",
+              "alternativas": [
+                "Uma ação de pouca gravidade, pois mulheres e homens são igual em tudo",
+                "Todos os atos que as ferem física ou emocionalmente",
+                "Qualquer ação praticada por um homem em relação a uma mulher",
+                "Ações que as impedem de trabalhar, gerar filhos e estudar"
+              ],
+              "alternativa_correta": 1
+            },
+            {
+              "pergunta": "O que significa expectativa de vida",
+              "alternativas": [
+                "O número médio de anos que uma pessoa poderá viver",
+                "E a definição do dia em que a pessoa vai morrer",
+                "O número de pessoas que possuem vida",
+                "A espera de uma vida que vai nascer"
+              ],
+              "alternativa_correta": 0
+            },
+            {
+              "pergunta": "Quais profissões eram essencialmente masculina e passaram a exercidas também por mulheres",
+              "alternativas": [
+                "Médico, babá, dona de casa, policial",
+                "Cozinheiro, agricultor, enfermeiro, professor",
+                "Professor, bombeiro, motorista de ônibus, babá",
+                "Policial, bombeiro, motorista de ônibus, mecânico"
+              ],
+              "alternativa_correta": 3
+            },
+            {
+              "pergunta": "A necessidade financeira de contribuir para o sustento da família, por exemplo, fez com que muitas mulheres começassem a trabalhar fora de casa",
+              "alternativas": [
+                "Verdadeiro",
+                "Falso"
+              ],
+              "alternativa_correta": 0
+            },
+            {
+              "pergunta": "Qual a definição de Geração",
+              "alternativas": [
+                "São grupo familiares, como filhos, pais, netos, bisnetos",
+                "São apenas os pais",
+                "São grupo de familiares e vizinhos",
+                "São grupo de uma escola, como professores, alunos e diretores"
+              ],
+              "alternativa_correta": 0
+            },
+            {
+              "pergunta": "O principal motivos para o aumento da expectativa de vida são:",
+              "alternativas": [
+                "Muita alimentação, refrigerantes e doces",
+                "Acesso a cuidados médicos, programas de prevenção de doenças, alimentação adequada e atividades físicas",
+                "Pouca atividade física e pouca alimentação",
+                "Evitar ir ao médica para não contrair doenças"
+              ],
+              "alternativa_correta": 1
+            },
+            {
+              "pergunta": "O estatuto do idoso resumem em direitos que envolvem: saúde, respeito, alimentação digna e liberdade",
+              "alternativas": [
+                "Verdadeiro",
+                "Falso"
+              ],
+              "alternativa_correta": 0
+            },
+            {
+              "pergunta": "Pela Lei Maria da Penha vários atos são considerados violência, entre eles:",
+              "alternativas": [
+                "Ameaça, gentileza, respeito, humilhação",
+                "Calúnia, obediencia, contrangimento, difamação",
+                "Ameaça, humilhação, violência física, perseguição",
+                "Difamação, gentileza, carinhos, humilhação"
+              ],
+              "alternativa_correta": 2
+            },
+            {
+              "pergunta": "É importante que meninos e meninas assumam igualmente responsabilidades nas tarefas domésticas, pois elas desenvolverão uma série de habilidades importantes.",
+              "alternativas": [
+                "Verdadeiro",
+                "Falso"
+              ],
+              "alternativa_correta": 0
+            },
+            {
+              "pergunta": "Por que é importante que meninos e meninas assumam igualmente responsabilidade nas tarefas domésticas?",
+              "alternativas": [
+                "Para exigir pagamento pelas tarefas",
+                "Para ter organização, responsabilidades, autonomia",
+                "Para ter preguiça, responsabilidade e desobediência",
+                "Para ter responsabilidade e remuneração salarial"
+              ],
+              "alternativa_correta": 1
+            },
+            {
+              "pergunta": "O dia 10 de outubro é considerado o dia de?",
+              "alternativas": [
+                "Dia das crianças",
+                "Dia nacional da luta contra a Violência à Mulher",
+                "Dia do Professor",
+                "Dia nascional da mentira"
+              ],
+              "alternativa_correta": 1
+            }                                      
+          ]
+        }       
+      }
     },
-    {
-      "materia": "Geografia",
-      "pergunta": "Qual a periodicidade do Censo no Brasil?",
-      "alternativas": [
-        "A cada ano",
-        "A cada cinco anos",
-        "A cada dez anos",
-        "A cada quinze anos"
-      ],
-      "alternativa_correta": 2
-    },
-    {
-      "materia": "Geografia",
-      "pergunta": "O que é amostragem e qual a sua relação com o Censo?",
-      "alternativas": [
-        "Amostragem é uma técnica de pesquisa que consiste em coletar dados de apenas uma parte da população. É utilizada no Censo para reduzir os custos e o tempo da pesquisa.",
-        "Amostragem é uma técnica de pesquisa que consiste em coletar dados de toda a população. É utilizada no Censo para garantir a qualidade dos dados coletados.",
-        "Amostragem é uma técnica de pesquisa que consiste em coletar dados de uma população específica, como os indígenas ou os quilombolas. É utilizada no Censo para conhecer as características específicas dessas populações.",
-        "Amostragem é uma técnica de pesquisa que consiste em coletar dados de uma região específica do país, como a Amazônia ou o Nordeste. É utilizada no Censo para conhecer as características específicas dessas regiões."
-      ],
-      "alternativa_correta": 0
-    },
-    {
-      "materia": "Geografia",
-      "pergunta": "Em que ano o Brasil fez a primeira contagem total de sua população por meio do censo?",
-      "alternativas": [
-        "1900",
-        "1872",
-        "2021",
-        "1500"
-      ],
-      "alternativa_correta": 1
-    },
-    {
-      "materia": "Geografia",
-      "pergunta": "O que é Amostragem?",
-      "alternativas": [
-        "Pesquisa com toda a população, em todas as cidades",
-        "Pesquisa realizada com uma pessoa e de uma cidade",
-        "Pesquisa realizada com apenas parte da população e somente em algumas cidades",
-        "Pesquisa ilimitada realizada em algumas cidades"
-      ],
-      "alternativa_correta": 2
-    },
-    {
-      "materia": "Geografia",
-      "pergunta": "O Censo pode ser chamado também de:",
-      "alternativas": [
-        "Amostragem",
-        "Rechecagem",
-        "Contagem",
-        "Recenseamento"
-      ],
-      "alternativa_correta": 3
-    },
-    {
-      "materia": "Geografia",
-      "pergunta": "Onde o censo é realizado?",
-      "alternativas": [
-        "Em cada domicílio ou residencia, apenas na zona urbana",
-        "Em cada domicílio rural",
-        "Em cada domicílio ou residência, tanto na zona urbana como na rural",
-        "Em cada domicílio ou residência, na zona rural"
-      ],
-      "alternativa_correta": 2
-    },    
-    {
-      "materia": "Geografia",
-      "pergunta": "Qual Órgão realiza o censo no Brasíl",
-      "alternativas": [
-        "INEP",
-        "IBGE",
-        "INSS",
-        "EMBRAPA"
-      ],
-      "alternativa_correta": 1
-    },
-    {
-      "materia": "Geografia",
-      "pergunta": "Onde são registrados os nascimentos e óbitos",
-      "alternativas": [
-        "No IBGE",
-        "Nos cartórios de registro civil",
-        "Nos hospitais públicos e cemitérios",
-        "Nos cartórios de registros de títulos e documentos "
-      ],
-      "alternativa_correta": 1
-    },
-    {
-      "materia": "Geografia",
-      "pergunta": "O que faz aumentar a população no Brasíl",
-      "alternativas": [
-        "Nascimento registrados, estrangeiros que entram no país, óbitos",
-        "Saída de brasileiro para viver em outro país, Nascimento registrados e óbitos",
-        "Nascimento registrados e estrangeiros que entram no país",
-        "Nascimento registrados e Óbitos registrados"
-      ],
-      "alternativa_correta": 2
-    },
-    {
-      "materia": "Geografia",
-      "pergunta": "Onde é feito o registro dos Estrangeiros que entram no país?",
-      "alternativas": [
-        "No IBGE",
-        "Nos cartórios de registro civil",
-        "Na Polícia Federal",
-        "Nos hospitais públicos e cemitérios"
-      ],
-      "alternativa_correta": 2
-    },    
-    {
-      "materia": "Geografia",
-      "pergunta": "O que faz diminuir a população no Brasíl",
-      "alternativas": [
-        "Nascimento registrados, estrangeiros que entram no país e óbitos",
-        "Saída de brasileiro para vive em outro país e óbitos registrados",
-        "Nascimento registrados, estrangeiros que entram no país",
-        "Nascimento registrados e Óbitos registrados"
-      ],
-      "alternativa_correta": 1
-    },
-    {
-      "materia": "Geografia",
-      "pergunta": "Quias os três países mais populosos do mundo?",
-      "alternativas": [
-        "Brasil, Índia e China",
-        "China, Índia e Paquistão",
-        "Estados Unidos, Rússia e Brasíl",
-        "Índia, China e Estados Unidos"
-      ],
-      "alternativa_correta": 3
-    },
-    {
-      "materia": "Geografia",
-      "pergunta": "Segundo a OMS (Organização Mundial de Saúde) qual as duas principais causas de morte de adolecentes e jovens brasileiros",
-      "alternativas": [
-        "Violência doméstica e acientes de ônibus",
-        "Violência interpessoal e acidentes de trânsito",
-        "Acidentes de bicicleta e violência urbana",
-        "Brigas e violência interpessoal"
-      ],
-      "alternativa_correta": 1
-    },
-    {
-      "materia": "Geografia",
-      "pergunta": "As brigas entre jovens e a prática do bullying são consideradas violência interpessoal?",
-      "alternativas": [
-        "Verdadeiro",
-        "Falso"
-      ],
-      "alternativa_correta": 0
-    },
-    {
-      "materia": "Geografia",
-      "pergunta": "É incomum casos de acidente de trânsito envolvendo veículos dirigidos por jovens?",
-      "alternativas": [
-        "Verdadeiro",
-        "Falso"
-      ],
-      "alternativa_correta": 1
-    },
-    {
-      "materia": "Geografia",
-      "pergunta": "A ausência de habilitação para dirigir pode levar à ocorrência de acidentes fatais?",
-      "alternativas": [
-        "Verdadeiro",
-        "Falso"
-      ],
-      "alternativa_correta": 0
-    }                                                                                     
-
-
-  ]
+    "Ciências": {
+      "capitulo": {
+        "2 - Nossa Vizinhança": {
+          "questoes": [
+            {
+              "pergunta": "Qual o nome da galáxia mais próxima da Via Láctea?",
+              "alternativas": [
+              "Andrômeda",
+              "Júpiter",
+              "Saturno",
+              "Urano"
+              ],
+              "alternativa_correta": 0
+            },
+            {
+              "pergunta": "O que é o Sol em relação ao Sistema Solar?",
+              "alternativas": [
+              "Um cometa",
+              "Uma estrela",
+              "Um planeta gasoso",
+              "Um planeta rochoso"
+              ],
+              "alternativa_correta": 1
+            },
+            {
+              "pergunta": "Qual a ciência que investiga o Universo e os corpos celestes",
+              "alternativas": [
+              "Anatomia",
+              "Cientistas",
+              "Geografía",
+              "Astronomia"
+              ],
+              "alternativa_correta": 3
+            },
+            {
+              "pergunta": "Quantos planetas compoem o Sistema Solar",
+              "alternativas": [
+              "9 planetas",
+              "10 planetas",
+              "8 planetas",
+              "7 planetas"
+              ],
+              "alternativa_correta": 2
+            },
+            {
+              "pergunta": "Quais são os planetas rochosos do Sistema Solar?",
+              "alternativas": [
+              "Júpiter, Saturno, Urano, Netuno",
+              "Mercúrio, Vênus, Terra, Marte",
+              "Plutão, Saturno, Júpiter, Vênus",
+              "Terra, Lua, Andrômeda, Marte"
+              ],
+              "alternativa_correta": 1
+            },
+            {
+              "pergunta": "O Sistema Solar é um conjunto formado por oito planetas e outros corpos celestes, que orbitam o Sol, a sua principal estrela.",
+              "alternativas": [
+              "Verdadeiro",
+              "Falso"
+              ],
+              "alternativa_correta": 0
+            },
+            {
+              "pergunta": "Quais são os planetas gasosos do Sistema Solar?",
+              "alternativas": [
+              "Júpiter, Saturno, Urano, Netuno",
+              "Mercúrio, Vênus, Terra, Marte",
+              "Plutão, Saturno, Júpiter, Vênus",
+              "Terra, Lua, Andrômeda, Marte"
+              ],
+              "alternativa_correta": 0
+            },
+            {
+              "pergunta": "O que são os meteoritos?",
+              "alternativas": [
+              "Pedaços de asteroides que caem na Terra",
+              "Estrelas cadentes",
+              "Meteoroides que não queimaram na atmosfera",
+              "Crateras formadas por cometas"
+              ],
+              "alternativa_correta": 0
+            },
+            {
+              "pergunta": "O que é a Via Láctea?",
+              "alternativas": [
+              "Uma galáxia",
+              "Um planeta",
+              "Um cometa",
+              "Uma estrela"
+              ],
+              "alternativa_correta": 0
+            },
+            {
+              "pergunta": "Qual é o nome do satélite natural da Terra?",
+              "alternativas": [
+              "Lua",
+              "Marte",
+              "Netuno",
+              "Vênus"
+              ],
+              "alternativa_correta": 0
+            },
+            {
+              "pergunta": "O que são as constelações?",
+              "alternativas": [
+              "Planetas vizinhos da Terra",
+              "Aglomerados de estrelas",
+              "Cometas luminosos",
+              "Estrelas cadentes"
+              ],
+              "alternativa_correta": 1
+            },
+            {
+              "pergunta": "Qual é o nome do sistema de anéis que envolve Saturno?",
+              "alternativas": [
+              "Anéis de Saturno",
+              "Anéis de Júpiter",
+              "Anéis de Netuno",
+              "Anéis de Marte"
+              ],
+              "alternativa_correta": 0
+            },
+            {
+              "pergunta": "Os anéis de Saturno são formados por:",
+              "alternativas": [
+              "Por rochas, poeira e gases",
+              "Por metal, água e material gasolo, ",
+              "Por gelo, poeira cósmica e material rochoso",
+              "Por pedra, poeira de gelo e material gasoso"
+              ],
+              "alternativa_correta": 2
+            },
+            {
+              "pergunta": "Satélite natural é um corpo celeste que não tem luz própria e gira em torno de um planeta.",
+              "alternativas": [
+              "Verdadeiro",
+              "Falso"
+              ],
+              "alternativa_correta": 0
+            },
+            {
+              "pergunta": "O que são os cometas?",
+              "alternativas": [
+              "Astros luminosos como o Sol",
+              "Corpos celestes que refletem a luz das estrelas",
+              "Corpos formados por gelo, rochas e gases",
+              "Pequenos planetas rochosos"
+              ],
+              "alternativa_correta": 2
+            },
+            {
+              "pergunta": "Qual é o maior planeta do Sistema Solar?",
+              "alternativas": [
+              "Terra",
+              "Netuno",
+              "Júpiter",
+              "Saturno"
+              ],
+              "alternativa_correta": 2
+            },
+            {
+              "pergunta": "O que são os asteroides?",
+              "alternativas": [
+              "Corpos celestes formados por gelo e gases",
+              "Corpos celestes constituídos por rochas e metais",
+              "Estrelas cadentes",
+              "Meteoroides que não queimaram na atmosfera"
+              ],
+              "alternativa_correta": 1
+            },
+            {
+              "pergunta": "Nas situações em que um asteroide ou um cometa se quebram, os pedaços deles, que passam a ser denominados meteoroides, ficam vagando pelo espaço sem uma órbita específica.",
+              "alternativas": [
+              "Verdadeiro",
+              "Falso"
+              ],
+              "alternativa_correta": 0
+            },
+            {
+              "pergunta": "O que caracteriza um astro luminoso?",
+              "alternativas": [
+              "Produzir luz própria",
+              "Refletir a luz das estrelas",
+              "Ser um planeta gasoso",
+              "Ser um planeta rochoso"
+              ],
+              "alternativa_correta": 0
+            },
+            {
+              "pergunta": "O que caracteriza um astro iluminado?",
+              "alternativas": [
+              "Produzir luz própria",
+              "Refletir a luz das estrelas",
+              "Ser um planeta gasoso",
+              "Ser um planeta rochoso"
+              ],
+              "alternativa_correta": 1
+            },
+            {
+              "pergunta": "Os asteroides conhecidos também como:",
+              "alternativas": [
+              "Cometas",
+              "Satélite",
+              "Planetoides",
+              "Planetas"
+              ],
+              "alternativa_correta": 2
+            },
+            {
+              "pergunta": "No Brasil, durante o verão, é possível observar qual constelação?",
+              "alternativas": [
+              "Constelação de Escorpião",
+              "Constelação de Órion",
+              "Cão Menor",
+              "Pégaso"
+              ],
+              "alternativa_correta": 1
+            },
+            {
+              "pergunta": "No Brasil, durante o inverno, é possível observar qual constelação?",
+              "alternativas": [
+              "Constelação de Escorpião",
+              "Constelação de Órion",
+              "Cão Menor",
+              "Pégaso"
+              ],
+              "alternativa_correta": 0
+            }
+            ]
+          },
+          "3 - Explorando a Via Láctea": {
+            "questoes": [
+            {
+              "pergunta": "Quem foi a primeira pessoa a pisar na Lua",
+              "alternativas": [
+              "Jair Messias Bolsonaro",
+              "Neil Alden Armstrong",
+              "Juscelino Kubitschek",
+              "Dilma Rousseff"
+              ],
+              "alternativa_correta": 1
+            },
+            {
+              "pergunta": "Em que ano o homem pisou na Lua pela primeira vez?",
+              "alternativas": [
+              "1961",
+              "1969",
+              "1975",
+              "1985"
+              ],
+              "alternativa_correta": 1
+            },
+            {
+              "pergunta": "O programa exploratório de missões espaciais tripuladas na Lua foi interrompido pela Nasa devido aos custos elevados e aos muitos riscos envolvidos nas missões tripuladas.",
+              "alternativas": [
+              "Verdadeiro",
+              "Faloso"
+              ],
+              "alternativa_correta": 0
+            },
+            {
+              "pergunta": "Os satélites brasileiros que se encontram no espaço são rastreados pelo:",
+              "alternativas": [
+              "IBGE - Instituto Brasileiro de Geografia e Estatística",
+              "INPE - Instituto Nacional de Pesquisas Espaciais",
+              "DEAM - Delegacia Especial de Atendimento à Mulher",
+              "EMBRAPA - Empresa Brasileira de Pesquisa Agropecuária"
+              ],
+              "alternativa_correta": 1
+            },
+            {
+              "pergunta": "O que é GPS",
+              "alternativas": [
+              "Programa de edição de fotos e vídeos.",
+              "Método de pagamento digital utilizado em celulares",
+              "É um aparelho utilizado para observar o universo",
+              "É um sistema de navegação por satélite que fornece informações sobre a localização em tempo real, possibilitando a localização de endereço"
+              ],
+              "alternativa_correta": 3
+            },
+            {
+              "pergunta": "Os satélite desenvolvido pelo INPE tem objetivo de:",
+              "imagem": "https://img.freepik.com/vetores-premium/desenho-de-menino-jogando-futebol-no-fundo-branco_353337-504.jpg?w=740",
+              "alternativas": [
+              "Detectar sinais de vida extraterrestre em outros planetas.",
+              "Aperfeiçoar a comunicação, a navegação, o monitoramento do tempo e do clima",
+              "Mapear a distribuição de pizza nas cidades brasileiras.",
+              "Monitorar atividades de trânsito em grandes cidades."
+              ],
+              "alternativa_correta": 1
+            }                                      
+          ]
+        }       
+      }
+    }
+  }
+}
