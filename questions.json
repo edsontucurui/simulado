@@ -977,7 +977,7 @@
               "alternativa_correta": 1
             },
             {
-              "pergunta": "Choose the correct body parts in English: Perna, Pés, Dedos das Mãoe e Boca",
+              "pergunta": "Choose the correct body parts in English: Perna, Pés, Dedos das Mãos e Boca",
               "alternativas": [
               "Swimming, Head, Ear and Mouth",
               "Leg, Feet, Eyes and Arm",
@@ -985,7 +985,112 @@
               "Leg, Fingers, Feet and shoulder"
               ],
               "alternativa_correta": 2
-            }                                                
+            },
+            {
+              "pergunta": "Look at the image and select the correct option.",
+              "imagem": {
+                "url": "https://www.educolorir.com/paginas-para-colorir-ombros-dl11483.jpg",
+                "largura": 95,
+                "altura": 100
+              },              
+              "alternativas": [
+              "Feet",
+              "Mouth",
+              "Shoulders",
+              "Knee"
+              ],
+              "alternativa_correta": 2
+            },
+            {
+              "pergunta": "Look at the image and select the correct option.",
+              "imagem": {
+                "url": "https://www.tudodesenhos.com/uploads/images/12527/dedos-da-mao.gif",
+                "largura": 95,
+                "altura": 100
+              },              
+              "alternativas": [
+              "Fingers",
+              "Mouth",
+              "Shoulders",
+              "Knee"
+              ],
+              "alternativa_correta": 0
+            },
+            {
+              "pergunta": "Look at the image and select the correct option.",
+              "imagem": {
+                "url": "https://cdn5.colorir.com/desenhos/color/201632/braco-o-corpo-humano-1283952.jpg",
+                "largura": 95,
+                "altura": 100
+              },              
+              "alternativas": [
+              "Fingers",
+              "Mouth",
+              "Knee",
+              "Arm"
+              ],
+              "alternativa_correta": 3
+            },
+            {
+              "pergunta": "Look at the image and select the correct option.",
+              "imagem": {
+                "url": "https://images.vexels.com/media/users/3/258266/isolated/lists/813e18586598010892d999d9f1f767ea-dobra-do-joelho-da-perna.png",
+                "largura": 95,
+                "altura": 100
+              },              
+              "alternativas": [
+              "Fingers",
+              "Knee",
+              "Nose",
+              "Arm"
+              ],
+              "alternativa_correta": 1
+            },
+            {
+              "pergunta": "Look at the image and select the correct option.",
+              "imagem": {
+                "url": "https://st4.depositphotos.com/1496387/22342/v/450/depositphotos_223420856-stock-illustration-hands-cupped-together-sketch-vector.jpg",
+                "largura": 95,
+                "altura": 100
+              },              
+              "alternativas": [
+              "Fingers",
+              "Knee",
+              "Nose",
+              "Hands"
+              ],
+              "alternativa_correta": 3
+            },
+            {
+              "pergunta": "Look at the image and select the correct option.",
+              "imagem": {
+                "url": "https://i.pinimg.com/originals/5d/52/25/5d5225e82cefae64ddcd68f44229c6e3.jpg",
+                "largura": 95,
+                "altura": 100
+              },              
+              "alternativas": [
+              "Head",
+              "Knee",
+              "Nose",
+              "Hands"
+              ],
+              "alternativa_correta": 0
+            },
+            {
+              "pergunta": "Look at the image and select the correct option.",
+              "imagem": {
+                "url": "https://static.vecteezy.com/ti/vetor-gratis/p1/8655845-cap-sketch-vetor.jpg",
+                "largura": 95,
+                "altura": 100
+              },              
+              "alternativas": [
+              "T-shirt",
+              "Cap",
+              "Jeans",
+              "Socks"
+              ],
+              "alternativa_correta": 1
+            }                                                                                     
           ]
         }
       }
