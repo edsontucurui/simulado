@@ -1094,6 +1094,29 @@
           ]
         }
       }
+    },
+    "Matemática": {
+      "capitulo": {
+        "1 - Geometria: imagens, formas e movimentos": {
+          "questoes": [
+            {
+              "pergunta": "Em qual dos relógios a seguir conseguimos ver um ângulo raso",
+              "imagem": {
+                "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhRtAqeXox2_EZ0YUH4jk8mYVNdPGPH_OfuHxftHDPEbxdKggFj0NY5_nRp63TPaezSFOz7I1MoTdSL7C_4soeJS_Rh8qGOC-BcMJuK0SrjKen9Z2e4vl-8dHfDEKQk9l51W0tWD0iKawkQ/s332/1.png",
+                "largura": 50,
+                "altura": 70
+              },              
+              "alternativas": [
+              "Relógio 1",
+              "Relógio 2",
+              "Relógio 3",
+              "Relógio 4"
+              ],
+              "alternativa_correta": 3
+            }
+          ]
+        }
+      }
     }
   }
 }
