@@ -1103,8 +1103,8 @@
               "pergunta": "Em qual dos relógios a seguir conseguimos ver um ângulo raso",
               "imagem": {
                 "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhRtAqeXox2_EZ0YUH4jk8mYVNdPGPH_OfuHxftHDPEbxdKggFj0NY5_nRp63TPaezSFOz7I1MoTdSL7C_4soeJS_Rh8qGOC-BcMJuK0SrjKen9Z2e4vl-8dHfDEKQk9l51W0tWD0iKawkQ/s332/1.png",
-                "largura": 50,
-                "altura": 70
+                "largura": 380,
+                "altura": 100
               },              
               "alternativas": [
               "Relógio 1",
@@ -1113,7 +1113,193 @@
               "Relógio 4"
               ],
               "alternativa_correta": 3
-            }
+            },
+            {
+              "pergunta": "Qual o nome do ângulo da figura abaixo",
+              "imagem": {
+                "url": "https://images.educamaisbrasil.com.br/content/banco_de_imagens/guia-de-estudo/D/angulo-agudo.jpg",
+                "largura": 240,
+                "altura": 150
+              },              
+              "alternativas": [
+              "Reto",
+              "Agudo",
+              "Raso",
+              "Obtuso"
+              ],
+              "alternativa_correta": 1
+            },
+            {
+              "pergunta": "Qual das figuras é um ângulo de 90 graus:",
+              "imagem": {
+                "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiELsY_0-MOsVkyYp46KB_lQkaCWE_yVtsSX98b2vf8ablD9c9CNKU-ghsoFp8VkP_qFvO02hiMGy4g-Ucw-XtILgL50syPgWZGXiypGAKPmimGpfCVGSfhwTorvmYhRL56SmZhWTDlc1QJ/s382/1.png",
+                "largura": 400,
+                "altura": 190
+              },              
+              "alternativas": [
+              "A",
+              "B",
+              "C",
+              "D"
+              ],
+              "alternativa_correta": 0
+            },
+            {
+              "pergunta": "Um ângulo pode ser classificado RETO quando:",
+              "alternativas": [
+              "A abertura entre os segmentos mede mais que 90 graus",
+              "A abertura entre os segmentos mede exatamente 90 graus",
+              "A abertura entre os segmentos mede menos que 90 graus",
+              "A abertura entre os segmentos mede exatamente 180 graus"
+              ],
+              "alternativa_correta": 1
+            },
+            {
+              "pergunta": "Assinale a alternativa CORRETA",
+              "alternativas": [
+              "Um ângulo reto é maior que um ângulo obtuso",
+              "Todo ângulo obtuso é menor que um ângulo agudo",
+              "Um ângulo de volta completa é menor que 90°",
+              "Um ângulo de volta completa mede 360°"
+              ],
+              "alternativa_correta": 3
+            },
+            {
+              "pergunta": "Qual da reta da figura abaixo",
+              "imagem": {
+                "url": "https://realizeeducacao.com.br/wp-content/uploads/2019/03/determinacao-do-plano-por-duas-retas-concorrentes.svg",
+                "largura": 240,
+                "altura": 150
+              },              
+              "alternativas": [
+              "Paralela",
+              "Concorrentes",
+              "Reta",
+              "Perpendiculares"
+              ],
+              "alternativa_correta": 1
+            },
+            {
+              "pergunta": "Qual da reta da figura abaixo",
+              "imagem": {
+                "url": "https://snv.educacaoadventista.org.br/ckeditor/eclass/2024/78JZYX23J2WzSVl1hkULneuN6f7UpvwPEQJSksdS.png",
+                "largura": 240,
+                "altura": 140
+              },              
+              "alternativas": [
+              "Paralela",
+              "Concorrentes",
+              "Reta",
+              "Perpendiculares"
+              ],
+              "alternativa_correta": 3
+            },
+            {
+              "pergunta": "Qual da reta da figura abaixo",
+              "imagem": {
+                "url": "https://snv.educacaoadventista.org.br/ckeditor/eclass/2024/2FgHwzLTvSJPEZjrlvyJqsFk7UFTPuxu1CPCvjKb.png",
+                "largura": 240,
+                "altura": 50
+              },              
+              "alternativas": [
+              "Paralela",
+              "Concorrentes",
+              "Reta",
+              "Perpendiculares"
+              ],
+              "alternativa_correta": 0
+            },
+            {
+              "pergunta": "Qual o nome do ângulo da figura abaixo",
+              "imagem": {
+                "url": "https://static.todamateria.com.br/upload/un/na/unnamed.jpg?auto_optimize=low",
+                "largura": 240,
+                "altura": 150
+              },              
+              "alternativas": [
+              "Reto",
+              "Agudo",
+              "Raso",
+              "Obtuso"
+              ],
+              "alternativa_correta": 3
+            },
+            {
+              "pergunta": "A figura abaixo é uma",
+              "imagem": {
+                "url": "https://snv.educacaoadventista.org.br/ckeditor/eclass/2024/HBQBVvRQ7uSGNttis9QjofAV9Rj6gyYYRI4flM0J.jpg",
+                "largura": 240,
+                "altura": 40
+              },              
+              "alternativas": [
+              "Reta",
+              "Semirreta",
+              "Segmento de Reta",
+              "Paralelas"
+              ],
+              "alternativa_correta": 2
+            },
+            {
+              "pergunta": "A figura abaixo é uma",
+              "imagem": {
+                "url": "https://snv.educacaoadventista.org.br/ckeditor/eclass/2024/vK0dLNIKNR2kJeqJ9dRK6JwkfJBTBMecaVX1mKJ2.jpg",
+                "largura": 240,
+                "altura": 150
+              },              
+              "alternativas": [
+              "Reta",
+              "Semirreta",
+              "Segmento de Reta",
+              "Paralelas"
+              ],
+              "alternativa_correta": 1
+            },
+            {
+              "pergunta": "O Polígono da imagem é um:",
+              "imagem": {
+                "url": "https://cdn-0.sabermatematica.com.br/wp-content/uploads/2020/03/hexagono-regular.png",
+                "largura": 240,
+                "altura": 150
+              },              
+              "alternativas": [
+              "Hexagono",
+              "Triangolo",
+              "Pentágono",
+              "Heptágono"
+              ],
+              "alternativa_correta": 0
+            },
+            {
+              "pergunta": "O Polígono da imagem é um:",
+              "imagem": {
+                "url": "https://cdn-0.sabermatematica.com.br/wp-content/uploads/2020/04/pentagono-regular.png",
+                "largura": 240,
+                "altura": 150
+              },              
+              "alternativas": [
+              "Hexagono",
+              "Triangolo",
+              "Pentágono",
+              "Heptágono"
+              ],
+              "alternativa_correta": 2
+            },
+            {
+              "pergunta": "O segmento de reta é finito.",
+              "alternativas": [
+              "Verdadeiro",
+              "Falso"
+              ],
+              "alternativa_correta": 0
+            },
+            {
+              "pergunta": "A linha reta é finita",
+              "alternativas": [
+              "Verdadeiro",
+              "Falso"
+              ],
+              "alternativa_correta": 1
+            }                         
           ]
         }
       }
