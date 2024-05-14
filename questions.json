@@ -371,6 +371,208 @@
               "alternativa_correta": 0
             }                                       
           ]
+        },
+        "4 - A arte da convivêcia": {
+          "questoes": [
+            {
+              "pergunta": "Qual a lei mais antiga conhecida?",
+              "alternativas": [
+                "Torá",
+                "10 Mandamentos",
+                "Código de Hamurábi",
+                "Constituição"
+              ],
+              "alternativa_correta": 2
+            },
+            {
+              "pergunta": "O código de Hamurábi era composto por quantos artigos",
+              "alternativas": [
+                "180 artigos",
+                "100 artigos",
+                "380 artigos",
+                "280 artigos"
+              ],
+              "alternativa_correta": 3
+            },
+            {
+              "pergunta": "Precisamos respeitar as regras para viver em harmonia uns com os outros",
+              "alternativas": [
+                "Verdadeiro",
+                "Falso"
+              ],
+              "alternativa_correta": 0
+            },
+            {
+              "pergunta": "Qual o povo tinha um código gravado em pedras",
+              "alternativas": [
+                "Os babilônios",
+                "Os egípcios",
+                "Os brasileiros",
+                "Os hebreus"
+              ],
+              "alternativa_correta": 3
+            },
+            {
+              "pergunta": "A palavra Torá refere-se a que:",
+              "alternativas": [
+                "Aos cincos primeiro livros da Bíblia",
+                "Aos cincos últimos livros da Bíblia",
+                "Aos 10 mandamentos",
+                "Aos povos da Babilônia"
+              ],
+              "alternativa_correta": 0
+            },
+            {
+              "pergunta": "Os 10 mandamentos continham quatro orientações relativas à adoração a Deus e outras seis à convivência familiar e social",
+              "alternativas": [
+                "Verdadeiro",
+                "Falso"
+              ],
+              "alternativa_correta": 0
+            },
+            {
+              "pergunta": "As leis do Brasíl e de outros países foram influenciadas por dois acontecimento, quais são:",
+              "alternativas": [
+                "Os 10 mandamentos e o código de Hamurábi",
+                "A independencia dos Estados Unidos e a Revolução Francesa",
+                "A revolução Francesa e o código de Hamurábi",
+                "A república e a independencia do Brasíl"
+              ],
+              "alternativa_correta": 1
+            },
+            {
+              "pergunta": "Aos ser independente os Estados Unidos redigiu uma:",
+              "alternativas": [
+                "Uma Constituição",
+                "Uma Declaração de Direitos",
+                "Uma Carta",
+                "Uma Declaração de Independência"
+              ],
+              "alternativa_correta": 3
+            },
+            {
+              "pergunta": "Os Estados Unidos ficaram independente de qual País?",
+              "alternativas": [
+                "Do Brasíl",
+                "Da França",
+                "Da Inglaterra",
+                "Da Babilônia"
+              ],
+              "alternativa_correta": 2
+            },
+            {
+              "pergunta": "Quantas estrelas tinha a primeira Bandeira dos Estados Unidos",
+              "alternativas": [
+                "13 estrelas, representava as colônias que se tornaram independentes",
+                "1 estrela, representava o sol",
+                "2 estrelas, representava o cruzeiro do Sul",
+                "10 estrelas"
+              ],
+              "alternativa_correta": 0
+            },
+            {
+              "pergunta": "O que é uma República?",
+              "alternativas": [
+                "República é uma forma de governo em que o poder é hereditário, passando de pai para filho",
+                "Em uma República, os governantes são escolhidos por uma única pessoa, não pelo povo",
+                "Republica é forma de governo em que o povo escolhe os governantes",
+                "Uma república é um sistema em que os governantes são designados por uma entidade estrangeira, não pelos cidadãos do país"
+              ],
+              "alternativa_correta": 2
+            }                                                                
+          ]
+        },
+        "5 - Os direitos humanos - até página 77": {
+          "questoes": [
+            {
+              "pergunta": "O que é ONU",
+              "alternativas": [
+                "Organização da Nacionalidades Unidas",
+                "Organização das Naturais Unicas",
+                "Organização das Nações Unidas",
+                "Organização das Nações Únicas"
+              ],
+              "alternativa_correta": 2
+            }, 
+            {
+              "pergunta": "No início, quantos países participaram da ONU?",
+              "alternativas": [
+                "110 países",
+                "21 países",
+                "51 países",
+                "193 países"
+              ],
+              "alternativa_correta": 2
+            }, 
+            {
+              "pergunta": "Hoje (atuamente) quantos países participam da ONU?",
+              "alternativas": [
+                "110 países",
+                "21 países",
+                "51 países",
+                "193 países"
+              ],
+              "alternativa_correta": 3
+            }, 
+            {
+              "pergunta": "Em que ano foi criada a ONU?",
+              "alternativas": [
+                "1940",
+                "1945",
+                "1970",
+                "2000"
+              ],
+              "alternativa_correta": 1
+            }, 
+            {
+              "pergunta": "Para atingir os objetivos da ONU, foi criada a:",
+              "alternativas": [
+                "Declaração de Independência",
+                "Constituição Universal",
+                "Declaração Universal dos Direitos Humanos",
+                "Declaração Universal dos Direitos dos Cachorros"
+              ],
+              "alternativa_correta": 2
+            }, 
+            {
+              "pergunta": "Como é chamada a maior Lei que rege um país?",
+              "alternativas": [
+                "Declaração de Independência",
+                "Constituição",
+                "Declaração Universal dos Direitos Humanos",
+                "Código de Hamurábi"
+              ],
+              "alternativa_correta": 1
+            },
+            {
+              "pergunta": "Para garantir a convivência pacífica e os direitos humanos de um povo é necessário que cada governos assegure a existência de leis e regras",
+              "alternativas": [
+                "Verdadeiro",
+                "Falso"
+              ],
+              "alternativa_correta": 0
+            }, 
+            {
+              "pergunta": "O que é Democracia?",
+              "alternativas": [
+                "Democracia é um sistema de governo em que uma única pessoa detém todo o poder ",
+                "Regime de governo em que os líderes politicos e governantes são eleitos pelo povo",
+                "Democracia é um sistema em que as decisões são tomadas exclusivamente com base na vontade de um partido político",
+                "Em uma democracia, apenas um grupo específico de pessoas, como os mais ricos ou os mais educados, têm direito a voto"
+              ],
+              "alternativa_correta": 1
+            }, 
+            {
+              "pergunta": "Em qual ano foi elaborada a Constituição do Brasil",
+              "alternativas": [
+                "2014",
+                "1960",
+                "2000",
+                "1988"
+              ],
+              "alternativa_correta": 3
+            }                                          
+          ]
         }
       }
     },
