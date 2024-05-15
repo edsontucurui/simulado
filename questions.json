@@ -761,7 +761,181 @@
               "alternativa_correta": 1
             }                                      
           ]
-        }       
+        },
+        "4 - Cidades vivas": {
+          "questoes": [
+            {
+              "pergunta": "Uma cidade que concentra importantes instituições ligadas ao governo, tem a função de:",
+              "alternativas": [
+                "Cidade religiosa",
+                "Cidade político-administrativa",
+                "Cidade portuária",
+                "Cidade industrial"
+              ],
+              "alternativa_correta": 1
+            },
+            {
+              "pergunta": "Uma cidade que desenvolve-se em função das atividades agropecuárias, em virtude das boas condições do clima, solo e relevo, tem a função de:",
+              "alternativas": [
+                "Cidade turística",
+                "Cidade político-administrativa",
+                "Cidade do agronegócio",
+                "Cidade dormitório"
+              ],
+              "alternativa_correta": 2
+            },
+            {
+              "pergunta": "Uma cidade cercada de belezas naturais ou construída ou sedia aluguma festividade regional, atraíndo visitantes, tem a função de:",
+              "alternativas": [
+                "Cidade turística",
+                "Cidade político-administrativa",
+                "Cidade do agronegócio",
+                "Cidade dormitório"
+              ],
+              "alternativa_correta": 0
+            },
+            {
+              "pergunta": "Uma cidade que desenvolve suas atividades principais em torno das Forças Armadas, tem a função de:",
+              "alternativas": [
+                "Cidade universitária",
+                "Cidade religiosa",
+                "Cidade do agronegócio",
+                "Cidade militar"
+              ],
+              "alternativa_correta": 3
+            },
+            {
+              "pergunta": "Uma cidade que localiza-se próximo a uma grande cidade, possibilitando condições de moradia mais barata aos trabalhadores, tem a função de:",
+              "alternativas": [
+                "Cidade universitária",
+                "Cidade dormitório",
+                "Cidade do agronegócio",
+                "Cidade militar"
+              ],
+              "alternativa_correta": 1
+            },
+            {
+              "pergunta": "Uma cidade que localiza-se junto ao oceano e as atividades desenvolvidas são de escoamento e recebimento marítimo de mercadoria, tem a função de:",
+              "alternativas": [
+                "Cidade portuária",
+                "Cidade dormitório",
+                "Cidade do agronegócio",
+                "Cidade industrial"
+              ],
+              "alternativa_correta": 0
+            },
+            {
+              "pergunta": "Qual o nome dado a relação entre cidades grande que exerce influencia sobre outras médias e pequenas?",
+              "alternativas": [
+                "Metrópole",
+                "Hierarquia urbana",
+                "Aglomeração Urbana",
+                "Centro Metropolitano"
+              ],
+              "alternativa_correta": 1
+            },
+            {
+              "pergunta": "Metrópole são cidades de quantos habitantes?",
+              "alternativas": [
+                "5 mil habitantes",
+                "Até 100 mil habitantes",
+                "Mais de 1 milhão de habitantes",
+                "Menos de 1 milhão de habitantes"
+              ],
+              "alternativa_correta": 2
+            },
+            {
+              "pergunta": "Pela hierarquia urbana, podemos classificar as cidades brasileiras em:",
+              "alternativas": [
+                "Metrópole, Município, Cidade, Estado, País",
+                "Metrópole, Capital regional, Zona do País, Interior, País",
+                "Metrópole, Capital regional, Centro sub-regional, Centro de zona e Centro local",
+                "Aglomeração, Município, Centro sub-regional, Centro de zona e Centro local"
+              ],
+              "alternativa_correta": 2
+            },
+            {
+              "pergunta": "O que são rede urbana?",
+              "alternativas": [
+                "São relações estabelecidas entre as cidades",
+                "São redes onde as pessoas dormem nas cidades",
+                "São organização Urbana",
+                "São linhas de ferro que exitem nas cidades"
+              ],
+              "alternativa_correta": 0
+            },
+            {
+              "pergunta": "As cidades são como organismos vivos, construído dinamicamente por seus moradores",
+              "alternativas": [
+                "Verdadeiro",
+                "Falso"
+              ],
+              "alternativa_correta": 0
+            }
+          ]
+        },
+        "5 - Comunidades planejadas": {
+          "questoes": [
+            {
+              "pergunta": "Um dos aspectos mais importante de uma comunidade urbana é a:",
+              "alternativas": [
+                "Prefeitura",
+                "Moradia",
+                "Praça",
+                "Estádio"
+              ],
+              "alternativa_correta": 1
+            },
+            {
+              "pergunta": "Uma cidade pode ser considerada uma comunidade",
+              "alternativas": [
+                "Verdadeiro",
+                "Falso"
+              ],
+              "alternativa_correta": 0
+            },
+            {
+              "pergunta": "Lotes, prédios residenciais, comerciais ou industriais são denominados:",
+              "alternativas": [
+                "Bens móveis",
+                "Bens Fundiários",
+                "Bens imóveis",
+                "Recursos Fixos"
+              ],
+              "alternativa_correta": 2
+            },
+            {
+              "pergunta": "Qual o nome do documento que o governo municipal estabelece leis para o uso de terras e dos prédios existentes na cidade?",
+              "alternativas": [
+                "Plano Anual",
+                "Plano Municipal",
+                "Plano de Aula",
+                "Plano Diretor"
+              ],
+              "alternativa_correta": 3
+            },
+            {
+              "pergunta": "Os espaços de uso pessoal ou coletivo são chamados de:",
+              "alternativas": [
+                "Territórios",
+                "Terras",
+                "Bairros",
+                "Cidades"
+              ],
+              "alternativa_correta": 0
+            },
+            {
+              "pergunta": "O que é territorialidade?",
+              "alternativas": [
+                "O estudo das montanhas, vales e planícies de uma região",
+                "Dinâmica do uso de um território, construído pelas pessoas que dominam esse espaço",
+                "O nome dado às atividades realizadas em uma cidade",
+                "A ciência que estuda os rios e oceanos"
+              ],
+              "alternativa_correta": 1
+            }
+          ]
+        }     
       }
     },
     "Ciências": {
