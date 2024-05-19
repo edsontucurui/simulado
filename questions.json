@@ -1168,8 +1168,8 @@
             }
             ]
           },
-          "3 - Explorando a Via Láctea": {
-            "questoes": [
+        "3 - Explorando a Via Láctea": {
+          "questoes": [
             {
               "pergunta": "Quem foi a primeira pessoa a pisar na Lua",
               "alternativas": [
@@ -1230,7 +1230,260 @@
               "alternativa_correta": 1
             }                                      
           ]
-        }       
+        },
+        "4 - Nutrição humana e sistema digestório": {
+          "questoes": [
+            {
+              "pergunta": "As plantas produzem seu próprio alimento, por isso são seres:",
+              "alternativas": [
+              "Heterótrofos",
+              "Autótrofos",
+              "Produtrofos",
+              "Criatrofos"
+              ],
+              "alternativa_correta": 1
+            },
+            {
+              "pergunta": "Os sere humanos e animais procuram alimento no ambiente que habitam, por isso são seres:",
+              "alternativas": [
+              "Criatrofos",
+              "Autótrofos",
+              "Produtrofos",
+              "Heterótrofos"
+              ],
+              "alternativa_correta": 3
+            },
+            {
+              "pergunta": "O que é: Modo de alimentação ou conjunto de regras alimentares seguidas por um indivíduo ou por um grupo de pessoa.",
+              "alternativas": [
+              "Nutricionista",
+              "Substância",
+              "Dieta",
+              "Heterótrofos"
+              ],
+              "alternativa_correta": 2
+            },
+            {
+              "pergunta": "São aqueles que provêm de plantas: folhas, frutos, sementes e raízes ou seus derivados (saladas, farinhas, pães, sucos, etc.)",
+              "alternativas": [
+              "Alimentos de origem animal",
+              "Alimentos de origem vegetal",
+              "Alimentos de origem mineral",
+              "Alimentos de origem tradicional"
+              ],
+              "alternativa_correta": 1
+            },
+            {
+              "pergunta": "São as carnes, os ovos, o leite e seus derivados (coalhada, iogurte, manteiga, queijo, etc)",
+              "alternativas": [
+              "Alimentos de origem animal",
+              "Alimentos de origem vegetal",
+              "Alimentos de origem mineral",
+              "Alimentos de origem tradicional"
+              ],
+              "alternativa_correta": 0
+            },
+            {
+              "pergunta": "Os alimentos que contêm água, que é fundamental para que o organismo funcione bem, frutas e legumes, que contem sais minerais",
+              "alternativas": [
+              "Alimentos de origem animal",
+              "Alimentos de origem vegetal",
+              "Alimentos de origem mineral",
+              "Alimentos de origem tradicional"
+              ],
+              "alternativa_correta": 2
+            },
+            {
+              "pergunta": "O que são produtos derivados?",
+              "alternativas": [
+              "São produtos que não passaram por modificação",
+              "São produtos feitos da transformação de outros materiais",
+              "São produtos completamente novos",
+              "São produtos processados sem modificação"
+              ],
+              "alternativa_correta": 1
+            },
+            {
+              "pergunta": "Qual substância fornece energia ao nosso organismo e pode ser encontrada no açúcar, arroz, batata, macarrão...",
+              "alternativas": [
+              "Proteínas",
+              "Vitaminas e Sais Minerais",
+              "Carboidratos",
+              "Lipídios"
+              ],
+              "alternativa_correta": 2
+            },
+            {
+              "pergunta": "Qual substância é utilizada na construção do nosso corpo (musculos, ossos, cabelos, unhas) e pode ser encontrada na carne, feijão, soja, ovo, leite...",
+              "alternativas": [
+              "Proteínas",
+              "Vitaminas e Sais Minerais",
+              "Carboidratos",
+              "Lipídios"
+              ],
+              "alternativa_correta": 0
+            },
+            {
+              "pergunta": "Qual substância contribuie para o bom funcionamento do corpo e auxilia na prevenção de doenças e pode ser encontrada em frutas, hortaliça e legumes.",
+              "alternativas": [
+              "Proteínas",
+              "Vitaminas e Sais Minerais",
+              "Carboidratos",
+              "Lipídios"
+              ],
+              "alternativa_correta": 1
+            },
+            {
+              "pergunta": "Qual substância é formado por óleos e gorduras e também são fonte de energia para o organismo, mas devemos evitar o consumo excessivo",
+              "alternativas": [
+              "Proteínas",
+              "Vitaminas e Sais Minerais",
+              "Carboidratos",
+              "Lipídios"
+              ],
+              "alternativa_correta": 3
+            },
+            {
+              "pergunta": "As substâncias presentes nos alimentos (Proteínas, Vitaminas e Sais Minerais, Carboidratos e Lipídios) são chamados de:",
+              "alternativas": [
+              "Conservantes",
+              "Nutrientes",
+              "Enzimas",
+              "Hormônios"
+              ],
+              "alternativa_correta": 1
+            },
+            {
+              "pergunta": "Quais danos uma dieta incompleta e desequilibrada por causar à saúde",
+              "alternativas": [
+              "Aumento da Inteligência, Superpoderes, Resistência física",
+              "Novos Dentes, Força, Melhora na Visão, Crescimento",
+              "Aumento da Altura, Nutrição, Beleza, Cabelos Grandes",
+              "Desnutrição, Verminoses, Falta de Vitaminas, Obsidade"
+              ],
+              "alternativa_correta": 3
+            },
+            {
+              "pergunta": "O processo de quebra dos alimentos em pequenos pedaços, a fim de que o corpo aproveite os nutrientes é denominado:",
+              "alternativas": [
+              "Digestão",
+              "Fotossíntese",
+              "Osmose",
+              "Evacuação"
+              ],
+              "alternativa_correta": 0
+            },
+            {
+              "pergunta": "Os órgãos que formam o sistema digestório podem ser divididos em dois grupos: ",
+              "alternativas": [
+              "Sistema respiratório e Sistema nervoso",
+              "Tubo digestório e Glândulas anexas",
+              "Cavidade bucal e Ossos do esqueleto.",
+              "Sistema circulatório e Sistema linfático"
+              ],
+              "alternativa_correta": 1
+            },
+            {
+              "pergunta": "Onde ocorre a mastigação e a insalivação",
+              "alternativas": [
+              "No estomago",
+              "Na garganta",
+              "Na boca",
+              "Na Intestino"
+              ],
+              "alternativa_correta": 2
+            },
+            {
+              "pergunta": "Enzimas são substâncias que ajudam a digerir os alimentos",
+              "alternativas": [
+              "Verdadeiro",
+              "Falso"
+              ],
+              "alternativa_correta": 0
+            },
+            {
+              "pergunta": "A passagem dos nutrientes do intestino delgado para o sangue, após a digestão, é chamada de?",
+              "alternativas": [
+              "Evaporação",
+              "Absorção",
+              "Combustão",
+              "Digestão"
+              ],
+              "alternativa_correta": 1
+            }         
+
+                    
+          ]
+        },
+        "5 - Sistema respiratório": {
+          "questoes": [
+            {
+              "pergunta": "O oxigênio + o alimento produzem",
+              "alternativas": [
+              "Clorofila",
+              "Energia",
+              "Ácido ",
+              "Metais"
+              ],
+              "alternativa_correta": 1
+            },
+            {
+              "pergunta": "A entrada de ar nos pulmoes é chamada de:",
+              "alternativas": [
+              "Transpiração",
+              "Digestão",
+              "Inspiração",
+              "Expiração"
+              ],
+              "alternativa_correta": 2
+            },
+            {
+              "pergunta": "A saida de ar nos pulmoes é chamada de:",
+              "alternativas": [
+              "Transpiração",
+              "Digestão",
+              "Inspiração",
+              "Expiração"
+              ],
+              "alternativa_correta": 3
+            },  
+            {
+              "pergunta": "Qual o musculo muito importante para os movimentos respiratórios?",
+              "alternativas": [
+              "Diafragma",
+              "Bíceps",
+              "Abdominal",
+              "Peito"
+              ],
+              "alternativa_correta": 0
+            },
+            {
+              "pergunta": "Quais doenças comuns no sistema respiratório",
+              "alternativas": [
+              "Caxumba, Bronquite, Câncer de Pele, Febre Amarela ",
+              "Hipertensão, Artrite, Osteoporose, Malária",
+              "Resfriado, Pneumonia, Asma, Tuberculose",
+              "Dengue, Diabetes, Gripe Suína, Sarampo"
+              ],
+              "alternativa_correta": 2
+            },
+            {
+              "pergunta": "Assinale a alternativa correta que identifica os órgãos do sistema respiratório enumerados a seguir",
+              "imagem": {
+                "url": "https://static.todamateria.com.br/upload/or/ga/orgaossistemarespiratorio-cke.jpg",
+                "largura": 380,
+                "altura": 240
+              },
+              "alternativas": [
+              "1-nariz, 2-boca, 3-faringe, 4-pulmões e 5-traqueia",
+              "1-nariz, 2-boca, 3-alvéolos, 4-pulmões e 5-traqueia",
+              "1-nariz, 2-boca, 3-traqueia, 4-pulmões e 5-diafragma",
+              "1-nariz, 2-boca, 3-brônquios, 4-coração e 5-diafragma"
+              ],
+              "alternativa_correta": 2
+            }  
+          ]
+        }   
       }
     },
     "Inglês": {
