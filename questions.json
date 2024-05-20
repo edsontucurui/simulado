@@ -1410,9 +1410,37 @@
               "Digestão"
               ],
               "alternativa_correta": 1
-            }         
-
-                    
+            },
+            {
+              "pergunta": "Qual a função do intestino grosso",
+              "alternativas": [
+              "Receber (em uma bolsa) alimentos engolidos",
+              "Auxiliar no processo de digestão",
+              "Formar e eliminar as fezes pelo ânus",
+              "Passagem dos nutrientes para o sangue"
+              ],
+              "alternativa_correta": 2
+            },
+            {
+              "pergunta": "Qual a função do estômago",
+              "alternativas": [
+              "Receber (em uma bolsa) alimentos engolidos",
+              "Auxiliar no processo de digestão",
+              "Formar e eliminar as fezes pelo ânus",
+              "Passagem dos nutrientes para o sangue"
+              ],
+              "alternativa_correta": 0
+            },
+            {
+              "pergunta": "Qual a parte mais longa do tubo digestório",
+              "alternativas": [
+              "Intestino grosso",
+              "Estômago",
+              "Glândulas anexas",
+              "Intestino delgado"
+              ],
+              "alternativa_correta": 3
+            }             
           ]
         },
         "5 - Sistema respiratório": {
@@ -1475,10 +1503,10 @@
                 "altura": 240
               },
               "alternativas": [
-              "1-nariz, 2-boca, 3-faringe, 4-pulmões e 5-traqueia",
-              "1-nariz, 2-boca, 3-alvéolos, 4-pulmões e 5-traqueia",
-              "1-nariz, 2-boca, 3-traqueia, 4-pulmões e 5-diafragma",
-              "1-nariz, 2-boca, 3-brônquios, 4-coração e 5-diafragma"
+              "1 - nariz, 2 - boca, 3 - faringe,   4 - pulmões e 5 - traqueia",
+              "1 - nariz, 2 - boca, 3 - alvéolos,  4 - pulmões e 5 - traqueia",
+              "1 - nariz, 2 - boca, 3 - traqueia,  4 - pulmões e 5 - diafragma",
+              "1 - nariz, 2 - boca, 3 - brônquios, 4 - coração e 5 - diafragma"
               ],
               "alternativa_correta": 2
             }  
