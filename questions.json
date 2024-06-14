@@ -935,7 +935,191 @@
               "alternativa_correta": 1
             }
           ]
-        }     
+        },
+        "6 - Riscos urbanos": {
+		  "questoes": [
+			{
+			  "pergunta": "Quais são alguns dos benefícios de viver nas cidades mencionados?",
+			  "alternativas": [
+				"Acesso limitado a serviços",
+				"Facilidades tecnológicas e diversidade cultural",
+				"Proximidade de áreas rurais",
+				"Menor interação social"
+			  ],
+			  "alternativa_correta": 1
+			},
+			{
+			  "pergunta": "Quais são os tipos de risco urbano mencionados?",
+			  "alternativas": [
+				"Natural, tecnológico, ambiental e social",
+				"Natural, econômico, social e cultural",
+				"Econômico, político, social e ambiental",
+				"Tecnológico, político, social e cultural"
+			  ],
+			  "alternativa_correta": 0
+			},
+			{
+			  "pergunta": "O que é necessário para o desenvolvimento sustentável?",
+			  "alternativas": [
+				"Suprir as necessidades da geração atual sem comprometer as necessidades das gerações futuras",
+				"Desenvolver novas tecnologias sem considerar os recursos naturais",
+				"Priorizar o crescimento econômico acima de tudo",
+				"Aumentar a urbanização sem limites"
+			  ],
+			  "alternativa_correta": 0
+			},
+			{
+			  "pergunta": "Qual cidade brasileira foi destacada como referência em desenvolvimento sustentável?",
+			  "alternativas": [
+				"Rio de Janeiro",
+				"São Paulo",
+				"Curitiba",
+				"Belo Horizonte"
+			  ],
+			  "alternativa_correta": 2
+			},
+			{
+			  "pergunta": "Quais são os riscos relacionados a áreas dominadas por gangues e milícias?",
+			  "alternativas": [
+				"Risco natural",
+				"Risco tecnológico",
+				"Risco ambiental",
+				"Risco social"
+			  ],
+			  "alternativa_correta": 3
+			},
+			{
+			  "pergunta": "O que a falta de coleta de lixo e tratamento de água inadequados pode causar nas cidades?",
+			  "alternativas": [
+				"Redução da criminalidade",
+				"Aumento de doenças",
+				"Melhoria da qualidade do ar",
+				"Desenvolvimento econômico"
+			  ],
+			  "alternativa_correta": 1
+			},
+			{
+			  "pergunta": "Por que a desigualdade financeira pode ser um risco urbano?",
+			  "alternativas": [
+				"Porque leva à marginalização e segregação espacial",
+				"Porque melhora a infraestrutura urbana",
+				"Porque diminui a criminalidade",
+				"Porque aumenta o acesso à educação"
+			  ],
+			  "alternativa_correta": 0
+			},
+			{
+			  "pergunta": "Qual é a definição de risco urbano apresentada no texto?",
+			  "alternativas": [
+				"Probabilidade de ocorrerem danos e perdas em um espaço devido à interação entre fenômenos perigosos",
+				"Aumento da qualidade de vida nas cidades",
+				"Expansão das áreas urbanas",
+				"Desenvolvimento sustentável das cidades"
+			  ],
+			  "alternativa_correta": 0
+			},
+			{
+			  "pergunta": "Quais são alguns dos fenômenos de origem natural que podem causar riscos urbanos?",
+			  "alternativas": [
+				"Emissão de gases tóxicos e radiação",
+				"Terremotos, chuvas e ventos",
+				"Calor excessivo e proliferação de mosquitos",
+				"Criminalidade e violência urbana"
+			  ],
+			  "alternativa_correta": 1
+			},
+			{
+			  "pergunta": "Quais são as medidas necessárias para a formação de uma cidade resiliente?",
+			  "alternativas": [
+				"Expansão urbana descontrolada",
+				"Planejamento urbano e ações específicas",
+				"Redução da infraestrutura",
+				"Desenvolvimento econômico sem planejamento"
+			  ],
+			  "alternativa_correta": 1
+			},
+			{
+			  "pergunta": "Qual é o objetivo global #11 da ONU para o desenvolvimento sustentável?",
+			  "alternativas": [
+				"Erradicar a pobreza",
+				"Prover educação de qualidade",
+				"Tornar as cidades e os assentamentos humanos inclusivos, seguros, resilientes e sustentáveis",
+				"Promover a igualdade de gênero"
+			  ],
+			  "alternativa_correta": 2
+			},
+			{
+			  "pergunta": "Quais fatores são determinantes para que as cidades apresentem riscos aos seus moradores?",
+			  "alternativas": [
+				"Preservação de áreas naturais e investimentos em infraestrutura",
+				"Fragilidade estrutural de edifícios e ineficiência de serviços públicos",
+				"Desigualdade de acesso à educação e saúde",
+				"Alta participação popular nos assuntos das cidades"
+			  ],
+			  "alternativa_correta": 1
+			},
+			{
+			  "pergunta": "O que é necessário para que os recursos naturais ainda estejam disponíveis para as gerações futuras?",
+			  "alternativas": [
+				"Aumento do consumo de recursos naturais",
+				"Desenvolvimento sustentável e preservação",
+				"Expansão descontrolada das cidades",
+				"Desconsideração dos impactos ambientais"
+			  ],
+			  "alternativa_correta": 1
+			},
+			{
+			  "pergunta": "Qual é a importância do planejamento urbano?",
+			  "alternativas": [
+				"Promover a desigualdade social",
+				"Aumentar os riscos urbanos",
+				"Regulação do desenvolvimento e redução dos riscos nas cidades",
+				"Desconsiderar a infraestrutura urbana"
+			  ],
+			  "alternativa_correta": 2
+			},
+			{
+			  "pergunta": "Qual é a relação entre a fragilidade estrutural de edifícios e os riscos urbanos?",
+			  "alternativas": [
+				"A fragilidade estrutural reduz os riscos urbanos",
+				"Edifícios frágeis são menos propensos a desastres naturais",
+				"A fragilidade estrutural pode causar quedas e incêndios, aumentando os riscos",
+				"Edifícios frágeis são menos vulneráveis a depredações"
+			  ],
+			  "alternativa_correta": 2
+			},
+			{
+			  "pergunta": "Quais são as ações específicas mencionadas para a redução de riscos urbanos?",
+			  "alternativas": [
+				"Construção descontrolada de novas edificações",
+				"Redução de investimentos em infraestrutura",
+				"Ações de prevenção e orientação em caso de riscos naturais",
+				"Expansão de áreas urbanas sem planejamento"
+			  ],
+			  "alternativa_correta": 2
+			},
+			{
+			  "pergunta": "Por que a participação popular é importante na administração das cidades?",
+			  "alternativas": [
+				"Porque aumenta os riscos urbanos",
+				"Porque contribui para a organização e redução dos riscos",
+				"Porque promove a desigualdade social",
+				"Porque diminui a qualidade de vida"
+			  ],
+			  "alternativa_correta": 1
+			},
+			{
+			  "pergunta": "Qual é a definição de desenvolvimento sustentável segundo a WWF-Brasil?",
+			  "alternativas": [
+				"Desenvolvimento que esgota os recursos naturais para as futuras gerações",
+				"Desenvolvimento que ignora as necessidades da geração atual",
+				"Desenvolvimento que atende às necessidades da geração atual sem comprometer as necessidades das futuras gerações",
+				"Desenvolvimento focado exclusivamente no crescimento econômico"
+			  ],
+			  "alternativa_correta": 2
+			}
+		  ]
+		}
       }
     },
     "Ciências": {
