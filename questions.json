@@ -939,17 +939,17 @@
         "6 - Riscos urbanos": {
 		  "questoes": [
 			{
-			  "pergunta": "Quais são alguns dos benefícios de viver nas cidades mencionados?",
+			  "pergunta": "A expansão urbana sem preservação das áreas naturais adjacentes, causa:",
 			  "alternativas": [
-				"Acesso limitado a serviços",
-				"Facilidades tecnológicas e diversidade cultural",
-				"Proximidade de áreas rurais",
-				"Menor interação social"
+				"Concentração desigual de recursos financeiros",
+				"Fragilidade estrutural",
+				"Inexistência de infraestrutura",
+				"Degradação ambiental"
 			  ],
-			  "alternativa_correta": 1
+			  "alternativa_correta": 3
 			},
 			{
-			  "pergunta": "Quais são os tipos de risco urbano mencionados?",
+			  "pergunta": "Quais são os tipos de risco urbano?",
 			  "alternativas": [
 				"Natural, tecnológico, ambiental e social",
 				"Natural, econômico, social e cultural",
@@ -1009,7 +1009,7 @@
 			  "alternativa_correta": 0
 			},
 			{
-			  "pergunta": "Qual é a definição de risco urbano apresentada no texto?",
+			  "pergunta": "Qual é a definição de risco urbano?",
 			  "alternativas": [
 				"Probabilidade de ocorrerem danos e perdas em um espaço devido à interação entre fenômenos perigosos",
 				"Aumento da qualidade de vida nas cidades",
@@ -1029,24 +1029,22 @@
 			  "alternativa_correta": 1
 			},
 			{
-			  "pergunta": "Quais são as medidas necessárias para a formação de uma cidade resiliente?",
+			  "pergunta": "A emissão de gases tóxicos, é de origem:",
 			  "alternativas": [
-				"Expansão urbana descontrolada",
-				"Planejamento urbano e ações específicas",
-				"Redução da infraestrutura",
-				"Desenvolvimento econômico sem planejamento"
+				"Natural",
+				"Social",
+				"Ambiental",
+				"Tecnológica"
 			  ],
-			  "alternativa_correta": 1
+			  "alternativa_correta": 3
 			},
 			{
-			  "pergunta": "Qual é o objetivo global #11 da ONU para o desenvolvimento sustentável?",
+			  "pergunta": "A desigualdade financeira entre a população de uma cidade pode gerar risco de assaltos, furtos e violência",
 			  "alternativas": [
-				"Erradicar a pobreza",
-				"Prover educação de qualidade",
-				"Tornar as cidades e os assentamentos humanos inclusivos, seguros, resilientes e sustentáveis",
-				"Promover a igualdade de gênero"
+				"Verdadeiro",
+				"Falso"
 			  ],
-			  "alternativa_correta": 2
+			  "alternativa_correta": 0
 			},
 			{
 			  "pergunta": "Quais fatores são determinantes para que as cidades apresentem riscos aos seus moradores?",
