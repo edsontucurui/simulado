@@ -5,55 +5,81 @@
         "1 - Geografia - Conceitos e Princípios": {
           "questoes": [
             {
-              "pergunta": "Qual é o significado da palavra 'Geografia' em sua origem grega?",
+              "pergunta": "Qual é o principal foco da Geografia como ciência? (Página 1)",
               "alternativas": [
-                "Descrição da Terra",
-                "Estudo dos astros",
-                "Análise do clima",
-                "Mapeamento de cidades"
+                "Estudar apenas os fenômenos naturais",
+                "Analisar a relação entre seres humanos e o meio ambiente",
+                "Descrever apenas a superfície da Terra",
+                "Mapear estrelas e planetas"
+              ],
+              "alternativa_correta": 1
+            },
+            {
+              "pergunta": "Verdadeiro ou Falso: A observação dos astros foi usada pelos seres humanos antigos para prever as estações do ano. (Página 1)",
+              "alternativas": [
+                "Verdadeiro",
+                "Falso"
               ],
               "alternativa_correta": 0
             },
             {
-              "pergunta": "Qual dos seguintes princípios geográficos afirma que os fenômenos não ocorrem de forma isolada, mas estão inter-relacionados?",
+              "pergunta": "Qual das seguintes áreas NÃO é uma aplicação prática da Geografia? (Página 1)",
+              "alternativas": [
+                "Agricultura",
+                "Construção de vias",
+                "Astrologia",
+                "Planejamento urbano"
+              ],
+              "alternativa_correta": 2
+            },
+            {
+              "pergunta": "Qual é a origem da palavra 'Geografia'? (Página 2)",
+              "alternativas": [
+                "Latim",
+                "Grego",
+                "Egípcio",
+                "Hebraico"
+              ],
+              "alternativa_correta": 1
+            },
+            {
+              "pergunta": "Verdadeiro ou Falso: A Geografia moderna se limita apenas à descrição da Terra. (Página 2)",
+              "alternativas": [
+                "Verdadeiro",
+                "Falso"
+              ],
+              "alternativa_correta": 1
+            },
+            {
+              "pergunta": "Qual civilização antiga aprendeu a controlar as cheias do Rio Nilo para desenvolver a agricultura? (Página 3)",
+              "alternativas": [
+                "Gregos",
+                "Egípcios",
+                "Mesopotâmicos",
+                "Chineses"
+              ],
+              "alternativa_correta": 1
+            },
+            {
+              "pergunta": "Verdadeiro ou Falso: Estrabão foi o primeiro a usar o termo 'Geografia'. (Página 3)",
+              "alternativas": [
+                "Verdadeiro",
+                "Falso"
+              ],
+              "alternativa_correta": 0
+            },
+            {
+              "pergunta": "Qual dos seguintes princípios geográficos afirma que os fenômenos devem ser localizados e delimitados na superfície terrestre? (Página 7)",
               "alternativas": [
                 "Extensão",
                 "Analogia",
                 "Causalidade",
                 "Conexidade"
               ],
-              "alternativa_correta": 3
+              "alternativa_correta": 0
             },
             {
-              "pergunta": "Qual foi a principal contribuição dos egípcios para o conhecimento geográfico?",
-              "alternativas": [
-                "Desenvolvimento de mapas precisos",
-                "Controle das cheias do Rio Nilo para a agricultura",
-                "Estudo dos movimentos dos astros",
-                "Criação do primeiro sistema de coordenadas"
-              ],
-              "alternativa_correta": 1
-            },
-            {
-              "pergunta": "Verdadeiro ou Falso: A Geografia moderna se limita apenas à descrição da Terra, sem considerar as interações humanas.",
-              "alternativas": [
-                "Verdadeiro",
-                "Falso"
-              ],
-              "alternativa_correta": 1
-            },
-            {
-              "pergunta": "Qual dos seguintes conceitos geográficos está relacionado à experiência afetiva de uma pessoa com o espaço?",
-              "alternativas": [
-                "Paisagem",
-                "Lugar",
-                "Território",
-                "Região"
-              ],
-              "alternativa_correta": 1
-            },
-            {
-              "pergunta": "Verdadeiro ou Falso: O princípio da Analogia sugere que os fenômenos devem ser comparados com outros já ocorridos em diferentes lugares.",
+              "pergunta": "Verdadeiro ou Falso: O princípio da Analogia sugere que os fenômenos devem ser comparados com outros já ocorridos em diferentes lugares. (Página 7)",
               "alternativas": [
                 "Verdadeiro",
                 "Falso"
@@ -61,7 +87,43 @@
               "alternativa_correta": 0
             },
             {
-              "pergunta": "Qual geógrafo brasileiro é conhecido por seus estudos sobre globalização e exclusão social?",
+              "pergunta": "Qual dos seguintes conceitos geográficos se refere ao 'cenário' onde ocorrem os fenômenos naturais e humanos? (Página 10)",
+              "alternativas": [
+                "Paisagem",
+                "Lugar",
+                "Território",
+                "Região"
+              ],
+              "alternativa_correta": 0
+            },
+            {
+              "pergunta": "Verdadeiro ou Falso: O conceito de 'lugar' está relacionado à experiência afetiva de uma pessoa com o espaço. (Página 11)",
+              "alternativas": [
+                "Verdadeiro",
+                "Falso"
+              ],
+              "alternativa_correta": 0
+            },
+            {
+              "pergunta": "Qual dos seguintes conceitos geográficos se refere a uma área controlada por um poder político, econômico ou social? (Página 11)",
+              "alternativas": [
+                "Paisagem",
+                "Lugar",
+                "Território",
+                "Região"
+              ],
+              "alternativa_correta": 2
+            },
+            {
+              "pergunta": "Verdadeiro ou Falso: A Geografia não tem aplicação prática no planejamento urbano. (Página 5)",
+              "alternativas": [
+                "Verdadeiro",
+                "Falso"
+              ],
+              "alternativa_correta": 1
+            },
+            {
+              "pergunta": "Qual dos seguintes geógrafos brasileiros é conhecido por seus estudos sobre globalização e exclusão social? (Página 6)",
               "alternativas": [
                 "Aziz Ab’Saber",
                 "Milton Santos",
@@ -71,7 +133,7 @@
               "alternativa_correta": 1
             },
             {
-              "pergunta": "Verdadeiro ou Falso: A Geografia não tem aplicação prática no planejamento urbano.",
+              "pergunta": "Verdadeiro ou Falso: O desastre de Mariana (2015) afetou apenas o município de Mariana, sem impactar outras regiões. (Página 8)",
               "alternativas": [
                 "Verdadeiro",
                 "Falso"
@@ -79,25 +141,7 @@
               "alternativa_correta": 1
             },
             {
-              "pergunta": "Qual dos seguintes conceitos geográficos se refere a uma área controlada por um poder político, econômico ou social?",
-              "alternativas": [
-                "Paisagem",
-                "Lugar",
-                "Território",
-                "Região"
-              ],
-              "alternativa_correta": 2
-            },
-            {
-              "pergunta": "Verdadeiro ou Falso: O desastre de Mariana (2015) teve impactos apenas locais, sem afetar grandes áreas ou rios.",
-              "alternativas": [
-                "Verdadeiro",
-                "Falso"
-              ],
-              "alternativa_correta": 1
-            },
-            {
-              "pergunta": "Qual dos seguintes princípios geográficos busca explicar as causas primárias de um fenômeno?",
+              "pergunta": "Qual dos seguintes princípios geográficos busca explicar as causas primárias de um fenômeno? (Página 7)",
               "alternativas": [
                 "Extensão",
                 "Analogia",
@@ -107,7 +151,7 @@
               "alternativa_correta": 2
             },
             {
-              "pergunta": "Verdadeiro ou Falso: A Geografia foi estudada como ciência nas universidades apenas a partir do século XIX.",
+              "pergunta": "Verdadeiro ou Falso: A Geografia foi estudada como ciência nas universidades apenas a partir do século XIX. (Página 4)",
               "alternativas": [
                 "Verdadeiro",
                 "Falso"
@@ -115,25 +159,7 @@
               "alternativa_correta": 0
             },
             {
-              "pergunta": "Qual dos seguintes povos antigos contribuiu para o desenvolvimento da Geografia ao estudar os movimentos dos astros?",
-              "alternativas": [
-                "Egípcios",
-                "Gregos",
-                "Mesopotâmicos",
-                "Chineses"
-              ],
-              "alternativa_correta": 3
-            },
-            {
-              "pergunta": "Verdadeiro ou Falso: A paisagem natural não existe mais, pois todas as paisagens foram alteradas pela ação humana.",
-              "alternativas": [
-                "Verdadeiro",
-                "Falso"
-              ],
-              "alternativa_correta": 0
-            },
-            {
-              "pergunta": "Qual dos seguintes conceitos geográficos se refere a uma divisão do espaço com base em características semelhantes?",
+              "pergunta": "Qual dos seguintes conceitos geográficos se refere a uma divisão do espaço com base em características semelhantes? (Página 12)",
               "alternativas": [
                 "Paisagem",
                 "Lugar",
@@ -143,7 +169,7 @@
               "alternativa_correta": 3
             },
             {
-              "pergunta": "Verdadeiro ou Falso: O princípio da Atividade sugere que o passado deve ser estudado para compreender o presente e projetar o futuro.",
+              "pergunta": "Verdadeiro ou Falso: O princípio da Atividade sugere que o passado deve ser estudado para compreender o presente e projetar o futuro. (Página 7)",
               "alternativas": [
                 "Verdadeiro",
                 "Falso"
@@ -151,7 +177,7 @@
               "alternativa_correta": 0
             },
             {
-              "pergunta": "Qual dos seguintes geógrafos foi o primeiro a usar o termo 'Geografia'?",
+              "pergunta": "Qual dos seguintes geógrafos foi o primeiro a usar o termo 'Geografia'? (Página 3)",
               "alternativas": [
                 "Estrabão",
                 "Ptolomeu",
@@ -159,32 +185,6 @@
                 "Aristóteles"
               ],
               "alternativa_correta": 0
-            },
-            {
-              "pergunta": "Verdadeiro ou Falso: As Grandes Navegações contribuíram para o desenvolvimento da Geografia ao mapear novos continentes.",
-              "alternativas": [
-                "Verdadeiro",
-                "Falso"
-              ],
-              "alternativa_correta": 0
-            },
-            {
-              "pergunta": "Qual dos seguintes conceitos geográficos se refere ao 'cenário' onde ocorrem os fenômenos naturais e humanos?",
-              "alternativas": [
-                "Paisagem",
-                "Lugar",
-                "Território",
-                "Região"
-              ],
-              "alternativa_correta": 0
-            },
-            {
-              "pergunta": "Verdadeiro ou Falso: O desastre de Mariana (2015) afetou apenas o município de Mariana, sem impactar outras regiões.",
-              "alternativas": [
-                "Verdadeiro",
-                "Falso"
-              ],
-              "alternativa_correta": 1
             }
           ]
         }
