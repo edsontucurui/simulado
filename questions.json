@@ -191,23 +191,303 @@
       }
     },
     "Ciências": {
-      "capitulo": {
-        "1 - A Ciência na Natureza": {
-          "questoes": [
-            {
-              "pergunta": "Digite sua resposta",
-              "alternativas": [
-                "Opção 1",
-                "Opção 2",
-                "Opção 3",
-                "Opção 4"
-              ],
-              "alternativa_correta": 0
-            }
-          ]
-        }
+    "capitulo": {
+      "1 e 2 - A Ciência na Natureza e Origem e Propriedades da Matéria": {
+        "questoes": [
+          {
+            "pergunta": "Qual o primeiro passo do método científico para investigar um fenômeno?",
+            "alternativas": [
+              "Formular hipóteses",
+              "Realizar observações",
+              "Conduzir experimentos",
+              "Publicar resultados"
+            ],
+            "alternativa_correta": 1
+          },
+          {
+            "pergunta": "Quando fazemos afirmações prévias, as quais podem ser verdadeiras ou não, para explicar um fenômeno, estamos elaborando:",
+            "alternativas": [
+              "uma teoria",
+              "uma hipótese",
+              "uma observaçõa",
+              "um experiência"
+            ],
+            "alternativa_correta": 1
+          },
+          {
+            "pergunta": "Qual destes é um exemplo de transformação química?",
+            "alternativas": [
+              "Derretimento de gelo",
+              "Dissolução de açúcar",
+              "Ferrugem em um prego",
+              "Evaporação de água"
+            ],
+            "alternativa_correta": 2
+          },
+          {
+            "pergunta": "Qual propriedade explica por que um objeto continua em movimento sem atrito?",
+            "alternativas": [
+              "Elasticidade",
+              "Inércia",
+              "Densidade",
+              "Impenetrabilidade"
+            ],
+            "alternativa_correta": 1
+          },
+          {
+            "pergunta": "Qual método é mais adequado para separar areia e água?",
+            "alternativas": [
+              "Destilação",
+              "Filtração",
+              "Decantação",
+              "Evaporação"
+            ],
+            "alternativa_correta": 2
+          },
+          {
+            "pergunta": "Quantos elementos naturais existem na Tabela Periódica?",
+            "alternativas": [
+              "92",
+              "118",
+              "80",
+              "106"
+            ],
+            "alternativa_correta": 0
+          },
+          {
+            "pergunta": "Qual destes cientistas desenvolveu a teoria da evolução?",
+            "alternativas": [
+              "Albert Einstein",
+              "Isaac Newton",
+              "Charles Darwin",
+              "Marie Curie"
+            ],
+            "alternativa_correta": 2
+          },
+          {
+            "pergunta": "O que é densidade?",
+            "alternativas": [
+              "Massa dividida por volume",
+              "Volume dividido por massa",
+              "Peso multiplicado por volume",
+              "Força por unidade de área"
+            ],
+            "alternativa_correta": 0
+          },
+          {
+            "pergunta": "Qual destes é um exemplo de mistura heterogênea?",
+            "alternativas": [
+              "Água e sal",
+              "Álcool e água",
+              "Ar atmosférico",
+              "Óleo e água"
+            ],
+            "alternativa_correta": 3
+          },
+          {
+            "pergunta": "Qual partícula atômica tem carga negativa?",
+            "alternativas": [
+              "Próton",
+              "Nêutron",
+              "Elétron",
+              "Íon"
+            ],
+            "alternativa_correta": 2
+          },
+          {
+            "pergunta": "O que ocorre quando um ovo é colocado em vinagre?",
+            "alternativas": [
+              "Dissolve-se completamente",
+              "A casca reage formando bolhas",
+              "Torna-se magnetico",
+              "Nada acontece"
+            ],
+            "alternativa_correta": 1
+          },
+          {
+            "pergunta": "Qual propriedade permite que um gás seja comprimido?",
+            "alternativas": [
+              "Elasticidade",
+              "Compressibilidade",
+              "Ductibilidade",
+              "Maleabilidade"
+            ],
+            "alternativa_correta": 1
+          },
+          {
+            "pergunta": "Qual destes é um fenômeno físico?",
+            "alternativas": [
+              "Queima de papel",
+              "Ferrugem",
+              "Derretimento de cera",
+              "Digestão de alimentos"
+            ],
+            "alternativa_correta": 2
+          },
+          {
+            "pergunta": "Quantas fases tem uma mistura de água, óleo e gelo?",
+            "alternativas": [
+              "1",
+              "2",
+              "3",
+              "4"
+            ],
+            "alternativa_correta": 2
+          },
+          {
+            "pergunta": "Qual cientista brasileira sequenciou o genoma do COVID-19?",
+            "alternativas": [
+              "Bertha Lutz",
+              "Jaqueline Goes de Jesus",
+              "Mayana Zatz",
+              "Suzana Herculano-Houzel"
+            ],
+            "alternativa_correta": 1
+          },
+          {
+            "pergunta": "O que é impenetrabilidade?",
+            "alternativas": [
+              "Capacidade de conduzir calor",
+              "Propriedade de ocupar espaço exclusivo",
+              "Resistência à tração",
+              "Capacidade de refletir luz"
+            ],
+            "alternativa_correta": 1
+          },
+          {
+            "pergunta": "Qual método separa componentes por diferença de pontos de ebulição?",
+            "alternativas": [
+              "Filtração",
+              "Destilação",
+              "Decantação",
+              "Centrifugação"
+            ],
+            "alternativa_correta": 1
+          },
+          {
+            "pergunta": "Qual destes NÃO é um estado físico da matéria?",
+            "alternativas": [
+              "Sólido",
+              "Líquido",
+              "Gasoso",
+              "Energético"
+            ],
+            "alternativa_correta": 3
+          },
+          {
+            "pergunta": "Qual propriedade é percebida pelo paladar?",
+            "alternativas": [
+              "Cor",
+              "Sabor",
+              "Odor",
+              "Textura"
+            ],
+            "alternativa_correta": 1
+          },
+          {
+            "pergunta": "Qual cientista é conhecido por seus estudos com corrente alternada?",
+            "alternativas": [
+              "Thomas Edison",
+              "Nikola Tesla",
+              "Michael Faraday",
+              "James Watt"
+            ],
+            "alternativa_correta": 1
+          },
+          {
+            "pergunta": "O que ocorre quando se adiciona sal à água com um ovo?",
+            "alternativas": [
+              "O ovo afunda mais",
+              "O ovo flutua",
+              "O ovo dissolve-se",
+              "Nada muda"
+            ],
+            "alternativa_correta": 1
+          },
+          {
+            "pergunta": "Qual destes é um exemplo de propriedade organoléptica?",
+            "alternativas": [
+              "Densidade",
+              "Massa",
+              "Cor",
+              "Volume"
+            ],
+            "alternativa_correta": 2
+          },
+          {
+            "pergunta": "Qual método é usado para preparar café?",
+            "alternativas": [
+              "Destilação",
+              "Filtração",
+              "Decantação",
+              "Evaporação"
+            ],
+            "alternativa_correta": 1
+          },
+          {
+            "pergunta": "Quantos prótons tem um átomo de oxigênio?",
+            "alternativas": [
+              "6",
+              "8",
+              "16",
+              "32"
+            ],
+            "alternativa_correta": 1
+          },
+          {
+            "pergunta": "Qual destes é um exemplo de mudança de estado físico?",
+            "alternativas": [
+              "Queima de madeira",
+              "Ferrugem",
+              "Evaporação da água",
+              "Dissolução de sal"
+            ],
+            "alternativa_correta": 2
+          },
+          {
+            "pergunta": "Qual propriedade permite que uma mola volte ao formato original?",
+            "alternativas": [
+              "Ductibilidade",
+              "Elasticidade",
+              "Maleabilidade",
+              "Tenacidade"
+            ],
+            "alternativa_correta": 1
+          },
+          {
+            "pergunta": "Qual destes elementos é um metal?",
+            "alternativas": [
+              "Oxigênio",
+              "Ferro",
+              "Nitrogênio",
+              "Cloro"
+            ],
+            "alternativa_correta": 1
+          },
+          {
+            "pergunta": "O que significa o número atômico de um elemento?",
+            "alternativas": [
+              "Número de nêutrons",
+              "Número de prótons",
+              "Número de elétrons",
+              "Número de camadas"
+            ],
+            "alternativa_correta": 1
+          },
+          {
+            "pergunta": "Qual destes é um exemplo de substância composta?",
+            "alternativas": [
+              "Ouro (Au)",
+              "Oxigênio (O₂)",
+              "Água (H₂O)",
+              "Hidrogênio (H₂)"
+            ],
+            "alternativa_correta": 2
+          }
+        ]
       }
-    },
+    }
+  },
     "Inglês": {
       "capitulo": {
         "1 - Lesson": {
