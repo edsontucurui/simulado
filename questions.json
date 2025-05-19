@@ -488,6 +488,200 @@
       }
     }
   },
+    "História": {
+        "capitulo": {
+          "4 África Antiga: O Egito": {
+            "questoes": [
+              {
+                "pergunta": "Por que o Egito é considerado uma dádiva do Nilo?",
+                "alternativas": [
+                  "Porque o Nilo permitiu a agricultura e a vida na região desértica",
+                  "Porque o Nilo era uma divindade egípcia",
+                  "Porque o Nilo separava o Egito de outros povos",
+                  "Porque o Nilo tinha muitas pedras preciosas"
+                ],
+                "alternativa_correta": 0
+              },
+              {
+                "pergunta": "Quem foi o faraó que unificou o Alto e o Baixo Egito?",
+                "alternativas": [
+                  "Tutancâmon",
+                  "Menés",
+                  "Ramsés II",
+                  "Amenófis IV"
+                ],
+                "alternativa_correta": 1
+              },
+              {
+                "pergunta": "Qual era uma das principais atividades econômicas no Egito Antigo?",
+                "alternativas": [
+                  "Agricultura",
+                  "Tecnologia",
+                  "Turismo moderno",
+                  "Pesca de baleias"
+                ],
+                "alternativa_correta": 0
+              },
+              {
+                "pergunta": "Qual era a base da sociedade egípcia?",
+                "alternativas": [
+                  "Nobres e sacerdotes",
+                  "Camponeses e artesãos",
+                  "Escribas",
+                  "Militares e generais"
+                ],
+                "alternativa_correta": 1
+              },
+              {
+                "pergunta": "Qual era o nome da escrita com símbolos e desenhos usada no Egito?",
+                "alternativas": [
+                  "Hieróglifos",
+                  "Latim",
+                  "Democrática",
+                  "Cunha"
+                ],
+                "alternativa_correta": 0
+              },
+              {
+                "pergunta": "A religião egípcia era:",
+                "alternativas": [
+                  "Cristã",
+                  "Politeísta",
+                  "Ateísta",
+                  "Budista"
+                ],
+                "alternativa_correta": 1
+              },
+              {
+                "pergunta": "O que os escribas faziam no Egito Antigo?",
+                "alternativas": [
+                  "Registravam informações e copiavam textos",
+                  "Lutavam em guerras",
+                  "Construíam pirâmides",
+                  "Plantavam nas margens do Nilo"
+                ],
+                "alternativa_correta": 0
+              },
+              {
+                "pergunta": "Qual dessas pirâmides foi construída no Antigo Império?",
+                "alternativas": [
+                  "Pirâmide de Quéops",
+                  "Pirâmide de Nefertiti",
+                  "Pirâmide de Amenófis",
+                  "Pirâmide de Osíris"
+                ],
+                "alternativa_correta": 0
+              },
+              {
+                "pergunta": "Qual era o objetivo da mumificação?",
+                "alternativas": [
+                  "Preservar o corpo para a vida após a morte",
+                  "Enfeitar o corpo para exposições",
+                  "Deixar o corpo bonito",
+                  "Criar uma estátua do faraó"
+                ],
+                "alternativa_correta": 0
+              },
+              {
+                "pergunta": "O que são vasos canópicos?",
+                "alternativas": [
+                  "Vasos usados para guardar os órgãos durante a mumificação",
+                  "Vasos usados para servir vinho",
+                  "Decoração dos templos",
+                  "Urnas de votação"
+                ],
+                "alternativa_correta": 0
+              },
+              {
+                "pergunta": "Qual era o tipo de governo no Egito Antigo?",
+                "alternativas": [
+                  "Teocracia",
+                  "Democracia",
+                  "República",
+                  "Monarquia Parlamentar"
+                ],
+                "alternativa_correta": 0
+              },
+              {
+                "pergunta": "Quem era considerado um deus vivo no Egito Antigo?",
+                "alternativas": [
+                  "O faraó",
+                  "O escriba",
+                  "O sacerdote",
+                  "O guerreiro"
+                ],
+                "alternativa_correta": 0
+              },
+              {
+                "pergunta": "Qual a importância do Rio Nilo para a agricultura?",
+                "alternativas": [
+                  "Deixava o solo fértil com húmus nas cheias",
+                  "Trazia água salgada para irrigação",
+                  "Afundava plantações",
+                  "Não tinha importância"
+                ],
+                "alternativa_correta": 0
+              },
+              {
+                "pergunta": "Verdadeiro ou falso: O Antigo Império foi marcado por guerras constantes.",
+                "alternativas": [
+                  "Verdadeiro",
+                  "Falso"
+                ],
+                "alternativa_correta": 1
+              },
+              {
+                "pergunta": "Verdadeiro ou falso: O Novo Império teve um processo de expansão e escravização dos hebreus.",
+                "alternativas": [
+                  "Verdadeiro",
+                  "Falso"
+                ],
+                "alternativa_correta": 0
+              },
+              {
+                "pergunta": "Verdadeiro ou falso: A Pedra de Roseta ajudou a decifrar os hieróglifos.",
+                "alternativas": [
+                  "Verdadeiro",
+                  "Falso"
+                ],
+                "alternativa_correta": 0
+              },
+              {
+                "pergunta": "Verdadeiro ou falso: Os deuses egípcios podiam ter forma de animal e humana.",
+                "alternativas": [
+                  "Verdadeiro",
+                  "Falso"
+                ],
+                "alternativa_correta": 0
+              },
+              {
+                "pergunta": "Verdadeiro ou falso: O faraó não tinha nenhuma ligação com a religião.",
+                "alternativas": [
+                  "Verdadeiro",
+                  "Falso"
+                ],
+                "alternativa_correta": 1
+              },
+              {
+                "pergunta": "Verdadeiro ou falso: As mulheres não podiam ser faraós no Egito Antigo.",
+                "alternativas": [
+                  "Verdadeiro",
+                  "Falso"
+                ],
+                "alternativa_correta": 1
+              },
+              {
+                "pergunta": "Verdadeiro ou falso: O conhecimento sobre o corpo humano ajudou no avanço da medicina egípcia.",
+                "alternativas": [
+                  "Verdadeiro",
+                  "Falso"
+                ],
+                "alternativa_correta": 0
+              }
+            ]
+          }
+        }
+      },
     "Inglês": {
       "capitulo": {
         "1 - Lesson": {
