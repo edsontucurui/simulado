@@ -683,23 +683,183 @@
         }
       },
     "Inglês": {
-      "capitulo": {
-        "1 - Lesson": {
-          "questoes": [
-            {
-              "pergunta": "Digite sua resposta",
-              "alternativas": [
-                "Opção 1",
-                "Opção 2",
-                "Opção 3",
-                "Opção 4"
-              ],
-              "alternativa_correta": 0
-            }
-          ]
-        }
+    "capitulo": {
+      "3 - Helping my family (Home Chores)": {
+        "questoes": [
+          {
+            "pergunta": "What does 'duster' mean? (O que significa 'duster'?)",
+            "alternativas": [
+              "Esfregão",
+              "Pano de chão",
+              "Pano de tirar pó",
+              "Sabão líquido"
+            ],
+            "alternativa_correta": 2
+          },
+          {
+            "pergunta": "What does 'broom' mean? (O que significa 'broom'?)",
+            "alternativas": [
+              "Vassoura",
+              "Balde",
+              "Esponja",
+              "Rodo"
+            ],
+            "alternativa_correta": 0
+          },
+          {
+            "pergunta": "What does 'dustpan' mean? (O que significa 'dustpan'?)",
+            "alternativas": [
+              "Esfregão",
+              "Pá de lixo",
+              "Esponja",
+              "Pano de chão"
+            ],
+            "alternativa_correta": 1
+          },
+          {
+            "pergunta": "What does 'sponge' mean? (O que significa 'sponge'?)",
+            "alternativas": [
+              "Balde",
+              "Pano de chão",
+              "Esponja",
+              "Sabão líquido"
+            ],
+            "alternativa_correta": 2
+          },
+          {
+            "pergunta": "What does 'liquid soap' mean? (O que significa 'liquid soap'?)",
+            "alternativas": [
+              "Sabão líquido",
+              "Detergente em pó",
+              "Água sanitária",
+              "Esponja"
+            ],
+            "alternativa_correta": 0
+          },
+          {
+            "pergunta": "What does 'bucket' mean? (O que significa 'bucket'?)",
+            "alternativas": [
+              "Sabão líquido",
+              "Esfregão",
+              "Balde",
+              "Pano de chão"
+            ],
+            "alternativa_correta": 2
+          },
+          {
+            "pergunta": "What does 'mop' mean? (O que significa 'mop'?)",
+            "alternativas": [
+              "Vassoura",
+              "Pano de prato",
+              "Esfregão",
+              "Esponja"
+            ],
+            "alternativa_correta": 2
+          },
+          {
+            "pergunta": "What does 'wiping cloth' mean? (O que significa 'wiping cloth'?)",
+            "alternativas": [
+              "Esponja de lavar louça",
+              "Pano de limpeza",
+              "Toalha de banho",
+              "Sabão em barra"
+            ],
+            "alternativa_correta": 1
+          },
+          {
+            "pergunta": "What does 'grandfather' mean? (O que significa 'grandfather'?)",
+            "alternativas": [
+              "Tio",
+              "Avô",
+              "Primo",
+              "Pai"
+            ],
+            "alternativa_correta": 1
+          },
+          {
+            "pergunta": "What does 'grandmother' mean? (O que significa 'grandmother'?)",
+            "alternativas": [
+              "Avó",
+              "Irmã",
+              "Mãe",
+              "Tia"
+            ],
+            "alternativa_correta": 0
+          },
+          {
+            "pergunta": "What does 'uncle' mean? (O que significa 'uncle'?)",
+            "alternativas": [
+              "Tio",
+              "Avô",
+              "Irmão",
+              "Primo"
+            ],
+            "alternativa_correta": 0
+          },
+          {
+            "pergunta": "What does 'aunt' mean? (O que significa 'aunt'?)",
+            "alternativas": [
+              "Mãe",
+              "Avó",
+              "Tia",
+              "Irmã"
+            ],
+            "alternativa_correta": 2
+          },
+          {
+            "pergunta": "What does 'father' mean? (O que significa 'father'?)",
+            "alternativas": [
+              "Pai",
+              "Avô",
+              "Tio",
+              "Primo"
+            ],
+            "alternativa_correta": 0
+          },
+          {
+            "pergunta": "What does 'mother' mean? (O que significa 'mother'?)",
+            "alternativas": [
+              "Avó",
+              "Mãe",
+              "Irmã",
+              "Tia"
+            ],
+            "alternativa_correta": 1
+          },
+          {
+            "pergunta": "What does 'brother' mean? (O que significa 'brother'?)",
+            "alternativas": [
+              "Primo",
+              "Irmão",
+              "Tio",
+              "Pai"
+            ],
+            "alternativa_correta": 1
+          },
+          {
+            "pergunta": "What does 'sister' mean? (O que significa 'sister'?)",
+            "alternativas": [
+              "Avó",
+              "Irmã",
+              "Mãe",
+              "Prima"
+            ],
+            "alternativa_correta": 1
+          },
+          {
+            "pergunta": "What does 'cousin' mean? (O que significa 'cousin'?)",
+            "alternativas": [
+              "Irmã",
+              "Tia",
+              "Primo/Prima",
+              "Avô"
+            ],
+            "alternativa_correta": 2
+          }
+        ]
       }
-    },
+    }
+  },
     "Matemática": {
       "capitulo": {
         "1 - Números": {
