@@ -201,14 +201,6 @@
               "alternativa_correta": 0
             },
             {
-              "pergunta": "Verdadeiro ou Falso: A Terra gira no sentido leste-oeste, acompanhando o movimento aparente do Sol.",
-              "alternativas": [
-                "FALSO",
-                "VERDADEIRO"
-              ],
-              "alternativa_correta": 1
-            },
-            {
               "pergunta": "Qual o nome do sistema que considera a Terra como o centro do Universo?",
               "alternativas": [
                 "Heliocêntrico",
@@ -219,42 +211,12 @@
               "alternativa_correta": 2
             },
             {
-              "pergunta": "Qual planeta do Sistema Solar é o mais quente?",
-              "alternativas": [
-                "Mercúrio",
-                "Marte",
-                "Terra",
-                "Vênus"
-              ],
-              "alternativa_correta": 3
-            },
-            {
               "pergunta": "Verdadeiro ou Falso: A Lua é considerada um satélite natural da Terra.",
               "alternativas": [
                 "VERDADEIRO",
                 "FALSO"
               ],
               "alternativa_correta": 0
-            },
-            {
-              "pergunta": "O que causa a sucessão dos dias e das noites?",
-              "alternativas": [
-                "Translação",
-                "Rotação",
-                "Inclinação do eixo terrestre",
-                "Órbita elíptica"
-              ],
-              "alternativa_correta": 1
-            },
-            {
-              "pergunta": "Quantos planetas compõem o Sistema Solar?",
-              "alternativas": [
-                "Sete",
-                "Dez",
-                "Oito",
-                "Seis"
-              ],
-              "alternativa_correta": 2
             },
             {
               "pergunta": "Verdadeiro ou Falso: Mercúrio é o planeta mais quente do Sistema Solar.",
@@ -277,36 +239,6 @@
               "alternativa_correta": 0
             },
             {
-              "pergunta": "Qual é o satélite natural da Terra?",
-              "alternativas": [
-                "Marte",
-                "Lua",
-                "Vênus",
-                "Sol"
-              ],
-              "alternativa_correta": 1
-            },
-            {
-              "pergunta": "Qual é a principal estrela do Sistema Solar?",
-              "alternativas": [
-                "Rigel",
-                "Antares",
-                "Sol",
-                "Vênus"
-              ],
-              "alternativa_correta": 2
-            },
-            {
-              "pergunta": "Verdadeiro ou Falso: O sistema heliocêntrico foi proposto por Ptolomeu.",
-              "alternativas": [
-                "VERDADEIRO",
-                "FALSO",
-                "Copérnico propôs o heliocentrismo",
-                "Galileu propôs o geocentrismo"
-              ],
-              "alternativa_correta": 3
-            },
-            {
               "pergunta": "Qual a duração de uma volta da Terra ao redor do Sol?",
               "alternativas": [
                 "365 dias, 5h e 48min",
@@ -317,16 +249,6 @@
               "alternativa_correta": 0
             },
             {
-              "pergunta": "O movimento aparente do Sol é causado:",
-              "alternativas": [
-                "Pela rotação da Terra",
-                "Pelo movimento do Sol",
-                "Por eclipse solar",
-                "Pela Lua"
-              ],
-              "alternativa_correta": 1
-            },
-            {
               "pergunta": "Qual planeta não possui satélites naturais?",
               "alternativas": [
                 "Júpiter",
@@ -335,26 +257,6 @@
                 "Marte"
               ],
               "alternativa_correta": 2
-            },
-            {
-              "pergunta": "Verdadeiro ou Falso: Os equinócios correspondem aos dias com maior ou menor duração do dia.",
-              "alternativas": [
-                "VERDADEIRO",
-                "FALSO",
-                "Parcialmente verdadeiro",
-                "Falso, isso ocorre nos solstícios"
-              ],
-              "alternativa_correta": 3
-            },
-            {
-              "pergunta": "Qual é a inclinação do eixo terrestre?",
-              "alternativas": [
-                "23º 27’ 30”",
-                "45º",
-                "15º",
-                "0º"
-              ],
-              "alternativa_correta": 0
             },
             {
               "pergunta": "A atmosfera de Vênus é composta principalmente por:",
@@ -370,21 +272,9 @@
               "pergunta": "Verdadeiro ou Falso: A Terra realiza dois principais movimentos: rotação e translação.",
               "alternativas": [
                 "FALSO",
-                "VERDADEIRO",
-                "VERDADEIRO",
-                "FALSO"
+                "VERDADEIRO"
               ],
-              "alternativa_correta": 2
-            },
-            {
-              "pergunta": "O ponto mais próximo entre a Terra e o Sol se chama:",
-              "alternativas": [
-                "Afélio",
-                "Solstício",
-                "Equinócio",
-                "Periélio"
-              ],
-              "alternativa_correta": 3
+              "alternativa_correta": 1
             },
             {
               "pergunta": "Qual planeta tem o maior número de satélites naturais?",
@@ -397,36 +287,6 @@
               "alternativa_correta": 0
             },
             {
-              "pergunta": "Verdadeiro ou Falso: A conquista da Lua ocorreu em 1973.",
-              "alternativas": [
-                "FALSO",
-                "VERDADEIRO",
-                "FALSO",
-                "Ocorreu em 1969"
-              ],
-              "alternativa_correta": 1
-            },
-            {
-              "pergunta": "A força de atração do Sol sobre os planetas é explicada pela:",
-              "alternativas": [
-                "Inércia",
-                "Gravidade",
-                "Gravidade",
-                "Força centrífuga"
-              ],
-              "alternativa_correta": 2
-            },
-            {
-              "pergunta": "Qual é a velocidade da Terra na translação?",
-              "alternativas": [
-                "107.208 km/h",
-                "1.660 km/h",
-                "300 mil km/s",
-                "150 mil km/h"
-              ],
-              "alternativa_correta": 3
-            },
-            {
               "pergunta": "Verdadeiro ou Falso: As estações do ano são causadas pela rotação da Terra.",
               "alternativas": [
                 "FALSO",
@@ -435,6 +295,158 @@
                 "FALSO"
               ],
               "alternativa_correta": 0
+            },
+            {
+              "pergunta": "Qual é o movimento da Terra responsável pelos dias e noites?",
+              "alternativas": [
+                "Rotação",
+                "Translação",
+                "Solstício",
+                "Equinócio"
+              ],
+              "alternativa_correta": 0
+            },
+            {
+              "pergunta": "Qual sistema considera o Sol no centro do Universo?",
+              "alternativas": [
+                "Geocêntrico",
+                "Copernicano",
+                "Heliocêntrico",
+                "Antropocêntrico"
+              ],
+              "alternativa_correta": 2
+            },
+            {
+              "pergunta": "Qual planeta do Sistema Solar é o mais quente?",
+              "alternativas": [
+                "Mercúrio",
+                "Terra",
+                "Marte",
+                "Vênus"
+              ],
+              "alternativa_correta": 3
+            },
+            {
+              "pergunta": "Verdadeiro ou Falso: A Lua é um satélite natural da Terra.",
+              "alternativas": [
+                "FALSO",
+                "VERDADEIRO"
+              ],
+              "alternativa_correta": 1
+            },
+            {
+              "pergunta": "Qual é o movimento da Terra que causa as estações do ano?",
+              "alternativas": [
+                "Translação",
+                "Rotação",
+                "Afélio",
+                "Equinócio"
+              ],
+              "alternativa_correta": 0
+            },
+            {
+              "pergunta": "Quantos planetas formam o Sistema Solar?",
+              "alternativas": [
+                "Sete",
+                "Nove",
+                "Dez",
+                "Oito"
+              ],
+              "alternativa_correta": 3
+            },
+            {
+              "pergunta": "Verdadeiro ou Falso: Vênus é mais quente que Mercúrio por causa de sua atmosfera densa.",
+              "alternativas": [
+                "FALSO",
+                "VERDADEIRO"
+              ],
+              "alternativa_correta": 1
+            },
+            {
+              "pergunta": "Qual é o satélite natural da Terra?",
+              "alternativas": [
+                "Marte",
+                "Lua",
+                "Vênus",
+                "Europa"
+              ],
+              "alternativa_correta": 1
+            },
+            {
+              "pergunta": "Qual é a principal estrela do Sistema Solar?",
+              "alternativas": [
+                "Antares",
+                "Rigel",
+                "Sol",
+                "Sirius"
+              ],
+              "alternativa_correta": 2
+            },
+            {
+              "pergunta": "Quem propôs o sistema heliocêntrico?",
+              "alternativas": [
+                "Ptolomeu",
+                "Galileu",
+                "Kepler",
+                "Nicolau Copérnico"
+              ],
+              "alternativa_correta": 3
+            },
+            {
+              "pergunta": "Quanto tempo leva a Terra para dar uma volta completa ao redor do Sol?",
+              "alternativas": [
+                "365 dias, 5h e 48min",
+                "24 horas",
+                "30 dias",
+                "365 dias exatos"
+              ],
+              "alternativa_correta": 0
+            },
+            {
+              "pergunta": "O movimento aparente do Sol é causado:",
+              "alternativas": [
+                "Pelo movimento do Sol",
+                "Pela rotação da Terra",
+                "Pelo eclipse solar",
+                "Pela órbita da Lua"
+              ],
+              "alternativa_correta": 1
+            },
+            {
+              "pergunta": "O que são satélites naturais?",
+              "alternativas": [
+                "São estrelas",
+                "São planetas",
+                "São corpos rochoso que orbitam ao redor dos planetas",
+                "São cometas"
+              ],
+              "alternativa_correta": 2
+            },
+            {
+              "pergunta": "Verdadeiro ou Falso: A translação e a inclinação do eixo da Terra causam as estações do ano.",
+              "alternativas": [
+                "FALSO",
+                "VERDADEIRO"
+              ],
+              "alternativa_correta": 1
+            },
+            {
+              "pergunta": "Verdadeiro ou Falso: A primeira viagem à Lua foi em 1969.",
+              "alternativas": [
+                "FALSO",
+                "VERDADEIRO"
+              ],
+              "alternativa_correta": 1
+            },
+            {
+              "pergunta": "A força que mantém os planetas em órbita é:",
+              "alternativas": [
+                "Magnetismo",
+                "Inércia",
+                "Gravidade",
+                "Rotação"
+              ],
+              "alternativa_correta": 2
             }
           ]
         },
