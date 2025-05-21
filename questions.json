@@ -491,30 +491,30 @@
             {
               "pergunta": "Qual é a camada mais externa da Terra?",
               "alternativas": [
-                "NÚCLEO",
-                "CROSTA",
-                "MANTO",
-                "ASTENOSFERA"
+                "Núcleo",
+                "Crosta",
+                "Manto",
+                "Astenosfera"
               ],
               "alternativa_correta": 1
             },
             {
               "pergunta": "O núcleo terrestre é composto principalmente por:",
               "alternativas": [
-                "SILÍCIO E ALUMÍNIO",
-                "NÍQUEL E FERRO",
-                "OXIGÊNIO E HIDROGÊNIO",
-                "MAGNÉSIO E SÓDIO"
+                "Silício e alumínio",
+                "Níquel e ferro",
+                "Oxigênio e hidrogênio",
+                "Magnésio e sódio"
               ],
               "alternativa_correta": 1
             },
             {
               "pergunta": "A crosta oceânica é formada principalmente por rochas:",
               "alternativas": [
-                "GRANITICAS",
-                "SEDIMENTARES",
-                "BASÁLTICAS",
-                "METAMÓRFICAS"
+                "Graniticas",
+                "Sedimentares",
+                "Basálticas",
+                "Metamórficas"
               ],
               "alternativa_correta": 2
             },
@@ -522,19 +522,17 @@
               "pergunta": "Verdadeiro ou falso: A pressão no núcleo interno da Terra é baixa, permitindo que ele se mantenha líquido.",
               "alternativas": [
                 "VERDADEIRO",
-                "FALSO",
-                "",
-                ""
+                "FALSO"
               ],
               "alternativa_correta": 1
             },
             {
               "pergunta": "Qual dessas camadas contém a litosfera?",
               "alternativas": [
-                "CROSTA",
-                "NÚCLEO",
-                "ATMOSFERA",
-                "EXOSFERA"
+                "Crosta",
+                "Núcleo",
+                "Atmosfera",
+                "Exosfera"
               ],
               "alternativa_correta": 0
             },
@@ -542,29 +540,27 @@
               "pergunta": "Verdadeiro ou falso: A camada de ozônio está localizada na troposfera.",
               "alternativas": [
                 "VERDADEIRO",
-                "FALSO",
-                "",
-                ""
+                "FALSO"
               ],
               "alternativa_correta": 1
             },
             {
               "pergunta": "As placas tectônicas flutuam sobre:",
               "alternativas": [
-                "NÚCLEO",
-                "ASTENOSFERA",
-                "CROSTA",
-                "ESTRATOSFERA"
+                "Núcleo",
+                "Astenosfera",
+                "Crosta",
+                "Estratosfera"
               ],
               "alternativa_correta": 1
             },
             {
               "pergunta": "A atmosfera é composta principalmente por:",
               "alternativas": [
-                "OXIGÊNIO E GÁS CARBÔNICO",
-                "HIDROGÊNIO E HÉLIO",
-                "OXIGÊNIO E NITROGÊNIO",
-                "GÁS CARBÔNICO E METANO"
+                "Oxigênio e gás carbônico",
+                "Hidrogênio e hélio",
+                "Oxigênio e nitrogênio",
+                "Gás carbônico e metano"
               ],
               "alternativa_correta": 2
             },
@@ -572,29 +568,27 @@
               "pergunta": "Verdadeiro ou falso: A troposfera é onde ocorrem os fenômenos meteorológicos.",
               "alternativas": [
                 "VERDADEIRO",
-                "FALSO",
-                "",
-                ""
+                "FALSO"
               ],
               "alternativa_correta": 0
             },
             {
               "pergunta": "Qual das alternativas representa um efeito causado pela movimentação das placas tectônicas?",
               "alternativas": [
-                "FORMAÇÃO DE NUVENS",
-                "ERUPÇÕES VULCÂNICAS",
-                "CORRENTES MARÍTIMAS",
-                "CICLO DA ÁGUA"
+                "Formação de nuvens",
+                "Erupções vulcânicas",
+                "Correntes marítimas",
+                "Ciclo da água"
               ],
               "alternativa_correta": 1
             },
             {
               "pergunta": "O efeito estufa é causado principalmente por:",
               "alternativas": [
-                "AUMENTO DA CAMADA DE OZÔNIO",
-                "PRESENÇA DE GASES COMO CO2 E METANO",
-                "CHUVA ÁCIDA",
-                "FORMAÇÃO DE NUVENS"
+                "Aumento da camada de ozônio",
+                "Presença de gases como CO2 e metano",
+                "Chuva ácida",
+                "Formação de nuvens"
               ],
               "alternativa_correta": 1
             },
@@ -602,39 +596,37 @@
               "pergunta": "Verdadeiro ou falso: O efeito estufa é sempre prejudicial.",
               "alternativas": [
                 "VERDADEIRO",
-                "FALSO",
-                "",
-                ""
+                "FALSO"
               ],
               "alternativa_correta": 1
             },
             {
               "pergunta": "A mesosfera é conhecida por:",
               "alternativas": [
-                "SER A CAMADA MAIS QUENTE",
-                "PROTEGER CONTRA METEOROS",
-                "AUMENTAR O NÍVEL DE OZÔNIO",
-                "SER A MAIS PRÓXIMA DA TERRA"
+                "Ser a camada mais quente",
+                "Proteger contra meteoros",
+                "Aumentar o nível de ozônio",
+                "Ser a mais próxima da Terra"
               ],
               "alternativa_correta": 1
             },
             {
               "pergunta": "Qual fenômeno pode ocorrer com o encontro de placas tectônicas?",
               "alternativas": [
-                "AURORA BOREAL",
-                "TERREMOTOS",
-                "ARCO-ÍRIS",
-                "NEVE"
+                "Aurora boreal",
+                "Terremotos",
+                "Arco-íris",
+                "Neve"
               ],
               "alternativa_correta": 1
             },
             {
               "pergunta": "A exosfera é:",
               "alternativas": [
-                "A CAMADA MAIS FRIA",
-                "A CAMADA MAIS DENSA",
-                "A CAMADA MAIS EXTERNA DA ATMOSFERA",
-                "ONDE OCORREM OS RELÂMPAGOS"
+                "A camada mais fria",
+                "A camada mais densa",
+                "A camada mais externa da atmosfera",
+                "Onde ocorrem os relâmpagos"
               ],
               "alternativa_correta": 2
             },
@@ -642,19 +634,17 @@
               "pergunta": "Verdadeiro ou falso: A atmosfera impede a fuga do ar da Terra.",
               "alternativas": [
                 "VERDADEIRO",
-                "FALSO",
-                "",
-                ""
+                "FALSO"
               ],
               "alternativa_correta": 0
             },
             {
               "pergunta": "O núcleo terrestre é dividido em:",
               "alternativas": [
-                "MANTO E CROSTA",
-                "INTERNO E EXTERNO",
-                "INFERIOR E SUPERIOR",
-                "LITOSFERA E ASTENOSFERA"
+                "Manto e crosta",
+                "Interno e externo",
+                "Inferior e superior",
+                "Litosfera e astenosfera"
               ],
               "alternativa_correta": 1
             },
@@ -662,29 +652,27 @@
               "pergunta": "Verdadeiro ou falso: A camada de ozônio ajuda a proteger contra os raios UV.",
               "alternativas": [
                 "VERDADEIRO",
-                "FALSO",
-                "",
-                ""
+                "FALSO"
               ],
               "alternativa_correta": 0
             },
             {
               "pergunta": "As camadas da atmosfera são, de baixo para cima:",
               "alternativas": [
-                "TROPOSFERA, ESTRATOSFERA, MESOSFERA, TERMOSFERA E EXOSFERA",
-                "MESOSFERA, ESTRATOSFERA, TROPOSFERA, TERMOSFERA E EXOSFERA",
-                "EXOSFERA, TERMOSFERA, MESOSFERA, ESTRATOSFERA E TROPOSFERA",
-                "ESTRATOSFERA, TROPOSFERA, TERMOSFERA, MESOSFERA E EXOSFERA"
+                "Troposfera, estratosfera, mesosfera, termosfera e exosfera",
+                "Mesosfera, estratosfera, troposfera, termosfera e exosfera",
+                "Exosfera, termosfera, mesosfera, estratosfera e troposfera",
+                "Estratosfera, troposfera, termosfera, mesosfera e exosfera"
               ],
               "alternativa_correta": 0
             },
             {
               "pergunta": "A camada da Terra com maior temperatura é:",
               "alternativas": [
-                "CROSTA",
-                "MANTO",
-                "NÚCLEO INTERNO",
-                "ESTRATOSFERA"
+                "Crosta",
+                "Manto",
+                "Núcleo interno",
+                "Estratosfera"
               ],
               "alternativa_correta": 2
             },
@@ -692,29 +680,27 @@
               "pergunta": "Verdadeiro ou falso: A crosta terrestre tem a mesma espessura em todos os lugares.",
               "alternativas": [
                 "VERDADEIRO",
-                "FALSO",
-                "",
-                ""
+                "FALSO"
               ],
               "alternativa_correta": 1
             },
             {
               "pergunta": "Qual gás é mais abundante na atmosfera terrestre?",
               "alternativas": [
-                "OXIGÊNIO",
-                "NITROGÊNIO",
-                "GÁS CARBÔNICO",
-                "METANO"
+                "Oxigênio",
+                "Nitrogênio",
+                "Gás carbônico",
+                "Metano"
               ],
               "alternativa_correta": 1
             },
             {
               "pergunta": "O que é o magma?",
               "alternativas": [
-                "ROCHAS METAMÓRFICAS",
-                "FERRO LÍQUIDO DO NÚCLEO",
-                "MATERIAL PASTOSO DO MANTO",
-                "GÁS QUENTE DA CROSTA"
+                "Rochas metamórficas",
+                "Ferro líquido do núcleo",
+                "Material pastoso do manto",
+                "Gás quente da crosta"
               ],
               "alternativa_correta": 2
             },
@@ -722,19 +708,17 @@
               "pergunta": "Verdadeiro ou falso: As placas tectônicas são imóveis.",
               "alternativas": [
                 "VERDADEIRO",
-                "FALSO",
-                "",
-                ""
+                "FALSO"
               ],
               "alternativa_correta": 1
             },
             {
               "pergunta": "A camada de ozônio é importante porque:",
               "alternativas": [
-                "EVITA A ENTRADA DE OXIGÊNIO",
-                "AUMENTA O CALOR",
-                "FILTRA A RADIAÇÃO ULTRAVIOLETA",
-                "PRODUZ CO2"
+                "Evita a entrada de oxigênio",
+                "Aumenta o calor",
+                "Filtra a radiação ultravioleta",
+                "Produz CO2"
               ],
               "alternativa_correta": 2
             }
@@ -745,20 +729,20 @@
             {
               "pergunta": "Os minerais são definidos como:",
               "alternativas": [
-                "ROCHAS METAMÓRFICAS",
-                "CORPOS SÓLIDOS HOMOGÊNEOS COM COMPOSIÇÃO QUÍMICA DEFINIDA",
-                "GASES PRESENTES NA ATMOSFERA",
-                "FRAGMENTOS ORGÂNICOS DE SERES VIVOS"
+                "Rochas metamórficas",
+                "Corpos sólidos homogêneos com composição química definida",
+                "Gases presentes na atmosfera",
+                "Fragmentos orgânicos de seres vivos"
               ],
               "alternativa_correta": 1
             },
             {
               "pergunta": "A rocha ígnea mais comum é o:",
               "alternativas": [
-                "ARENITO",
-                "BASALTO",
-                "GRANITO",
-                "CALCÁRIO"
+                "Arenito",
+                "Basalto",
+                "Granito",
+                "Calcário"
               ],
               "alternativa_correta": 2
             },
@@ -766,39 +750,37 @@
               "pergunta": "Verdadeiro ou falso: As rochas metamórficas são formadas a partir de mudanças de temperatura e pressão.",
               "alternativas": [
                 "VERDADEIRO",
-                "FALSO",
-                "",
-                ""
+                "FALSO"
               ],
               "alternativa_correta": 0
             },
             {
               "pergunta": "As estalactites e estalagmites se formam a partir do:",
               "alternativas": [
-                "QUARTZO",
-                "COBRE",
-                "CARBONATO DE CÁLCIO",
-                "OURO"
+                "Quartzo",
+                "Cobre",
+                "Carbonato de cálcio",
+                "Ouro"
               ],
               "alternativa_correta": 2
             },
             {
               "pergunta": "Rochas sedimentares são formadas por:",
               "alternativas": [
-                "MAGMA RESFRIADO",
-                "TRANSFORMAÇÕES DE OUTRAS ROCHAS",
-                "COMPACTAÇÃO DE SEDIMENTOS",
-                "CRISTALIZAÇÃO DE GASES"
+                "Magma resfriado",
+                "Transformações de outras rochas",
+                "Compactação de sedimentos",
+                "Cristalização de gases"
               ],
               "alternativa_correta": 2
             },
             {
               "pergunta": "O que são minerais?",
               "alternativas": [
-                "SUBSTÂNCIAS LÍQUIDAS QUE FORMAM O SOLO",
-                "CORPOS SÓLIDOS COM COMPOSIÇÃO QUÍMICA DEFINIDA",
-                "ANIMAIS FOSSILIZADOS",
-                "ROCHAS DERRETIDAS"
+                "Substâncias líquidas que formam o solo",
+                "Corpos sólidos com composição química definida",
+                "Animais fossilizados",
+                "Rochas derretidas"
               ],
               "alternativa_correta": 1
             },
@@ -806,19 +788,17 @@
               "pergunta": "Verdadeiro ou falso: O ciclo das rochas inclui fusão, cristalização e compactação.",
               "alternativas": [
                 "VERDADEIRO",
-                "FALSO",
-                "",
-                ""
+                "FALSO"
               ],
               "alternativa_correta": 0
             },
             {
               "pergunta": "A ardósia é uma rocha metamórfica originada do:",
               "alternativas": [
-                "CALCÁRIO",
-                "BASALTO",
-                "FOLHELHO",
-                "GRANITO"
+                "Calcário",
+                "Basalto",
+                "Folhelho",
+                "Granito"
               ],
               "alternativa_correta": 2
             },
@@ -826,29 +806,27 @@
               "pergunta": "Verdadeiro ou falso: As pedras preciosas podem ser de origem orgânica ou inorgânica.",
               "alternativas": [
                 "VERDADEIRO",
-                "FALSO",
-                "",
-                ""
+                "FALSO"
               ],
               "alternativa_correta": 0
             },
             {
               "pergunta": "O principal componente para fabricação de chips eletrônicos é o:",
               "alternativas": [
-                "ALUMÍNIO",
-                "COBRE",
-                "SILÍCIO",
-                "ZINCO"
+                "Alumínio",
+                "Cobre",
+                "Silício",
+                "Zinco"
               ],
               "alternativa_correta": 2
             },
             {
               "pergunta": "Qual tipo de rocha contém fósseis?",
               "alternativas": [
-                "MAGMÁTICA",
-                "METAMÓRFICA",
-                "SEDIMENTAR",
-                "ÍGNEA"
+                "Magmática",
+                "Metamórfica",
+                "Sedimentar",
+                "Ígnea"
               ],
               "alternativa_correta": 2
             },
@@ -856,39 +834,37 @@
               "pergunta": "Verdadeiro ou falso: O granito é uma rocha sedimentar.",
               "alternativas": [
                 "VERDADEIRO",
-                "FALSO",
-                "",
-                ""
+                "FALSO"
               ],
               "alternativa_correta": 1
             },
             {
               "pergunta": "O que é diagênese?",
               "alternativas": [
-                "FUSÃO DE ROCHAS",
-                "CRISTALIZAÇÃO DO MAGMA",
-                "COMPACTAÇÃO DE SEDIMENTOS EM ROCHAS",
-                "TRANSFORMAÇÃO DO MAGMA EM LAVA"
+                "Fusão de rochas",
+                "Cristalização do magma",
+                "Compactação de sedimentos em rochas",
+                "Transformação do magma em lava"
               ],
               "alternativa_correta": 2
             },
             {
               "pergunta": "Qual o tipo de rocha mais presente na crosta continental?",
               "alternativas": [
-                "SEDIMENTARES",
-                "MAGMÁTICAS E METAMÓRFICAS",
-                "ÍGNEAS",
-                "CALCÁRIAS"
+                "Sedimentares",
+                "Magmáticas e metamórficas",
+                "Ígneas",
+                "Calcárias"
               ],
               "alternativa_correta": 1
             },
             {
               "pergunta": "Qual é o metal mais comum na crosta terrestre?",
               "alternativas": [
-                "FERRO",
-                "COBRE",
-                "ALUMÍNIO",
-                "NÍQUEL"
+                "Ferro",
+                "Cobre",
+                "Alumínio",
+                "Níquel"
               ],
               "alternativa_correta": 2
             },
@@ -896,39 +872,37 @@
               "pergunta": "Verdadeiro ou falso: Rochas magmáticas se formam pelo resfriamento do magma.",
               "alternativas": [
                 "VERDADEIRO",
-                "FALSO",
-                "",
-                ""
+                "FALSO"
               ],
               "alternativa_correta": 0
             },
             {
               "pergunta": "O que é metamorfismo?",
               "alternativas": [
-                "SOLIDIFICAÇÃO DO MAGMA",
-                "COMPACTAÇÃO DE SEDIMENTOS",
-                "TRANSFORMAÇÃO DE ROCHAS POR TEMPERATURA E PRESSÃO",
-                "MUDANÇA DO ESTADO GASOSO PARA O SÓLIDO"
+                "Solidificação do magma",
+                "Compactação de sedimentos",
+                "Transformação de rochas por temperatura e pressão",
+                "Mudança do estado gasoso para o sólido"
               ],
               "alternativa_correta": 2
             },
             {
               "pergunta": "O ciclo das rochas mostra que:",
               "alternativas": [
-                "TODAS AS ROCHAS VIRAM MAGMA",
-                "A NATUREZA DAS ROCHAS É ESTÁTICA",
-                "AS ROCHAS SE TRANSFORMAM CONTINUAMENTE",
-                "ROCHAS NÃO PODEM VIRAR OUTRAS"
+                "Todas as rochas viram magma",
+                "A natureza das rochas é estática",
+                "As rochas se transformam continuamente",
+                "Rochas não podem virar outras"
               ],
               "alternativa_correta": 2
             },
             {
               "pergunta": "Qual dessas rochas é usada em esculturas?",
               "alternativas": [
-                "BASALTO",
-                "MÁRMORE",
-                "ARENITO",
-                "ARDÓSIA"
+                "Basalto",
+                "Mármore",
+                "Arenito",
+                "Ardósia"
               ],
               "alternativa_correta": 1
             },
@@ -936,19 +910,17 @@
               "pergunta": "Verdadeiro ou falso: O calcário é usado na fabricação de vidro.",
               "alternativas": [
                 "VERDADEIRO",
-                "FALSO",
-                "",
-                ""
+                "FALSO"
               ],
               "alternativa_correta": 1
             },
             {
               "pergunta": "O que são estalactites?",
               "alternativas": [
-                "ROCHAS VULCÂNICAS",
-                "FORMAÇÕES QUE SE PROJETAM DO TETO DE GRUTAS",
-                "FRAGMENTOS DE DIAMANTES",
-                "EROSÕES SUBTERRÂNEAS"
+                "Rochas vulcânicas",
+                "Formações que se projetam do teto de grutas",
+                "Fragmentos de diamantes",
+                "Erosões subterrâneas"
               ],
               "alternativa_correta": 1
             },
@@ -956,29 +928,27 @@
               "pergunta": "Verdadeiro ou falso: O ciclo das rochas tem início e fim bem definidos.",
               "alternativas": [
                 "VERDADEIRO",
-                "FALSO",
-                "",
-                ""
+                "FALSO"
               ],
               "alternativa_correta": 1
             },
             {
               "pergunta": "Qual das opções apresenta uma rocha magmática?",
               "alternativas": [
-                "ARENITO",
-                "GRANITO",
-                "MÁRMORE",
-                "CALCÁRIO"
+                "Arenito",
+                "Granito",
+                "Mármore",
+                "Calcário"
               ],
               "alternativa_correta": 1
             },
             {
               "pergunta": "O que ocorre com os rejeitos de mineração?",
               "alternativas": [
-                "SÃO RECICLADOS",
-                "SÃO DESPEJADOS DIRETAMENTE NOS RIOS",
-                "FICAM EM BARRAGENS",
-                "VIRAM AREIA"
+                "São reciclados",
+                "São despejados diretamente nos rios",
+                "Ficam em barragens",
+                "Viram areia"
               ],
               "alternativa_correta": 2
             },
@@ -986,9 +956,7 @@
               "pergunta": "Verdadeiro ou falso: A mineração pode causar desastres ambientais.",
               "alternativas": [
                 "VERDADEIRO",
-                "FALSO",
-                "",
-                ""
+                "FALSO"
               ],
               "alternativa_correta": 0
             }
