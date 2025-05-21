@@ -187,6 +187,598 @@
               "alternativa_correta": 0
             }
           ]
+        },
+        "4 - Astronomia: O planeta Terra no sistema solar": {
+          "questoes": [
+            {
+              "pergunta": "Qual é o movimento da Terra que dura aproximadamente 24 horas?",
+              "alternativas": [
+                "Rotação",
+                "Translação",
+                "Periélio",
+                "Solstício"
+              ],
+              "alternativa_correta": 0
+            },
+            {
+              "pergunta": "Verdadeiro ou Falso: A Terra gira no sentido leste-oeste, acompanhando o movimento aparente do Sol.",
+              "alternativas": [
+                "FALSO",
+                "VERDADEIRO"
+              ],
+              "alternativa_correta": 1
+            },
+            {
+              "pergunta": "Qual o nome do sistema que considera a Terra como o centro do Universo?",
+              "alternativas": [
+                "Heliocêntrico",
+                "Copernicano",
+                "Geocêntrico",
+                "Solar"
+              ],
+              "alternativa_correta": 2
+            },
+            {
+              "pergunta": "Qual planeta do Sistema Solar é o mais quente?",
+              "alternativas": [
+                "Mercúrio",
+                "Marte",
+                "Terra",
+                "Vênus"
+              ],
+              "alternativa_correta": 3
+            },
+            {
+              "pergunta": "Verdadeiro ou Falso: A Lua é considerada um satélite natural da Terra.",
+              "alternativas": [
+                "VERDADEIRO",
+                "FALSO"
+              ],
+              "alternativa_correta": 0
+            },
+            {
+              "pergunta": "O que causa a sucessão dos dias e das noites?",
+              "alternativas": [
+                "Translação",
+                "Rotação",
+                "Inclinação do eixo terrestre",
+                "Órbita elíptica"
+              ],
+              "alternativa_correta": 1
+            },
+            {
+              "pergunta": "Quantos planetas compõem o Sistema Solar?",
+              "alternativas": [
+                "Sete",
+                "Dez",
+                "Oito",
+                "Seis"
+              ],
+              "alternativa_correta": 2
+            },
+            {
+              "pergunta": "Verdadeiro ou Falso: Mercúrio é o planeta mais quente do Sistema Solar.",
+              "alternativas": [
+                "VERDADEIRO",
+                "FALSO",
+                "Parcialmente verdadeiro",
+                "Falso, o mais quente é Vênus"
+              ],
+              "alternativa_correta": 3
+            },
+            {
+              "pergunta": "Qual é o movimento responsável pelas estações do ano?",
+              "alternativas": [
+                "Translação",
+                "Rotação",
+                "Geocentrismo",
+                "Solstício"
+              ],
+              "alternativa_correta": 0
+            },
+            {
+              "pergunta": "Qual é o satélite natural da Terra?",
+              "alternativas": [
+                "Marte",
+                "Lua",
+                "Vênus",
+                "Sol"
+              ],
+              "alternativa_correta": 1
+            },
+            {
+              "pergunta": "Qual é a principal estrela do Sistema Solar?",
+              "alternativas": [
+                "Rigel",
+                "Antares",
+                "Sol",
+                "Vênus"
+              ],
+              "alternativa_correta": 2
+            },
+            {
+              "pergunta": "Verdadeiro ou Falso: O sistema heliocêntrico foi proposto por Ptolomeu.",
+              "alternativas": [
+                "VERDADEIRO",
+                "FALSO",
+                "Copérnico propôs o heliocentrismo",
+                "Galileu propôs o geocentrismo"
+              ],
+              "alternativa_correta": 3
+            },
+            {
+              "pergunta": "Qual a duração de uma volta da Terra ao redor do Sol?",
+              "alternativas": [
+                "365 dias, 5h e 48min",
+                "24 horas",
+                "12 horas",
+                "365 dias exatos"
+              ],
+              "alternativa_correta": 0
+            },
+            {
+              "pergunta": "O movimento aparente do Sol é causado:",
+              "alternativas": [
+                "Pela rotação da Terra",
+                "Pelo movimento do Sol",
+                "Por eclipse solar",
+                "Pela Lua"
+              ],
+              "alternativa_correta": 1
+            },
+            {
+              "pergunta": "Qual planeta não possui satélites naturais?",
+              "alternativas": [
+                "Júpiter",
+                "Terra",
+                "Mercúrio",
+                "Marte"
+              ],
+              "alternativa_correta": 2
+            },
+            {
+              "pergunta": "Verdadeiro ou Falso: Os equinócios correspondem aos dias com maior ou menor duração do dia.",
+              "alternativas": [
+                "VERDADEIRO",
+                "FALSO",
+                "Parcialmente verdadeiro",
+                "Falso, isso ocorre nos solstícios"
+              ],
+              "alternativa_correta": 3
+            },
+            {
+              "pergunta": "Qual é a inclinação do eixo terrestre?",
+              "alternativas": [
+                "23º 27’ 30”",
+                "45º",
+                "15º",
+                "0º"
+              ],
+              "alternativa_correta": 0
+            },
+            {
+              "pergunta": "A atmosfera de Vênus é composta principalmente por:",
+              "alternativas": [
+                "Oxigênio",
+                "Dióxido de carbono",
+                "Hidrogênio",
+                "Metano"
+              ],
+              "alternativa_correta": 1
+            },
+            {
+              "pergunta": "Verdadeiro ou Falso: A Terra realiza dois principais movimentos: rotação e translação.",
+              "alternativas": [
+                "FALSO",
+                "VERDADEIRO",
+                "VERDADEIRO",
+                "FALSO"
+              ],
+              "alternativa_correta": 2
+            },
+            {
+              "pergunta": "O ponto mais próximo entre a Terra e o Sol se chama:",
+              "alternativas": [
+                "Afélio",
+                "Solstício",
+                "Equinócio",
+                "Periélio"
+              ],
+              "alternativa_correta": 3
+            },
+            {
+              "pergunta": "Qual planeta tem o maior número de satélites naturais?",
+              "alternativas": [
+                "Urano",
+                "Mercúrio",
+                "Marte",
+                "Terra"
+              ],
+              "alternativa_correta": 0
+            },
+            {
+              "pergunta": "Verdadeiro ou Falso: A conquista da Lua ocorreu em 1973.",
+              "alternativas": [
+                "FALSO",
+                "VERDADEIRO",
+                "FALSO",
+                "Ocorreu em 1969"
+              ],
+              "alternativa_correta": 1
+            },
+            {
+              "pergunta": "A força de atração do Sol sobre os planetas é explicada pela:",
+              "alternativas": [
+                "Inércia",
+                "Gravidade",
+                "Gravidade",
+                "Força centrífuga"
+              ],
+              "alternativa_correta": 2
+            },
+            {
+              "pergunta": "Qual é a velocidade da Terra na translação?",
+              "alternativas": [
+                "107.208 km/h",
+                "1.660 km/h",
+                "300 mil km/s",
+                "150 mil km/h"
+              ],
+              "alternativa_correta": 3
+            },
+            {
+              "pergunta": "Verdadeiro ou Falso: As estações do ano são causadas pela rotação da Terra.",
+              "alternativas": [
+                "FALSO",
+                "VERDADEIRO",
+                "VERDADEIRO",
+                "FALSO"
+              ],
+              "alternativa_correta": 0
+            }
+          ]
+        },
+        "5 - Dinâmica atmosférica": {
+          "questoes": [
+            {
+              "pergunta": "Qual é a camada da atmosfera onde ocorrem os fenômenos meteorológicos?",
+              "alternativas": [
+                "Troposfera",
+                "Estratosfera",
+                "Termosfera",
+                "Exosfera"
+              ],
+              "alternativa_correta": 0
+            },
+            {
+              "pergunta": "Verdadeiro ou Falso: A chuva frontal ocorre pelo encontro de massas de ar quente e fria.",
+              "alternativas": [
+                "FALSO",
+                "VERDADEIRO"
+              ],
+              "alternativa_correta": 1
+            },
+            {
+              "pergunta": "Qual é o tipo de nuvem mais associado a tempestades fortes?",
+              "alternativas": [
+                "Cirros",
+                "Cúmulos",
+                "Nimbos",
+                "Estratos"
+              ],
+              "alternativa_correta": 2
+            },
+            {
+              "pergunta": "Qual é a principal diferença entre clima e tempo?",
+              "alternativas": [
+                "Tempo é a média de décadas",
+                "Clima é pontual",
+                "Clima se altera por horas",
+                "Tempo é mais duradouro"
+              ],
+              "alternativa_correta": 3
+            },
+            {
+              "pergunta": "Verdadeiro ou Falso: O clima é uma condição momentânea da atmosfera.",
+              "alternativas": [
+                "FALSO",
+                "VERDADEIRO"
+              ],
+              "alternativa_correta": 0
+            },
+            {
+              "pergunta": "Qual é o tipo de chuva causado pelo aquecimento do solo em dias muito quentes?",
+              "alternativas": [
+                "Frontal",
+                "Convectiva",
+                "Orográfica",
+                "Ácida"
+              ],
+              "alternativa_correta": 1
+            },
+            {
+              "pergunta": "Qual é o tipo de precipitação que ocorre em regiões montanhosas?",
+              "alternativas": [
+                "Convectiva",
+                "Frontal",
+                "Orográfica",
+                "Neblina"
+              ],
+              "alternativa_correta": 2
+            },
+            {
+              "pergunta": "Verdadeiro ou Falso: As nuvens do tipo cirros provocam chuvas fortes.",
+              "alternativas": [
+                "VERDADEIRO",
+                "FALSO",
+                "Depende da estação",
+                "Não provocam chuvas"
+              ],
+              "alternativa_correta": 3
+            },
+            {
+              "pergunta": "O que é necessário para que o vapor de água se condense em nuvens?",
+              "alternativas": [
+                "Núcleos de condensação",
+                "Temperatura de 0°C",
+                "Altas altitudes",
+                "Movimento de massas"
+              ],
+              "alternativa_correta": 0
+            },
+            {
+              "pergunta": "Como se forma o granizo?",
+              "alternativas": [
+                "Por correntes de ar que congelam gotas",
+                "Por encontro de nuvens",
+                "Por queda da pressão",
+                "Por evaporação intensa"
+              ],
+              "alternativa_correta": 1
+            },
+            {
+              "pergunta": "Verdadeiro ou Falso: As nuvens cumuliformes têm formato de flocos de algodão.",
+              "alternativas": [
+                "FALSO",
+                "VERDADEIRO"
+              ],
+              "alternativa_correta": 2
+            },
+            {
+              "pergunta": "Qual tipo climático apresenta chuvas abundantes o ano todo?",
+              "alternativas": [
+                "Polar",
+                "Temperado",
+                "Subtropical",
+                "Equatorial"
+              ],
+              "alternativa_correta": 3
+            },
+            {
+              "pergunta": "Qual clima predomina no sertão nordestino?",
+              "alternativas": [
+                "Semiárido",
+                "Equatorial",
+                "Subtropical",
+                "Temperado"
+              ],
+              "alternativa_correta": 0
+            },
+            {
+              "pergunta": "Verdadeiro ou Falso: A previsão do tempo utiliza satélites artificiais.",
+              "alternativas": [
+                "FALSO",
+                "VERDADEIRO"
+              ],
+              "alternativa_correta": 1
+            },
+            {
+              "pergunta": "Quais elementos influenciam o clima?",
+              "alternativas": [
+                "Oxigênio e nitrogênio",
+                "Sol e rotação",
+                "Latitude, altitude, maritimidade, massas de ar e ventos",
+                "Tipo de relevo"
+              ],
+              "alternativa_correta": 2
+            },
+            {
+              "pergunta": "O que caracteriza o clima polar?",
+              "alternativas": [
+                "Altas temperaturas",
+                "Chuvas intensas",
+                "Verões longos",
+                "Invernos longos e rigorosos"
+              ],
+              "alternativa_correta": 3
+            },
+            {
+              "pergunta": "Verdadeiro ou Falso: O efeito estufa é provocado exclusivamente por causas naturais.",
+              "alternativas": [
+                "FALSO",
+                "VERDADEIRO"
+              ],
+              "alternativa_correta": 0
+            },
+            {
+              "pergunta": "O que é inversão térmica?",
+              "alternativas": [
+                "Quando ar frio fica preso sob ar quente",
+                "Aquecimento global acelerado",
+                "Subida de massas úmidas",
+                "Aumento de umidade"
+              ],
+              "alternativa_correta": 1
+            },
+            {
+              "pergunta": "Qual é o impacto das ilhas de calor?",
+              "alternativas": [
+                "Aumento da umidade",
+                "Diminuição da pressão",
+                "Elevação da temperatura urbana",
+                "Formação de geadas"
+              ],
+              "alternativa_correta": 2
+            },
+            {
+              "pergunta": "Verdadeiro ou Falso: A chuva ácida é causada por reações químicas com poluentes.",
+              "alternativas": [
+                "FALSO",
+                "VERDADEIRO"
+              ],
+              "alternativa_correta": 3
+            },
+            {
+              "pergunta": "Qual é o gás mais abundante na atmosfera?",
+              "alternativas": [
+                "Nitrogênio",
+                "Oxigênio",
+                "Gás carbônico",
+                "Metano"
+              ],
+              "alternativa_correta": 0
+            },
+            {
+              "pergunta": "Verdadeiro ou Falso: O clima tropical é igual ao equatorial.",
+              "alternativas": [
+                "FALSO",
+                "VERDADEIRO"
+              ],
+              "alternativa_correta": 1
+            },
+            {
+              "pergunta": "Que tipo climático tem verões secos e invernos chuvosos?",
+              "alternativas": [
+                "Equatorial",
+                "Temperado",
+                "Mediterrâneo",
+                "Subtropical"
+              ],
+              "alternativa_correta": 2
+            },
+            {
+              "pergunta": "O clima de montanha é caracterizado por:",
+              "alternativas": [
+                "Altas temperaturas constantes",
+                "Chuvas esporádicas",
+                "Baixa umidade",
+                "Temperaturas muito baixas em grandes altitudes"
+              ],
+              "alternativa_correta": 3
+            },
+            {
+              "pergunta": "Verdadeiro ou Falso: As nuvens nimbos são densas e causam chuvas fortes.",
+              "alternativas": [
+                "VERDADEIRO",
+                "FALSO"
+              ],
+              "alternativa_correta": 0
+            }
+          ]
+        },
+        "4 e 5 - Estudo Dirigido": {
+          "questoes": [
+            {
+              "pergunta": "Quais as principais características do clima tropical?",
+              "alternativas": [
+                "É um clima polar de médias latitudes",
+                "É predominante no Brasil, entre os trópicos e em baixas latitudes",
+                "Possui verões frios e secos",
+                "Está presente apenas no Hemisfério Norte"
+              ],
+              "alternativa_correta": 1
+            },
+            {
+              "pergunta": "O que é o efeito estufa?",
+              "alternativas": [
+                "Um fenômeno artificial de aquecimento causado apenas por fábricas",
+                "Uma camada de gases que bloqueia toda a radiação solar",
+                "Fenômeno natural que retém calor e permite temperaturas amenas na Terra",
+                "Um tipo de chuva ácida"
+              ],
+              "alternativa_correta": 2
+            },
+            {
+              "pergunta": "Como ocorre o ano bissexto?",
+              "alternativas": [
+                "É adicionado um mês ao calendário a cada 10 anos",
+                "É quando o Sol se aproxima da Terra",
+                "É um erro de cálculo na rotação",
+                "A cada 4 anos somam-se as 6 horas da translação, formando mais um dia"
+              ],
+              "alternativa_correta": 3
+            },
+            {
+              "pergunta": "O que são os termos geocentrismo e heliocentrismo?",
+              "alternativas": [
+                "Geocentrismo: Terra no centro",
+                "Heliocentrismo: Sol no centro",
+                "Heliocentrismo: Lua no centro",
+                "Geocentrismo: Sol no centro"
+              ],
+              "alternativa_correta": 0
+            },
+            {
+              "pergunta": "Qual o planeta mais próximo do Sol?",
+              "alternativas": [
+                "Netuno",
+                "Mercúrio",
+                "Terra",
+                "Saturno"
+              ],
+              "alternativa_correta": 1
+            },
+            {
+              "pergunta": "Quais são os tipos de chuvas?",
+              "alternativas": [
+                "Apenas chuvas de verão e granizo",
+                "Chuvas ácidas e ciclônicas",
+                "Chuvas orográficas, convectivas e frontais",
+                "Chuva solar, lunar e equatorial"
+              ],
+              "alternativa_correta": 2
+            },
+            {
+              "pergunta": "Qual a diferença entre clima e tempo?",
+              "alternativas": [
+                "São exatamente iguais",
+                "Clima muda todo dia, tempo é fixo",
+                "Tempo é um padrão climático de 30 anos",
+                "Clima é um padrão duradouro, tempo é momentâneo"
+              ],
+              "alternativa_correta": 3
+            },
+            {
+              "pergunta": "Qual é a principal função da Astronomia?",
+              "alternativas": [
+                "Estudar os movimentos e propriedades dos corpos celestes",
+                "Prever as estações do ano",
+                "Estudar o clima",
+                "Calcular o tempo de rotação da Terra"
+              ],
+              "alternativa_correta": 0
+            },
+            {
+              "pergunta": "Quais são os 8 planetas do Sistema Solar, em ordem?",
+              "alternativas": [
+                "Vênus, Terra, Júpiter, Saturno, Mercúrio, Urano, Marte e Netuno",
+                "Mercúrio, Vênus, Terra, Marte, Júpiter, Saturno, Urano e Netuno",
+                "Plutão, Terra, Vênus, Marte, Netuno, Saturno, Urano, Júpiter",
+                "Mercúrio, Marte, Terra, Vênus, Saturno, Júpiter, Urano, Netuno"
+              ],
+              "alternativa_correta": 1
+            },
+            {
+              "pergunta": "Por que o clima é denominado tropical?",
+              "alternativas": [
+                "Porque ocorre apenas na África",
+                "Porque está acima da linha do Equador",
+                "Porque está entre os Trópicos de Câncer e Capricórnio",
+                "Porque tem chuvas o ano todo"
+              ],
+              "alternativa_correta": 2
+            }
+          ]
         }
       }
     },
