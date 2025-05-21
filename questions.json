@@ -191,675 +191,1183 @@
       }
     },
     "Ciências": {
-    "capitulo": {
-      "1 e 2 - A Ciência na Natureza e Origem e Propriedades da Matéria": {
-        "questoes": [
-          {
-            "pergunta": "Qual o primeiro passo do método científico para investigar um fenômeno?",
-            "alternativas": [
-              "Formular hipóteses",
-              "Realizar observações",
-              "Conduzir experimentos",
-              "Publicar resultados"
-            ],
-            "alternativa_correta": 1
-          },
-          {
-            "pergunta": "Quando fazemos afirmações prévias, as quais podem ser verdadeiras ou não, para explicar um fenômeno, estamos elaborando:",
-            "alternativas": [
-              "uma teoria",
-              "uma hipótese",
-              "uma observaçõa",
-              "um experiência"
-            ],
-            "alternativa_correta": 1
-          },
-          {
-            "pergunta": "Qual destes é um exemplo de transformação química?",
-            "alternativas": [
-              "Derretimento de gelo",
-              "Dissolução de açúcar",
-              "Ferrugem em um prego",
-              "Evaporação de água"
-            ],
-            "alternativa_correta": 2
-          },
-          {
-            "pergunta": "Qual propriedade explica por que um objeto continua em movimento sem atrito?",
-            "alternativas": [
-              "Elasticidade",
-              "Inércia",
-              "Densidade",
-              "Impenetrabilidade"
-            ],
-            "alternativa_correta": 1
-          },
-          {
-            "pergunta": "Qual método é mais adequado para separar areia e água?",
-            "alternativas": [
-              "Destilação",
-              "Filtração",
-              "Decantação",
-              "Evaporação"
-            ],
-            "alternativa_correta": 2
-          },
-          {
-            "pergunta": "Quantos elementos naturais existem na Tabela Periódica?",
-            "alternativas": [
-              "92",
-              "118",
-              "80",
-              "106"
-            ],
-            "alternativa_correta": 0
-          },
-          {
-            "pergunta": "Qual destes cientistas desenvolveu a teoria da evolução?",
-            "alternativas": [
-              "Albert Einstein",
-              "Isaac Newton",
-              "Charles Darwin",
-              "Marie Curie"
-            ],
-            "alternativa_correta": 2
-          },
-          {
-            "pergunta": "O que é densidade?",
-            "alternativas": [
-              "Massa dividida por volume",
-              "Volume dividido por massa",
-              "Peso multiplicado por volume",
-              "Força por unidade de área"
-            ],
-            "alternativa_correta": 0
-          },
-          {
-            "pergunta": "Qual destes é um exemplo de mistura heterogênea?",
-            "alternativas": [
-              "Água e sal",
-              "Álcool e água",
-              "Ar atmosférico",
-              "Óleo e água"
-            ],
-            "alternativa_correta": 3
-          },
-          {
-            "pergunta": "Qual partícula atômica tem carga negativa?",
-            "alternativas": [
-              "Próton",
-              "Nêutron",
-              "Elétron",
-              "Íon"
-            ],
-            "alternativa_correta": 2
-          },
-          {
-            "pergunta": "O que ocorre quando um ovo é colocado em vinagre?",
-            "alternativas": [
-              "Dissolve-se completamente",
-              "A casca reage formando bolhas",
-              "Torna-se magnetico",
-              "Nada acontece"
-            ],
-            "alternativa_correta": 1
-          },
-          {
-            "pergunta": "Qual propriedade permite que um gás seja comprimido?",
-            "alternativas": [
-              "Elasticidade",
-              "Compressibilidade",
-              "Ductibilidade",
-              "Maleabilidade"
-            ],
-            "alternativa_correta": 1
-          },
-          {
-            "pergunta": "Qual destes é um fenômeno físico?",
-            "alternativas": [
-              "Queima de papel",
-              "Ferrugem",
-              "Derretimento de cera",
-              "Digestão de alimentos"
-            ],
-            "alternativa_correta": 2
-          },
-          {
-            "pergunta": "Quantas fases tem uma mistura de água, óleo e gelo?",
-            "alternativas": [
-              "1",
-              "2",
-              "3",
-              "4"
-            ],
-            "alternativa_correta": 2
-          },
-          {
-            "pergunta": "Qual cientista brasileira sequenciou o genoma do COVID-19?",
-            "alternativas": [
-              "Bertha Lutz",
-              "Jaqueline Goes de Jesus",
-              "Mayana Zatz",
-              "Suzana Herculano-Houzel"
-            ],
-            "alternativa_correta": 1
-          },
-          {
-            "pergunta": "O que é impenetrabilidade?",
-            "alternativas": [
-              "Capacidade de conduzir calor",
-              "Propriedade de ocupar espaço exclusivo",
-              "Resistência à tração",
-              "Capacidade de refletir luz"
-            ],
-            "alternativa_correta": 1
-          },
-          {
-            "pergunta": "Qual método separa componentes por diferença de pontos de ebulição?",
-            "alternativas": [
-              "Filtração",
-              "Destilação",
-              "Decantação",
-              "Centrifugação"
-            ],
-            "alternativa_correta": 1
-          },
-          {
-            "pergunta": "Qual destes NÃO é um estado físico da matéria?",
-            "alternativas": [
-              "Sólido",
-              "Líquido",
-              "Gasoso",
-              "Energético"
-            ],
-            "alternativa_correta": 3
-          },
-          {
-            "pergunta": "Qual propriedade é percebida pelo paladar?",
-            "alternativas": [
-              "Cor",
-              "Sabor",
-              "Odor",
-              "Textura"
-            ],
-            "alternativa_correta": 1
-          },
-          {
-            "pergunta": "Qual cientista é conhecido por seus estudos com corrente alternada?",
-            "alternativas": [
-              "Thomas Edison",
-              "Nikola Tesla",
-              "Michael Faraday",
-              "James Watt"
-            ],
-            "alternativa_correta": 1
-          },
-          {
-            "pergunta": "O que ocorre quando se adiciona sal à água com um ovo?",
-            "alternativas": [
-              "O ovo afunda mais",
-              "O ovo flutua",
-              "O ovo dissolve-se",
-              "Nada muda"
-            ],
-            "alternativa_correta": 1
-          },
-          {
-            "pergunta": "Qual destes é um exemplo de propriedade organoléptica?",
-            "alternativas": [
-              "Densidade",
-              "Massa",
-              "Cor",
-              "Volume"
-            ],
-            "alternativa_correta": 2
-          },
-          {
-            "pergunta": "Qual método é usado para preparar café?",
-            "alternativas": [
-              "Destilação",
-              "Filtração",
-              "Decantação",
-              "Evaporação"
-            ],
-            "alternativa_correta": 1
-          },
-          {
-            "pergunta": "Quantos prótons tem um átomo de oxigênio?",
-            "alternativas": [
-              "6",
-              "8",
-              "16",
-              "32"
-            ],
-            "alternativa_correta": 1
-          },
-          {
-            "pergunta": "Qual destes é um exemplo de mudança de estado físico?",
-            "alternativas": [
-              "Queima de madeira",
-              "Ferrugem",
-              "Evaporação da água",
-              "Dissolução de sal"
-            ],
-            "alternativa_correta": 2
-          },
-          {
-            "pergunta": "Qual propriedade permite que uma mola volte ao formato original?",
-            "alternativas": [
-              "Ductibilidade",
-              "Elasticidade",
-              "Maleabilidade",
-              "Tenacidade"
-            ],
-            "alternativa_correta": 1
-          },
-          {
-            "pergunta": "Qual destes elementos é um metal?",
-            "alternativas": [
-              "Oxigênio",
-              "Ferro",
-              "Nitrogênio",
-              "Cloro"
-            ],
-            "alternativa_correta": 1
-          },
-          {
-            "pergunta": "O que significa o número atômico de um elemento?",
-            "alternativas": [
-              "Número de nêutrons",
-              "Número de prótons",
-              "Número de elétrons",
-              "Número de camadas"
-            ],
-            "alternativa_correta": 1
-          },
-          {
-            "pergunta": "Qual destes é um exemplo de substância composta?",
-            "alternativas": [
-              "Ouro (Au)",
-              "Oxigênio (O₂)",
-              "Água (H₂O)",
-              "Hidrogênio (H₂)"
-            ],
-            "alternativa_correta": 2
-          }
-        ]
+      "capitulo": {
+        "1 e 2 - A Ciência na Natureza e Origem e Propriedades da Matéria": {
+          "questoes": [
+            {
+              "pergunta": "Qual o primeiro passo do método científico para investigar um fenômeno?",
+              "alternativas": [
+                "Formular hipóteses",
+                "Realizar observações",
+                "Conduzir experimentos",
+                "Publicar resultados"
+              ],
+              "alternativa_correta": 1
+            },
+            {
+              "pergunta": "Quando fazemos afirmações prévias, as quais podem ser verdadeiras ou não, para explicar um fenômeno, estamos elaborando:",
+              "alternativas": [
+                "uma teoria",
+                "uma hipótese",
+                "uma observaçõa",
+                "um experiência"
+              ],
+              "alternativa_correta": 1
+            },
+            {
+              "pergunta": "Qual destes é um exemplo de transformação química?",
+              "alternativas": [
+                "Derretimento de gelo",
+                "Dissolução de açúcar",
+                "Ferrugem em um prego",
+                "Evaporação de água"
+              ],
+              "alternativa_correta": 2
+            },
+            {
+              "pergunta": "Qual propriedade explica por que um objeto continua em movimento sem atrito?",
+              "alternativas": [
+                "Elasticidade",
+                "Inércia",
+                "Densidade",
+                "Impenetrabilidade"
+              ],
+              "alternativa_correta": 1
+            },
+            {
+              "pergunta": "Qual método é mais adequado para separar areia e água?",
+              "alternativas": [
+                "Destilação",
+                "Filtração",
+                "Decantação",
+                "Evaporação"
+              ],
+              "alternativa_correta": 2
+            },
+            {
+              "pergunta": "Quantos elementos naturais existem na Tabela Periódica?",
+              "alternativas": [
+                "92",
+                "118",
+                "80",
+                "106"
+              ],
+              "alternativa_correta": 0
+            },
+            {
+              "pergunta": "Qual destes cientistas desenvolveu a teoria da evolução?",
+              "alternativas": [
+                "Albert Einstein",
+                "Isaac Newton",
+                "Charles Darwin",
+                "Marie Curie"
+              ],
+              "alternativa_correta": 2
+            },
+            {
+              "pergunta": "O que é densidade?",
+              "alternativas": [
+                "Massa dividida por volume",
+                "Volume dividido por massa",
+                "Peso multiplicado por volume",
+                "Força por unidade de área"
+              ],
+              "alternativa_correta": 0
+            },
+            {
+              "pergunta": "Qual destes é um exemplo de mistura heterogênea?",
+              "alternativas": [
+                "Água e sal",
+                "Álcool e água",
+                "Ar atmosférico",
+                "Óleo e água"
+              ],
+              "alternativa_correta": 3
+            },
+            {
+              "pergunta": "Qual partícula atômica tem carga negativa?",
+              "alternativas": [
+                "Próton",
+                "Nêutron",
+                "Elétron",
+                "Íon"
+              ],
+              "alternativa_correta": 2
+            },
+            {
+              "pergunta": "O que ocorre quando um ovo é colocado em vinagre?",
+              "alternativas": [
+                "Dissolve-se completamente",
+                "A casca reage formando bolhas",
+                "Torna-se magnetico",
+                "Nada acontece"
+              ],
+              "alternativa_correta": 1
+            },
+            {
+              "pergunta": "Qual propriedade permite que um gás seja comprimido?",
+              "alternativas": [
+                "Elasticidade",
+                "Compressibilidade",
+                "Ductibilidade",
+                "Maleabilidade"
+              ],
+              "alternativa_correta": 1
+            },
+            {
+              "pergunta": "Qual destes é um fenômeno físico?",
+              "alternativas": [
+                "Queima de papel",
+                "Ferrugem",
+                "Derretimento de cera",
+                "Digestão de alimentos"
+              ],
+              "alternativa_correta": 2
+            },
+            {
+              "pergunta": "Quantas fases tem uma mistura de água, óleo e gelo?",
+              "alternativas": [
+                "1",
+                "2",
+                "3",
+                "4"
+              ],
+              "alternativa_correta": 2
+            },
+            {
+              "pergunta": "Qual cientista brasileira sequenciou o genoma do COVID-19?",
+              "alternativas": [
+                "Bertha Lutz",
+                "Jaqueline Goes de Jesus",
+                "Mayana Zatz",
+                "Suzana Herculano-Houzel"
+              ],
+              "alternativa_correta": 1
+            },
+            {
+              "pergunta": "O que é impenetrabilidade?",
+              "alternativas": [
+                "Capacidade de conduzir calor",
+                "Propriedade de ocupar espaço exclusivo",
+                "Resistência à tração",
+                "Capacidade de refletir luz"
+              ],
+              "alternativa_correta": 1
+            },
+            {
+              "pergunta": "Qual método separa componentes por diferença de pontos de ebulição?",
+              "alternativas": [
+                "Filtração",
+                "Destilação",
+                "Decantação",
+                "Centrifugação"
+              ],
+              "alternativa_correta": 1
+            },
+            {
+              "pergunta": "Qual destes NÃO é um estado físico da matéria?",
+              "alternativas": [
+                "Sólido",
+                "Líquido",
+                "Gasoso",
+                "Energético"
+              ],
+              "alternativa_correta": 3
+            },
+            {
+              "pergunta": "Qual propriedade é percebida pelo paladar?",
+              "alternativas": [
+                "Cor",
+                "Sabor",
+                "Odor",
+                "Textura"
+              ],
+              "alternativa_correta": 1
+            },
+            {
+              "pergunta": "Qual cientista é conhecido por seus estudos com corrente alternada?",
+              "alternativas": [
+                "Thomas Edison",
+                "Nikola Tesla",
+                "Michael Faraday",
+                "James Watt"
+              ],
+              "alternativa_correta": 1
+            },
+            {
+              "pergunta": "O que ocorre quando se adiciona sal à água com um ovo?",
+              "alternativas": [
+                "O ovo afunda mais",
+                "O ovo flutua",
+                "O ovo dissolve-se",
+                "Nada muda"
+              ],
+              "alternativa_correta": 1
+            },
+            {
+              "pergunta": "Qual destes é um exemplo de propriedade organoléptica?",
+              "alternativas": [
+                "Densidade",
+                "Massa",
+                "Cor",
+                "Volume"
+              ],
+              "alternativa_correta": 2
+            },
+            {
+              "pergunta": "Qual método é usado para preparar café?",
+              "alternativas": [
+                "Destilação",
+                "Filtração",
+                "Decantação",
+                "Evaporação"
+              ],
+              "alternativa_correta": 1
+            },
+            {
+              "pergunta": "Quantos prótons tem um átomo de oxigênio?",
+              "alternativas": [
+                "6",
+                "8",
+                "16",
+                "32"
+              ],
+              "alternativa_correta": 1
+            },
+            {
+              "pergunta": "Qual destes é um exemplo de mudança de estado físico?",
+              "alternativas": [
+                "Queima de madeira",
+                "Ferrugem",
+                "Evaporação da água",
+                "Dissolução de sal"
+              ],
+              "alternativa_correta": 2
+            },
+            {
+              "pergunta": "Qual propriedade permite que uma mola volte ao formato original?",
+              "alternativas": [
+                "Ductibilidade",
+                "Elasticidade",
+                "Maleabilidade",
+                "Tenacidade"
+              ],
+              "alternativa_correta": 1
+            },
+            {
+              "pergunta": "Qual destes elementos é um metal?",
+              "alternativas": [
+                "Oxigênio",
+                "Ferro",
+                "Nitrogênio",
+                "Cloro"
+              ],
+              "alternativa_correta": 1
+            },
+            {
+              "pergunta": "O que significa o número atômico de um elemento?",
+              "alternativas": [
+                "Número de nêutrons",
+                "Número de prótons",
+                "Número de elétrons",
+                "Número de camadas"
+              ],
+              "alternativa_correta": 1
+            },
+            {
+              "pergunta": "Qual destes é um exemplo de substância composta?",
+              "alternativas": [
+                "Ouro (Au)",
+                "Oxigênio (O₂)",
+                "Água (H₂O)",
+                "Hidrogênio (H₂)"
+              ],
+              "alternativa_correta": 2
+            }
+          ]
+        },
+        "4 - A Terra por dentro e por fora": {
+          "questoes": [
+            {
+              "pergunta": "Qual é a camada mais externa da Terra?",
+              "alternativas": [
+                "NÚCLEO",
+                "CROSTA",
+                "MANTO",
+                "ASTENOSFERA"
+              ],
+              "alternativa_correta": 1
+            },
+            {
+              "pergunta": "O núcleo terrestre é composto principalmente por:",
+              "alternativas": [
+                "SILÍCIO E ALUMÍNIO",
+                "NÍQUEL E FERRO",
+                "OXIGÊNIO E HIDROGÊNIO",
+                "MAGNÉSIO E SÓDIO"
+              ],
+              "alternativa_correta": 1
+            },
+            {
+              "pergunta": "A crosta oceânica é formada principalmente por rochas:",
+              "alternativas": [
+                "GRANITICAS",
+                "SEDIMENTARES",
+                "BASÁLTICAS",
+                "METAMÓRFICAS"
+              ],
+              "alternativa_correta": 2
+            },
+            {
+              "pergunta": "Verdadeiro ou falso: A pressão no núcleo interno da Terra é baixa, permitindo que ele se mantenha líquido.",
+              "alternativas": [
+                "VERDADEIRO",
+                "FALSO",
+                "",
+                ""
+              ],
+              "alternativa_correta": 1
+            },
+            {
+              "pergunta": "Qual dessas camadas contém a litosfera?",
+              "alternativas": [
+                "CROSTA",
+                "NÚCLEO",
+                "ATMOSFERA",
+                "EXOSFERA"
+              ],
+              "alternativa_correta": 0
+            },
+            {
+              "pergunta": "Verdadeiro ou falso: A camada de ozônio está localizada na troposfera.",
+              "alternativas": [
+                "VERDADEIRO",
+                "FALSO",
+                "",
+                ""
+              ],
+              "alternativa_correta": 1
+            },
+            {
+              "pergunta": "As placas tectônicas flutuam sobre:",
+              "alternativas": [
+                "NÚCLEO",
+                "ASTENOSFERA",
+                "CROSTA",
+                "ESTRATOSFERA"
+              ],
+              "alternativa_correta": 1
+            },
+            {
+              "pergunta": "A atmosfera é composta principalmente por:",
+              "alternativas": [
+                "OXIGÊNIO E GÁS CARBÔNICO",
+                "HIDROGÊNIO E HÉLIO",
+                "OXIGÊNIO E NITROGÊNIO",
+                "GÁS CARBÔNICO E METANO"
+              ],
+              "alternativa_correta": 2
+            },
+            {
+              "pergunta": "Verdadeiro ou falso: A troposfera é onde ocorrem os fenômenos meteorológicos.",
+              "alternativas": [
+                "VERDADEIRO",
+                "FALSO",
+                "",
+                ""
+              ],
+              "alternativa_correta": 0
+            },
+            {
+              "pergunta": "Qual das alternativas representa um efeito causado pela movimentação das placas tectônicas?",
+              "alternativas": [
+                "FORMAÇÃO DE NUVENS",
+                "ERUPÇÕES VULCÂNICAS",
+                "CORRENTES MARÍTIMAS",
+                "CICLO DA ÁGUA"
+              ],
+              "alternativa_correta": 1
+            },
+            {
+              "pergunta": "O efeito estufa é causado principalmente por:",
+              "alternativas": [
+                "AUMENTO DA CAMADA DE OZÔNIO",
+                "PRESENÇA DE GASES COMO CO2 E METANO",
+                "CHUVA ÁCIDA",
+                "FORMAÇÃO DE NUVENS"
+              ],
+              "alternativa_correta": 1
+            },
+            {
+              "pergunta": "Verdadeiro ou falso: O efeito estufa é sempre prejudicial.",
+              "alternativas": [
+                "VERDADEIRO",
+                "FALSO",
+                "",
+                ""
+              ],
+              "alternativa_correta": 1
+            },
+            {
+              "pergunta": "A mesosfera é conhecida por:",
+              "alternativas": [
+                "SER A CAMADA MAIS QUENTE",
+                "PROTEGER CONTRA METEOROS",
+                "AUMENTAR O NÍVEL DE OZÔNIO",
+                "SER A MAIS PRÓXIMA DA TERRA"
+              ],
+              "alternativa_correta": 1
+            },
+            {
+              "pergunta": "Qual fenômeno pode ocorrer com o encontro de placas tectônicas?",
+              "alternativas": [
+                "AURORA BOREAL",
+                "TERREMOTOS",
+                "ARCO-ÍRIS",
+                "NEVE"
+              ],
+              "alternativa_correta": 1
+            },
+            {
+              "pergunta": "A exosfera é:",
+              "alternativas": [
+                "A CAMADA MAIS FRIA",
+                "A CAMADA MAIS DENSA",
+                "A CAMADA MAIS EXTERNA DA ATMOSFERA",
+                "ONDE OCORREM OS RELÂMPAGOS"
+              ],
+              "alternativa_correta": 2
+            },
+            {
+              "pergunta": "Verdadeiro ou falso: A atmosfera impede a fuga do ar da Terra.",
+              "alternativas": [
+                "VERDADEIRO",
+                "FALSO",
+                "",
+                ""
+              ],
+              "alternativa_correta": 0
+            },
+            {
+              "pergunta": "O núcleo terrestre é dividido em:",
+              "alternativas": [
+                "MANTO E CROSTA",
+                "INTERNO E EXTERNO",
+                "INFERIOR E SUPERIOR",
+                "LITOSFERA E ASTENOSFERA"
+              ],
+              "alternativa_correta": 1
+            },
+            {
+              "pergunta": "Verdadeiro ou falso: A camada de ozônio ajuda a proteger contra os raios UV.",
+              "alternativas": [
+                "VERDADEIRO",
+                "FALSO",
+                "",
+                ""
+              ],
+              "alternativa_correta": 0
+            },
+            {
+              "pergunta": "As camadas da atmosfera são, de baixo para cima:",
+              "alternativas": [
+                "TROPOSFERA, ESTRATOSFERA, MESOSFERA, TERMOSFERA E EXOSFERA",
+                "MESOSFERA, ESTRATOSFERA, TROPOSFERA, TERMOSFERA E EXOSFERA",
+                "EXOSFERA, TERMOSFERA, MESOSFERA, ESTRATOSFERA E TROPOSFERA",
+                "ESTRATOSFERA, TROPOSFERA, TERMOSFERA, MESOSFERA E EXOSFERA"
+              ],
+              "alternativa_correta": 0
+            },
+            {
+              "pergunta": "A camada da Terra com maior temperatura é:",
+              "alternativas": [
+                "CROSTA",
+                "MANTO",
+                "NÚCLEO INTERNO",
+                "ESTRATOSFERA"
+              ],
+              "alternativa_correta": 2
+            },
+            {
+              "pergunta": "Verdadeiro ou falso: A crosta terrestre tem a mesma espessura em todos os lugares.",
+              "alternativas": [
+                "VERDADEIRO",
+                "FALSO",
+                "",
+                ""
+              ],
+              "alternativa_correta": 1
+            },
+            {
+              "pergunta": "Qual gás é mais abundante na atmosfera terrestre?",
+              "alternativas": [
+                "OXIGÊNIO",
+                "NITROGÊNIO",
+                "GÁS CARBÔNICO",
+                "METANO"
+              ],
+              "alternativa_correta": 1
+            },
+            {
+              "pergunta": "O que é o magma?",
+              "alternativas": [
+                "ROCHAS METAMÓRFICAS",
+                "FERRO LÍQUIDO DO NÚCLEO",
+                "MATERIAL PASTOSO DO MANTO",
+                "GÁS QUENTE DA CROSTA"
+              ],
+              "alternativa_correta": 2
+            },
+            {
+              "pergunta": "Verdadeiro ou falso: As placas tectônicas são imóveis.",
+              "alternativas": [
+                "VERDADEIRO",
+                "FALSO",
+                "",
+                ""
+              ],
+              "alternativa_correta": 1
+            },
+            {
+              "pergunta": "A camada de ozônio é importante porque:",
+              "alternativas": [
+                "EVITA A ENTRADA DE OXIGÊNIO",
+                "AUMENTA O CALOR",
+                "FILTRA A RADIAÇÃO ULTRAVIOLETA",
+                "PRODUZ CO2"
+              ],
+              "alternativa_correta": 2
+            }
+          ]
+        },
+        "5 - Estrutura inorgânica da terra": {
+          "questoes": [
+            {
+              "pergunta": "Os minerais são definidos como:",
+              "alternativas": [
+                "ROCHAS METAMÓRFICAS",
+                "CORPOS SÓLIDOS HOMOGÊNEOS COM COMPOSIÇÃO QUÍMICA DEFINIDA",
+                "GASES PRESENTES NA ATMOSFERA",
+                "FRAGMENTOS ORGÂNICOS DE SERES VIVOS"
+              ],
+              "alternativa_correta": 1
+            },
+            {
+              "pergunta": "A rocha ígnea mais comum é o:",
+              "alternativas": [
+                "ARENITO",
+                "BASALTO",
+                "GRANITO",
+                "CALCÁRIO"
+              ],
+              "alternativa_correta": 2
+            },
+            {
+              "pergunta": "Verdadeiro ou falso: As rochas metamórficas são formadas a partir de mudanças de temperatura e pressão.",
+              "alternativas": [
+                "VERDADEIRO",
+                "FALSO",
+                "",
+                ""
+              ],
+              "alternativa_correta": 0
+            },
+            {
+              "pergunta": "As estalactites e estalagmites se formam a partir do:",
+              "alternativas": [
+                "QUARTZO",
+                "COBRE",
+                "CARBONATO DE CÁLCIO",
+                "OURO"
+              ],
+              "alternativa_correta": 2
+            },
+            {
+              "pergunta": "Rochas sedimentares são formadas por:",
+              "alternativas": [
+                "MAGMA RESFRIADO",
+                "TRANSFORMAÇÕES DE OUTRAS ROCHAS",
+                "COMPACTAÇÃO DE SEDIMENTOS",
+                "CRISTALIZAÇÃO DE GASES"
+              ],
+              "alternativa_correta": 2
+            },
+            {
+              "pergunta": "O que são minerais?",
+              "alternativas": [
+                "SUBSTÂNCIAS LÍQUIDAS QUE FORMAM O SOLO",
+                "CORPOS SÓLIDOS COM COMPOSIÇÃO QUÍMICA DEFINIDA",
+                "ANIMAIS FOSSILIZADOS",
+                "ROCHAS DERRETIDAS"
+              ],
+              "alternativa_correta": 1
+            },
+            {
+              "pergunta": "Verdadeiro ou falso: O ciclo das rochas inclui fusão, cristalização e compactação.",
+              "alternativas": [
+                "VERDADEIRO",
+                "FALSO",
+                "",
+                ""
+              ],
+              "alternativa_correta": 0
+            },
+            {
+              "pergunta": "A ardósia é uma rocha metamórfica originada do:",
+              "alternativas": [
+                "CALCÁRIO",
+                "BASALTO",
+                "FOLHELHO",
+                "GRANITO"
+              ],
+              "alternativa_correta": 2
+            },
+            {
+              "pergunta": "Verdadeiro ou falso: As pedras preciosas podem ser de origem orgânica ou inorgânica.",
+              "alternativas": [
+                "VERDADEIRO",
+                "FALSO",
+                "",
+                ""
+              ],
+              "alternativa_correta": 0
+            },
+            {
+              "pergunta": "O principal componente para fabricação de chips eletrônicos é o:",
+              "alternativas": [
+                "ALUMÍNIO",
+                "COBRE",
+                "SILÍCIO",
+                "ZINCO"
+              ],
+              "alternativa_correta": 2
+            },
+            {
+              "pergunta": "Qual tipo de rocha contém fósseis?",
+              "alternativas": [
+                "MAGMÁTICA",
+                "METAMÓRFICA",
+                "SEDIMENTAR",
+                "ÍGNEA"
+              ],
+              "alternativa_correta": 2
+            },
+            {
+              "pergunta": "Verdadeiro ou falso: O granito é uma rocha sedimentar.",
+              "alternativas": [
+                "VERDADEIRO",
+                "FALSO",
+                "",
+                ""
+              ],
+              "alternativa_correta": 1
+            },
+            {
+              "pergunta": "O que é diagênese?",
+              "alternativas": [
+                "FUSÃO DE ROCHAS",
+                "CRISTALIZAÇÃO DO MAGMA",
+                "COMPACTAÇÃO DE SEDIMENTOS EM ROCHAS",
+                "TRANSFORMAÇÃO DO MAGMA EM LAVA"
+              ],
+              "alternativa_correta": 2
+            },
+            {
+              "pergunta": "Qual o tipo de rocha mais presente na crosta continental?",
+              "alternativas": [
+                "SEDIMENTARES",
+                "MAGMÁTICAS E METAMÓRFICAS",
+                "ÍGNEAS",
+                "CALCÁRIAS"
+              ],
+              "alternativa_correta": 1
+            },
+            {
+              "pergunta": "Qual é o metal mais comum na crosta terrestre?",
+              "alternativas": [
+                "FERRO",
+                "COBRE",
+                "ALUMÍNIO",
+                "NÍQUEL"
+              ],
+              "alternativa_correta": 2
+            },
+            {
+              "pergunta": "Verdadeiro ou falso: Rochas magmáticas se formam pelo resfriamento do magma.",
+              "alternativas": [
+                "VERDADEIRO",
+                "FALSO",
+                "",
+                ""
+              ],
+              "alternativa_correta": 0
+            },
+            {
+              "pergunta": "O que é metamorfismo?",
+              "alternativas": [
+                "SOLIDIFICAÇÃO DO MAGMA",
+                "COMPACTAÇÃO DE SEDIMENTOS",
+                "TRANSFORMAÇÃO DE ROCHAS POR TEMPERATURA E PRESSÃO",
+                "MUDANÇA DO ESTADO GASOSO PARA O SÓLIDO"
+              ],
+              "alternativa_correta": 2
+            },
+            {
+              "pergunta": "O ciclo das rochas mostra que:",
+              "alternativas": [
+                "TODAS AS ROCHAS VIRAM MAGMA",
+                "A NATUREZA DAS ROCHAS É ESTÁTICA",
+                "AS ROCHAS SE TRANSFORMAM CONTINUAMENTE",
+                "ROCHAS NÃO PODEM VIRAR OUTRAS"
+              ],
+              "alternativa_correta": 2
+            },
+            {
+              "pergunta": "Qual dessas rochas é usada em esculturas?",
+              "alternativas": [
+                "BASALTO",
+                "MÁRMORE",
+                "ARENITO",
+                "ARDÓSIA"
+              ],
+              "alternativa_correta": 1
+            },
+            {
+              "pergunta": "Verdadeiro ou falso: O calcário é usado na fabricação de vidro.",
+              "alternativas": [
+                "VERDADEIRO",
+                "FALSO",
+                "",
+                ""
+              ],
+              "alternativa_correta": 1
+            },
+            {
+              "pergunta": "O que são estalactites?",
+              "alternativas": [
+                "ROCHAS VULCÂNICAS",
+                "FORMAÇÕES QUE SE PROJETAM DO TETO DE GRUTAS",
+                "FRAGMENTOS DE DIAMANTES",
+                "EROSÕES SUBTERRÂNEAS"
+              ],
+              "alternativa_correta": 1
+            },
+            {
+              "pergunta": "Verdadeiro ou falso: O ciclo das rochas tem início e fim bem definidos.",
+              "alternativas": [
+                "VERDADEIRO",
+                "FALSO",
+                "",
+                ""
+              ],
+              "alternativa_correta": 1
+            },
+            {
+              "pergunta": "Qual das opções apresenta uma rocha magmática?",
+              "alternativas": [
+                "ARENITO",
+                "GRANITO",
+                "MÁRMORE",
+                "CALCÁRIO"
+              ],
+              "alternativa_correta": 1
+            },
+            {
+              "pergunta": "O que ocorre com os rejeitos de mineração?",
+              "alternativas": [
+                "SÃO RECICLADOS",
+                "SÃO DESPEJADOS DIRETAMENTE NOS RIOS",
+                "FICAM EM BARRAGENS",
+                "VIRAM AREIA"
+              ],
+              "alternativa_correta": 2
+            },
+            {
+              "pergunta": "Verdadeiro ou falso: A mineração pode causar desastres ambientais.",
+              "alternativas": [
+                "VERDADEIRO",
+                "FALSO",
+                "",
+                ""
+              ],
+              "alternativa_correta": 0
+            }
+          ]
+        }
       }
-    }
     },
     "História": {
-        "capitulo": {
-          "4 África Antiga: O Egito": {
-            "questoes": [
-              {
-                "pergunta": "Por que o Egito é considerado uma dádiva do Nilo?",
-                "alternativas": [
-                  "Porque o Nilo permitiu a agricultura e a vida na região desértica",
-                  "Porque o Nilo era uma divindade egípcia",
-                  "Porque o Nilo separava o Egito de outros povos",
-                  "Porque o Nilo tinha muitas pedras preciosas"
-                ],
-                "alternativa_correta": 0
-              },
-              {
-                "pergunta": "Quem foi o faraó que unificou o Alto e o Baixo Egito?",
-                "alternativas": [
-                  "Tutancâmon",
-                  "Menés",
-                  "Ramsés II",
-                  "Amenófis IV"
-                ],
-                "alternativa_correta": 1
-              },
-              {
-                "pergunta": "Qual era uma das principais atividades econômicas no Egito Antigo?",
-                "alternativas": [
-                  "Agricultura",
-                  "Tecnologia",
-                  "Turismo moderno",
-                  "Pesca de baleias"
-                ],
-                "alternativa_correta": 0
-              },
-              {
-                "pergunta": "Qual era a base da sociedade egípcia?",
-                "alternativas": [
-                  "Nobres e sacerdotes",
-                  "Camponeses e artesãos",
-                  "Escribas",
-                  "Militares e generais"
-                ],
-                "alternativa_correta": 1
-              },
-              {
-                "pergunta": "Qual era o nome da escrita com símbolos e desenhos usada no Egito?",
-                "alternativas": [
-                  "Hieróglifos",
-                  "Latim",
-                  "Democrática",
-                  "Cunha"
-                ],
-                "alternativa_correta": 0
-              },
-              {
-                "pergunta": "A religião egípcia era:",
-                "alternativas": [
-                  "Cristã",
-                  "Politeísta",
-                  "Ateísta",
-                  "Budista"
-                ],
-                "alternativa_correta": 1
-              },
-              {
-                "pergunta": "O que os escribas faziam no Egito Antigo?",
-                "alternativas": [
-                  "Registravam informações e copiavam textos",
-                  "Lutavam em guerras",
-                  "Construíam pirâmides",
-                  "Plantavam nas margens do Nilo"
-                ],
-                "alternativa_correta": 0
-              },
-              {
-                "pergunta": "Qual dessas pirâmides foi construída no Antigo Império?",
-                "alternativas": [
-                  "Pirâmide de Quéops",
-                  "Pirâmide de Nefertiti",
-                  "Pirâmide de Amenófis",
-                  "Pirâmide de Osíris"
-                ],
-                "alternativa_correta": 0
-              },
-              {
-                "pergunta": "Qual era o objetivo da mumificação?",
-                "alternativas": [
-                  "Preservar o corpo para a vida após a morte",
-                  "Enfeitar o corpo para exposições",
-                  "Deixar o corpo bonito",
-                  "Criar uma estátua do faraó"
-                ],
-                "alternativa_correta": 0
-              },
-              {
-                "pergunta": "O que são vasos canópicos?",
-                "alternativas": [
-                  "Vasos usados para guardar os órgãos durante a mumificação",
-                  "Vasos usados para servir vinho",
-                  "Decoração dos templos",
-                  "Urnas de votação"
-                ],
-                "alternativa_correta": 0
-              },
-              {
-                "pergunta": "Qual era o tipo de governo no Egito Antigo?",
-                "alternativas": [
-                  "Teocracia",
-                  "Democracia",
-                  "República",
-                  "Monarquia Parlamentar"
-                ],
-                "alternativa_correta": 0
-              },
-              {
-                "pergunta": "Quem era considerado um deus vivo no Egito Antigo?",
-                "alternativas": [
-                  "O faraó",
-                  "O escriba",
-                  "O sacerdote",
-                  "O guerreiro"
-                ],
-                "alternativa_correta": 0
-              },
-              {
-                "pergunta": "Qual a importância do Rio Nilo para a agricultura?",
-                "alternativas": [
-                  "Deixava o solo fértil com húmus nas cheias",
-                  "Trazia água salgada para irrigação",
-                  "Afundava plantações",
-                  "Não tinha importância"
-                ],
-                "alternativa_correta": 0
-              },
-              {
-                "pergunta": "Verdadeiro ou falso: O Antigo Império foi marcado por guerras constantes.",
-                "alternativas": [
-                  "Verdadeiro",
-                  "Falso"
-                ],
-                "alternativa_correta": 1
-              },
-              {
-                "pergunta": "Verdadeiro ou falso: O Novo Império teve um processo de expansão e escravização dos hebreus.",
-                "alternativas": [
-                  "Verdadeiro",
-                  "Falso"
-                ],
-                "alternativa_correta": 0
-              },
-              {
-                "pergunta": "Verdadeiro ou falso: A Pedra de Roseta ajudou a decifrar os hieróglifos.",
-                "alternativas": [
-                  "Verdadeiro",
-                  "Falso"
-                ],
-                "alternativa_correta": 0
-              },
-              {
-                "pergunta": "Verdadeiro ou falso: Os deuses egípcios podiam ter forma de animal e humana.",
-                "alternativas": [
-                  "Verdadeiro",
-                  "Falso"
-                ],
-                "alternativa_correta": 0
-              },
-              {
-                "pergunta": "Verdadeiro ou falso: O faraó não tinha nenhuma ligação com a religião.",
-                "alternativas": [
-                  "Verdadeiro",
-                  "Falso"
-                ],
-                "alternativa_correta": 1
-              },
-              {
-                "pergunta": "Verdadeiro ou falso: As mulheres não podiam ser faraós no Egito Antigo.",
-                "alternativas": [
-                  "Verdadeiro",
-                  "Falso"
-                ],
-                "alternativa_correta": 1
-              },
-              {
-                "pergunta": "Verdadeiro ou falso: O conhecimento sobre o corpo humano ajudou no avanço da medicina egípcia.",
-                "alternativas": [
-                  "Verdadeiro",
-                  "Falso"
-                ],
-                "alternativa_correta": 0
-              }
-            ]
-          }
+      "capitulo": {
+        "4 África Antiga: O Egito": {
+          "questoes": [
+            {
+              "pergunta": "Por que o Egito é considerado uma dádiva do Nilo?",
+              "alternativas": [
+                "Porque o Nilo permitiu a agricultura e a vida na região desértica",
+                "Porque o Nilo era uma divindade egípcia",
+                "Porque o Nilo separava o Egito de outros povos",
+                "Porque o Nilo tinha muitas pedras preciosas"
+              ],
+              "alternativa_correta": 0
+            },
+            {
+              "pergunta": "Quem foi o faraó que unificou o Alto e o Baixo Egito?",
+              "alternativas": [
+                "Tutancâmon",
+                "Menés",
+                "Ramsés II",
+                "Amenófis IV"
+              ],
+              "alternativa_correta": 1
+            },
+            {
+              "pergunta": "Qual era uma das principais atividades econômicas no Egito Antigo?",
+              "alternativas": [
+                "Agricultura",
+                "Tecnologia",
+                "Turismo moderno",
+                "Pesca de baleias"
+              ],
+              "alternativa_correta": 0
+            },
+            {
+              "pergunta": "Qual era a base da sociedade egípcia?",
+              "alternativas": [
+                "Nobres e sacerdotes",
+                "Camponeses e artesãos",
+                "Escribas",
+                "Militares e generais"
+              ],
+              "alternativa_correta": 1
+            },
+            {
+              "pergunta": "Qual era o nome da escrita com símbolos e desenhos usada no Egito?",
+              "alternativas": [
+                "Hieróglifos",
+                "Latim",
+                "Democrática",
+                "Cunha"
+              ],
+              "alternativa_correta": 0
+            },
+            {
+              "pergunta": "A religião egípcia era:",
+              "alternativas": [
+                "Cristã",
+                "Politeísta",
+                "Ateísta",
+                "Budista"
+              ],
+              "alternativa_correta": 1
+            },
+            {
+              "pergunta": "O que os escribas faziam no Egito Antigo?",
+              "alternativas": [
+                "Registravam informações e copiavam textos",
+                "Lutavam em guerras",
+                "Construíam pirâmides",
+                "Plantavam nas margens do Nilo"
+              ],
+              "alternativa_correta": 0
+            },
+            {
+              "pergunta": "Qual dessas pirâmides foi construída no Antigo Império?",
+              "alternativas": [
+                "Pirâmide de Quéops",
+                "Pirâmide de Nefertiti",
+                "Pirâmide de Amenófis",
+                "Pirâmide de Osíris"
+              ],
+              "alternativa_correta": 0
+            },
+            {
+              "pergunta": "Qual era o objetivo da mumificação?",
+              "alternativas": [
+                "Preservar o corpo para a vida após a morte",
+                "Enfeitar o corpo para exposições",
+                "Deixar o corpo bonito",
+                "Criar uma estátua do faraó"
+              ],
+              "alternativa_correta": 0
+            },
+            {
+              "pergunta": "O que são vasos canópicos?",
+              "alternativas": [
+                "Vasos usados para guardar os órgãos durante a mumificação",
+                "Vasos usados para servir vinho",
+                "Decoração dos templos",
+                "Urnas de votação"
+              ],
+              "alternativa_correta": 0
+            },
+            {
+              "pergunta": "Qual era o tipo de governo no Egito Antigo?",
+              "alternativas": [
+                "Teocracia",
+                "Democracia",
+                "República",
+                "Monarquia Parlamentar"
+              ],
+              "alternativa_correta": 0
+            },
+            {
+              "pergunta": "Quem era considerado um deus vivo no Egito Antigo?",
+              "alternativas": [
+                "O faraó",
+                "O escriba",
+                "O sacerdote",
+                "O guerreiro"
+              ],
+              "alternativa_correta": 0
+            },
+            {
+              "pergunta": "Qual a importância do Rio Nilo para a agricultura?",
+              "alternativas": [
+                "Deixava o solo fértil com húmus nas cheias",
+                "Trazia água salgada para irrigação",
+                "Afundava plantações",
+                "Não tinha importância"
+              ],
+              "alternativa_correta": 0
+            },
+            {
+              "pergunta": "Verdadeiro ou falso: O Antigo Império foi marcado por guerras constantes.",
+              "alternativas": [
+                "Verdadeiro",
+                "Falso"
+              ],
+              "alternativa_correta": 1
+            },
+            {
+              "pergunta": "Verdadeiro ou falso: O Novo Império teve um processo de expansão e escravização dos hebreus.",
+              "alternativas": [
+                "Verdadeiro",
+                "Falso"
+              ],
+              "alternativa_correta": 0
+            },
+            {
+              "pergunta": "Verdadeiro ou falso: A Pedra de Roseta ajudou a decifrar os hieróglifos.",
+              "alternativas": [
+                "Verdadeiro",
+                "Falso"
+              ],
+              "alternativa_correta": 0
+            },
+            {
+              "pergunta": "Verdadeiro ou falso: Os deuses egípcios podiam ter forma de animal e humana.",
+              "alternativas": [
+                "Verdadeiro",
+                "Falso"
+              ],
+              "alternativa_correta": 0
+            },
+            {
+              "pergunta": "Verdadeiro ou falso: O faraó não tinha nenhuma ligação com a religião.",
+              "alternativas": [
+                "Verdadeiro",
+                "Falso"
+              ],
+              "alternativa_correta": 1
+            },
+            {
+              "pergunta": "Verdadeiro ou falso: As mulheres não podiam ser faraós no Egito Antigo.",
+              "alternativas": [
+                "Verdadeiro",
+                "Falso"
+              ],
+              "alternativa_correta": 1
+            },
+            {
+              "pergunta": "Verdadeiro ou falso: O conhecimento sobre o corpo humano ajudou no avanço da medicina egípcia.",
+              "alternativas": [
+                "Verdadeiro",
+                "Falso"
+              ],
+              "alternativa_correta": 0
+            }
+          ]
         }
-      },
-    "Inglês": {
-    "capitulo": {
-      "3 - Helping my family (Home Chores)": {
-        "questoes": [
-          {
-            "pergunta": "What does 'duster' mean? (O que significa 'duster'?)",
-            "alternativas": [
-              "Esfregão",
-              "Pano de chão",
-              "Pano de tirar pó",
-              "Sabão líquido"
-            ],
-            "alternativa_correta": 2
-          },
-          {
-            "pergunta": "What does 'broom' mean? (O que significa 'broom'?)",
-            "alternativas": [
-              "Vassoura",
-              "Balde",
-              "Esponja",
-              "Rodo"
-            ],
-            "alternativa_correta": 0
-          },
-          {
-            "pergunta": "What does 'dustpan' mean? (O que significa 'dustpan'?)",
-            "alternativas": [
-              "Esfregão",
-              "Pá de lixo",
-              "Esponja",
-              "Pano de chão"
-            ],
-            "alternativa_correta": 1
-          },
-          {
-            "pergunta": "What does 'sponge' mean? (O que significa 'sponge'?)",
-            "alternativas": [
-              "Balde",
-              "Pano de chão",
-              "Esponja",
-              "Sabão líquido"
-            ],
-            "alternativa_correta": 2
-          },
-          {
-            "pergunta": "What does 'liquid soap' mean? (O que significa 'liquid soap'?)",
-            "alternativas": [
-              "Sabão líquido",
-              "Detergente em pó",
-              "Água sanitária",
-              "Esponja"
-            ],
-            "alternativa_correta": 0
-          },
-          {
-            "pergunta": "What does 'bucket' mean? (O que significa 'bucket'?)",
-            "alternativas": [
-              "Sabão líquido",
-              "Esfregão",
-              "Balde",
-              "Pano de chão"
-            ],
-            "alternativa_correta": 2
-          },
-          {
-            "pergunta": "What does 'mop' mean? (O que significa 'mop'?)",
-            "alternativas": [
-              "Vassoura",
-              "Pano de prato",
-              "Esfregão",
-              "Esponja"
-            ],
-            "alternativa_correta": 2
-          },
-          {
-            "pergunta": "What does 'wiping cloth' mean? (O que significa 'wiping cloth'?)",
-            "alternativas": [
-              "Esponja de lavar louça",
-              "Pano de limpeza",
-              "Toalha de banho",
-              "Sabão em barra"
-            ],
-            "alternativa_correta": 1
-          },
-          {
-            "pergunta": "What does 'grandfather' mean? (O que significa 'grandfather'?)",
-            "alternativas": [
-              "Tio",
-              "Avô",
-              "Primo",
-              "Pai"
-            ],
-            "alternativa_correta": 1
-          },
-          {
-            "pergunta": "What does 'grandmother' mean? (O que significa 'grandmother'?)",
-            "alternativas": [
-              "Avó",
-              "Irmã",
-              "Mãe",
-              "Tia"
-            ],
-            "alternativa_correta": 0
-          },
-          {
-            "pergunta": "What does 'uncle' mean? (O que significa 'uncle'?)",
-            "alternativas": [
-              "Tio",
-              "Avô",
-              "Irmão",
-              "Primo"
-            ],
-            "alternativa_correta": 0
-          },
-          {
-            "pergunta": "What does 'aunt' mean? (O que significa 'aunt'?)",
-            "alternativas": [
-              "Mãe",
-              "Avó",
-              "Tia",
-              "Irmã"
-            ],
-            "alternativa_correta": 2
-          },
-          {
-            "pergunta": "What does 'father' mean? (O que significa 'father'?)",
-            "alternativas": [
-              "Pai",
-              "Avô",
-              "Tio",
-              "Primo"
-            ],
-            "alternativa_correta": 0
-          },
-          {
-            "pergunta": "What does 'mother' mean? (O que significa 'mother'?)",
-            "alternativas": [
-              "Avó",
-              "Mãe",
-              "Irmã",
-              "Tia"
-            ],
-            "alternativa_correta": 1
-          },
-          {
-            "pergunta": "What does 'brother' mean? (O que significa 'brother'?)",
-            "alternativas": [
-              "Primo",
-              "Irmão",
-              "Tio",
-              "Pai"
-            ],
-            "alternativa_correta": 1
-          },
-          {
-            "pergunta": "What does 'sister' mean? (O que significa 'sister'?)",
-            "alternativas": [
-              "Avó",
-              "Irmã",
-              "Mãe",
-              "Prima"
-            ],
-            "alternativa_correta": 1
-          },
-          {
-            "pergunta": "What does 'cousin' mean? (O que significa 'cousin'?)",
-            "alternativas": [
-              "Irmã",
-              "Tia",
-              "Primo/Prima",
-              "Avô"
-            ],
-            "alternativa_correta": 2
-          }
-        ]
       }
-    }
-  },
+    },
+    "Inglês": {
+      "capitulo": {
+        "3 - Helping my family (Home Chores)": {
+          "questoes": [
+            {
+              "pergunta": "What does 'duster' mean? (O que significa 'duster'?)",
+              "alternativas": [
+                "Esfregão",
+                "Pano de chão",
+                "Pano de tirar pó",
+                "Sabão líquido"
+              ],
+              "alternativa_correta": 2
+            },
+            {
+              "pergunta": "What does 'broom' mean? (O que significa 'broom'?)",
+              "alternativas": [
+                "Vassoura",
+                "Balde",
+                "Esponja",
+                "Rodo"
+              ],
+              "alternativa_correta": 0
+            },
+            {
+              "pergunta": "What does 'dustpan' mean? (O que significa 'dustpan'?)",
+              "alternativas": [
+                "Esfregão",
+                "Pá de lixo",
+                "Esponja",
+                "Pano de chão"
+              ],
+              "alternativa_correta": 1
+            },
+            {
+              "pergunta": "What does 'sponge' mean? (O que significa 'sponge'?)",
+              "alternativas": [
+                "Balde",
+                "Pano de chão",
+                "Esponja",
+                "Sabão líquido"
+              ],
+              "alternativa_correta": 2
+            },
+            {
+              "pergunta": "What does 'liquid soap' mean? (O que significa 'liquid soap'?)",
+              "alternativas": [
+                "Sabão líquido",
+                "Detergente em pó",
+                "Água sanitária",
+                "Esponja"
+              ],
+              "alternativa_correta": 0
+            },
+            {
+              "pergunta": "What does 'bucket' mean? (O que significa 'bucket'?)",
+              "alternativas": [
+                "Sabão líquido",
+                "Esfregão",
+                "Balde",
+                "Pano de chão"
+              ],
+              "alternativa_correta": 2
+            },
+            {
+              "pergunta": "What does 'mop' mean? (O que significa 'mop'?)",
+              "alternativas": [
+                "Vassoura",
+                "Pano de prato",
+                "Esfregão",
+                "Esponja"
+              ],
+              "alternativa_correta": 2
+            },
+            {
+              "pergunta": "What does 'wiping cloth' mean? (O que significa 'wiping cloth'?)",
+              "alternativas": [
+                "Esponja de lavar louça",
+                "Pano de limpeza",
+                "Toalha de banho",
+                "Sabão em barra"
+              ],
+              "alternativa_correta": 1
+            },
+            {
+              "pergunta": "What does 'grandfather' mean? (O que significa 'grandfather'?)",
+              "alternativas": [
+                "Tio",
+                "Avô",
+                "Primo",
+                "Pai"
+              ],
+              "alternativa_correta": 1
+            },
+            {
+              "pergunta": "What does 'grandmother' mean? (O que significa 'grandmother'?)",
+              "alternativas": [
+                "Avó",
+                "Irmã",
+                "Mãe",
+                "Tia"
+              ],
+              "alternativa_correta": 0
+            },
+            {
+              "pergunta": "What does 'uncle' mean? (O que significa 'uncle'?)",
+              "alternativas": [
+                "Tio",
+                "Avô",
+                "Irmão",
+                "Primo"
+              ],
+              "alternativa_correta": 0
+            },
+            {
+              "pergunta": "What does 'aunt' mean? (O que significa 'aunt'?)",
+              "alternativas": [
+                "Mãe",
+                "Avó",
+                "Tia",
+                "Irmã"
+              ],
+              "alternativa_correta": 2
+            },
+            {
+              "pergunta": "What does 'father' mean? (O que significa 'father'?)",
+              "alternativas": [
+                "Pai",
+                "Avô",
+                "Tio",
+                "Primo"
+              ],
+              "alternativa_correta": 0
+            },
+            {
+              "pergunta": "What does 'mother' mean? (O que significa 'mother'?)",
+              "alternativas": [
+                "Avó",
+                "Mãe",
+                "Irmã",
+                "Tia"
+              ],
+              "alternativa_correta": 1
+            },
+            {
+              "pergunta": "What does 'brother' mean? (O que significa 'brother'?)",
+              "alternativas": [
+                "Primo",
+                "Irmão",
+                "Tio",
+                "Pai"
+              ],
+              "alternativa_correta": 1
+            },
+            {
+              "pergunta": "What does 'sister' mean? (O que significa 'sister'?)",
+              "alternativas": [
+                "Avó",
+                "Irmã",
+                "Mãe",
+                "Prima"
+              ],
+              "alternativa_correta": 1
+            },
+            {
+              "pergunta": "What does 'cousin' mean? (O que significa 'cousin'?)",
+              "alternativas": [
+                "Irmã",
+                "Tia",
+                "Primo/Prima",
+                "Avô"
+              ],
+              "alternativa_correta": 2
+            }
+          ]
+        }
+      }
+    },
     "Matemática": {
       "capitulo": {
         "1 - Números": {
