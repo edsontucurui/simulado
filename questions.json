@@ -1957,6 +1957,364 @@
           ]
         }
       }
+    },
+    "Espanhol": {
+      "capitulo": {
+        "3 - Mi Escuela": {
+          "questoes": [
+            {
+              "pergunta": "Como se escreve mochila em espanhol?",
+              "alternativas": [
+                "mochila",
+                "mochilao",
+                "mochilo",
+                "mochila"
+              ],
+              "alternativa_correta": 0
+            },
+            {
+              "pergunta": "Como se escreve régua em espanhol?",
+              "alternativas": [
+                "rego",
+                "regla",
+                "linha",
+                "retícula"
+              ],
+              "alternativa_correta": 1
+            },
+            {
+              "pergunta": "Como se escreve livro em espanhol?",
+              "alternativas": [
+                "libro",
+                "libra",
+                "livrio",
+                "librito"
+              ],
+              "alternativa_correta": 0
+            },
+            {
+              "pergunta": "Como se escreve borracha em espanhol?",
+              "alternativas": [
+                "borrador",
+                "goma de lápiz",
+                "borratina",
+                "goma"
+              ],
+              "alternativa_correta": 3
+            },
+            {
+              "pergunta": "Como se escreve caderno em espanhol?",
+              "alternativas": [
+                "bloc",
+                "carpe",
+                "cuaderno",
+                "agenda"
+              ],
+              "alternativa_correta": 2
+            },
+            {
+              "pergunta": "Como se escreve lápis de cor em espanhol?",
+              "alternativas": [
+                "lapicitos",
+                "lápiz de color",
+                "lápiz tintado",
+                "colorín"
+              ],
+              "alternativa_correta": 1
+            },
+            {
+              "pergunta": "Como se escreve tesoura em espanhol?",
+              "alternativas": [
+                "tijera",
+                "tijero",
+                "cortador",
+                "recortador"
+              ],
+              "alternativa_correta": 0
+            },
+            {
+              "pergunta": "Como se escreve apontador em espanhol?",
+              "alternativas": [
+                "cortalápiz",
+                "lapicero",
+                "sacapuntas",
+                "afilador"
+              ],
+              "alternativa_correta": 2
+            },
+            {
+              "pergunta": "Como se escreve cola em espanhol?",
+              "alternativas": [
+                "goma líquida",
+                "pegaduro",
+                "adhesivo",
+                "pegamento"
+              ],
+              "alternativa_correta": 3
+            },
+            {
+              "pergunta": "Como se escreve envelope em espanhol?",
+              "alternativas": [
+                "sobre",
+                "carta",
+                "carpeta",
+                "caja"
+              ],
+              "alternativa_correta": 0
+            },
+            {
+              "pergunta": "Como se escreve quadro em espanhol?",
+              "alternativas": [
+                "lousa",
+                "pizarra/pizarrón",
+                "lousón",
+                "tablero"
+              ],
+              "alternativa_correta": 1
+            },
+            {
+              "pergunta": "Como se escreve apagador em espanhol?",
+              "alternativas": [
+                "goma",
+                "tachador",
+                "borrador",
+                "apagador"
+              ],
+              "alternativa_correta": 2
+            },
+            {
+              "pergunta": "Como se escreve giz em espanhol?",
+              "alternativas": [
+                "pintas",
+                "gices",
+                "gis",
+                "tizas"
+              ],
+              "alternativa_correta": 3
+            },
+            {
+              "pergunta": "Como se escreve carteira/mesa aulo escolar em espanhol?",
+              "alternativas": [
+                "pupitre",
+                "escritorio",
+                "silla pupitre",
+                "banco"
+              ],
+              "alternativa_correta": 0
+            },
+            {
+              "pergunta": "Como se escreve ventilador em espanhol?",
+              "alternativas": [
+                "ventanilla",
+                "ventilador",
+                "aireador",
+                "abanico"
+              ],
+              "alternativa_correta": 1
+            },
+            {
+              "pergunta": "Como se escreve sala de aula em espanhol?",
+              "alternativas": [
+                "clase",
+                "escuelón",
+                "aula/sala",
+                "sala de niños"
+              ],
+              "alternativa_correta": 2
+            },
+            {
+              "pergunta": "Como se escreve mapa em espanhol?",
+              "alternativas": [
+                "mapa",
+                "cartón",
+                "mundo",
+                "globo"
+              ],
+              "alternativa_correta": 0
+            },
+            {
+              "pergunta": "Como se escreve mesa em espanhol?",
+              "alternativas": [
+                "banco",
+                "pupitre",
+                "tabla",
+                "mesa"
+              ],
+              "alternativa_correta": 3
+            },
+            {
+              "pergunta": "Como se escreve cadeira em espanhol?",
+              "alternativas": [
+                "asiento",
+                "pupitre",
+                "silla",
+                "banco"
+              ],
+              "alternativa_correta": 2
+            },
+            {
+              "pergunta": "Como se escreve televisão em espanhol?",
+              "alternativas": [
+                "televisão",
+                "televisor",
+                "pantallon",
+                "pantalla"
+              ],
+              "alternativa_correta": 1
+            },
+            {
+              "pergunta": "Como se escreve cartaz em espanhol?",
+              "alternativas": [
+                "papelón",
+                "cartelera",
+                "cartel",
+                "aviso"
+              ],
+              "alternativa_correta": 2
+            },
+            {
+              "pergunta": "Como se escreve lixeira em espanhol?",
+              "alternativas": [
+                "papelera/basurero",
+                "basural",
+                "basura",
+                "basureiro"
+              ],
+              "alternativa_correta": 0
+            },
+            {
+              "pergunta": "Como se escreve porta em espanhol?",
+              "alternativas": [
+                "pierta",
+                "puerta",
+                "portón",
+                "abridor"
+              ],
+              "alternativa_correta": 1
+            },
+            {
+              "pergunta": "Qual é o artigo definido masculino singular em espanhol?",
+              "alternativas": [
+                "el",
+                "la",
+                "los",
+                "un"
+              ],
+              "alternativa_correta": 0
+            },
+            {
+              "pergunta": "Qual é o artigo indefinido feminino plural em espanhol?",
+              "alternativas": [
+                "una",
+                "las",
+                "la",
+                "unas"
+              ],
+              "alternativa_correta": 3
+            },
+            {
+              "pergunta": "Qual é o artigo definido feminino plural em espanhol?",
+              "alternativas": [
+                "una",
+                "las",
+                "unas",
+                "la"
+              ],
+              "alternativa_correta": 1
+            },
+            {
+              "pergunta": "Qual é o artigo indefinido masculino plural em espanhol?",
+              "alternativas": [
+                "el",
+                "los",
+                "unos",
+                "un"
+              ],
+              "alternativa_correta": 2
+            },
+            {
+              "pergunta": "Qual é o artigo indefinido feminino singular em espanhol?",
+              "alternativas": [
+                "la",
+                "una",
+                "el",
+                "una"
+              ],
+              "alternativa_correta": 3
+            },
+            {
+              "pergunta": "Qual é o artigo correto para completar: ___ mochila (determinante feminino singular)?",
+              "alternativas": [
+                "una",
+                "unas",
+                "la",
+                "el"
+              ],
+              "alternativa_correta": 2
+            },
+            {
+              "pergunta": "Qual é o artigo correto para completar: ___ estuche (determinante masculino singular)?",
+              "alternativas": [
+                "un",
+                "el",
+                "una",
+                "los"
+              ],
+              "alternativa_correta": 0
+            },
+            {
+              "pergunta": "Qual é o artigo correto para completar: ___ lápices número 2 (determinante masculino plural)?",
+              "alternativas": [
+                "los",
+                "unos",
+                "unas",
+                "el"
+              ],
+              "alternativa_correta": 1
+            },
+            {
+              "pergunta": "Qual é o artigo correto para completar: ___ goma de borrar (determinante feminino singular)?",
+              "alternativas": [
+                "la",
+                "una",
+                "un",
+                "una"
+              ],
+              "alternativa_correta": 3
+            },
+            {
+              "pergunta": "Qual é o artigo correto para completar: ___ sacapuntas (determinante masculino singular)?",
+              "alternativas": [
+                "un",
+                "uno",
+                "el",
+                "una"
+              ],
+              "alternativa_correta": 0
+            },
+            {
+              "pergunta": "Qual é o artigo correto para completar: ___ pegamento en barra grande (det. masc. sing.)?",
+              "alternativas": [
+                "uno",
+                "la",
+                "una",
+                "un"
+              ],
+              "alternativa_correta": 3
+            },
+            {
+              "pergunta": "Qual é o artigo correto para completar: ___ reglas de 20 cm y de 30 cm (det. fem. plural)?",
+              "alternativas": [
+                "unas",
+                "las",
+                "la",
+                "unas"
+              ],
+              "alternativa_correta": 1
+            }
+          ]
+        }
+      }
     }
   }
 }
