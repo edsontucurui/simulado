@@ -2209,6 +2209,206 @@
                 "We are studying for the test."
               ],
               "alternativa_correta": 2
+            },
+            {
+              "pergunta": "Qual dessas frases está na forma negativa do Present Continuous?",
+              "alternativas": [
+                "She is going to school.",
+                "They are playing outside.",
+                "The family isn't eating breakfast.",
+                "We are studying for the test."
+              ],
+              "alternativa_correta": 2
+            },
+            {
+              "pergunta": "Escolha a frase que está no Present Continuous negativo.",
+              "alternativas": [
+                "I am watching TV.",
+                "He isn't doing his homework.",
+                "The children are running.",
+                "You are talking too much."
+              ],
+              "alternativa_correta": 1
+            },
+            {
+              "pergunta": "Qual frase mostra uma ação que não está acontecendo agora?",
+              "alternativas": [
+                "We are cooking lunch.",
+                "The dog is barking.",
+                "She is cleaning the room.",
+                "They aren't listening to music."
+              ],
+              "alternativa_correta": 3
+            },
+            {
+              "pergunta": "Assinale a alternativa com a forma negativa correta do Present Continuous.",
+              "alternativas": [
+                "I am not playing video games.",
+                "He is reading a book.",
+                "They are riding bikes.",
+                "She is talking on the phone."
+              ],
+              "alternativa_correta": 0
+            },
+            {
+              "pergunta": "Qual frase está corretamente escrita na forma negativa do Present Continuous?",
+              "alternativas": [
+                "The kids are dancing.",
+                "She isn't opening the window.",
+                "We are walking to school.",
+                "You are helping your friend."
+              ],
+              "alternativa_correta": 1
+            },
+            {
+              "pergunta": "Identifique a frase com o uso correto de 'not' no Present Continuous.",
+              "alternativas": [
+                "The teacher is writing on the board.",
+                "I am answering questions.",
+                "He isn't drinking water.",
+                "We are laughing."
+              ],
+              "alternativa_correta": 2
+            },
+            {
+              "pergunta": "Qual dessas alternativas representa uma ação negativa no momento?",
+              "alternativas": [
+                "The birds are flying.",
+                "Mom is cooking dinner.",
+                "They are setting the table.",
+                "I am not reading now."
+              ],
+              "alternativa_correta": 3
+            },
+            {
+              "pergunta": "Marque a frase que está na negativa do tempo Present Continuous.",
+              "alternativas": [
+                "She isn't brushing her teeth.",
+                "You are doing your homework.",
+                "We are calling grandma.",
+                "The baby is sleeping."
+              ],
+              "alternativa_correta": 0
+            },
+            {
+              "pergunta": "Entre as opções, qual está na forma negativa do Present Continuous?",
+              "alternativas": [
+                "He is taking a shower.",
+                "They aren't playing soccer.",
+                "I am looking at the sky.",
+                "The girl is smiling."
+              ],
+              "alternativa_correta": 1
+            },
+            {
+              "pergunta": "Qual frase expressa uma negação no tempo Present Continuous?",
+              "alternativas": [
+                "The cat is jumping.",
+                "We are painting.",
+                "You aren't washing the car.",
+                "She is writing a letter."
+              ],
+              "alternativa_correta": 2
+            },
+            {
+              "pergunta": "Complete: \"She ___ playing in the garden.\"",
+              "alternativas": [
+                "is",
+                "isn't",
+                "are",
+                "aren't"
+              ],
+              "alternativa_correta": 1
+            },
+            {
+              "pergunta": "Como fica a forma negativa de \"I am watching TV\"?",
+              "alternativas": [
+                "I watching TV.",
+                "I am watching not TV.",
+                "I not am watching TV.",
+                "I am not watching TV."
+              ],
+              "alternativa_correta": 3
+            },
+            {
+              "pergunta": "Complete na forma negativa do Present Continuous: \"They ___ sleeping now.\"",
+              "alternativas": [
+                "is",
+                "isn't",
+                "aren't",
+                "am not"
+              ],
+              "alternativa_correta": 2
+            },
+            {
+              "pergunta": "Qual é a forma negativa correta: \"He is cooking dinner\"?",
+              "alternativas": [
+                "He isn't cooking dinner.",
+                "He not is cooking dinner.",
+                "He am not cooking dinner.",
+                "He doesn't cooking dinner."
+              ],
+              "alternativa_correta": 0
+            },
+            {
+              "pergunta": "Complete com a forma negativa: \"I ___ doing my homework.\"",
+              "alternativas": [
+                "isn't",
+                "are not",
+                "am not",
+                "is not"
+              ],
+              "alternativa_correta": 2
+            },
+            {
+              "pergunta": "Transforme em negativa: \"They are listening to music.\"",
+              "alternativas": [
+                "They not are listening music.",
+                "They is not listening to music.",
+                "They am not listening to music.",
+                "They are not listening to music."
+              ],
+              "alternativa_correta": 3
+            },
+            {
+              "pergunta": "Como fica a frase \"She is dancing\" na forma negativa?",
+              "alternativas": [
+                "She am not dancing.",
+                "She isn't dancing.",
+                "She aren't dancing.",
+                "She doesn't dancing."
+              ],
+              "alternativa_correta": 1
+            },
+            {
+              "pergunta": "Complete na forma negativa do Present Continuous: \"We ___ brushing our teeth.\"",
+              "alternativas": [
+                "is not",
+                "am not",
+                "aren't",
+                "isn't"
+              ],
+              "alternativa_correta": 2
+            },
+            {
+              "pergunta": "Complete com a forma negativa correta: \"You ___ watching the movie.\"",
+              "alternativas": [
+                "am not",
+                "aren't",
+                "is not",
+                "isn't"
+              ],
+              "alternativa_correta": 1
+            },
+            {
+              "pergunta": "Transforme em negativa: \"He is reading a book.\"",
+              "alternativas": [
+                "He isn't reading a book.",
+                "He am not reading book.",
+                "He are not reading.",
+                "He not is reading a book."
+              ],
+              "alternativa_correta": 0
             }
           ]
         }
