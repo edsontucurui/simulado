@@ -1817,6 +1817,246 @@
                 "Pela distribuição desigual de massa"
               ],
               "alternativa_correta": 3
+            },
+            {
+              "pergunta": "Qual a porcentagem da superfície da Terra coberta por água?",
+              "alternativas": [
+                "50%",
+                "60%",
+                "71%",
+                "85%"
+              ],
+              "alternativa_correta": 2
+            },
+            {
+              "pergunta": "Qual o nome da camada gasosa que envolve a Terra?",
+              "alternativas": [
+                "Atmosfera",
+                "Biosfera",
+                "Litosfera",
+                "Hidrosfera"
+              ],
+              "alternativa_correta": 0
+            },
+            {
+              "pergunta": "Qual é o nome da camada onde se manifesta a vida?",
+              "alternativas": [
+                "Hidrosfera",
+                "Atmosfera",
+                "Litosfera",
+                "Biosfera"
+              ],
+              "alternativa_correta": 3
+            },
+            {
+              "pergunta": "Qual o formato mais adequado para descrever a Terra?",
+              "alternativas": [
+                "Esférico perfeito",
+                "Geoide",
+                "Oval achatado",
+                "Elíptico cônico"
+              ],
+              "alternativa_correta": 1
+            },
+            {
+              "pergunta": "Por que a Terra é achatada nos polos?",
+              "alternativas": [
+                "Por causa da rotação",
+                "Pela gravidade do Sol",
+                "Pela órbita lunar",
+                "Pela pressão atmosférica"
+              ],
+              "alternativa_correta": 0
+            },
+            {
+              "pergunta": "O que acontece com um barco ao se afastar no horizonte?",
+              "alternativas": [
+                "Some instantaneamente",
+                "Some pela luz",
+                "Some gradualmente por partes",
+                "Some por evaporação"
+              ],
+              "alternativa_correta": 2
+            },
+            {
+              "pergunta": "O que define o peso de um objeto?",
+              "alternativas": [
+                "A força gravitacional",
+                "A massa do Sol",
+                "A densidade do ar",
+                "O tempo de rotação"
+              ],
+              "alternativa_correta": 0
+            },
+            {
+              "pergunta": "A força gravitacional é mais perceptível quando...",
+              "alternativas": [
+                "Os corpos estão parados",
+                "Um deles tem grande massa",
+                "Há rotação",
+                "Os dois corpos têm igual volume"
+              ],
+              "alternativa_correta": 1
+            },
+            {
+              "pergunta": "Quem calculou pela primeira vez a força gravitacional?",
+              "alternativas": [
+                "Galileu",
+                "Kepler",
+                "Copérnico",
+                "Newton"
+              ],
+              "alternativa_correta": 3
+            },
+            {
+              "pergunta": "O que aconteceria sem a gravidade da Terra?",
+              "alternativas": [
+                "Terremotos constantes",
+                "Marés secariam",
+                "Nada ficaria fixo",
+                "A Lua se aproximaria"
+              ],
+              "alternativa_correta": 2
+            },
+            {
+              "pergunta": "O que causa as marés na Terra?",
+              "alternativas": [
+                "Força centrípeta",
+                "Gravidade da Lua",
+                "Rotação da Terra",
+                "Ação dos ventos"
+              ],
+              "alternativa_correta": 1
+            },
+            {
+              "pergunta": "As marés mais fortes ocorrem em que fases da Lua?",
+              "alternativas": [
+                "Quarto Crescente",
+                "Quarto Minguante",
+                "Lua Azul",
+                "Lua Nova e Lua Cheia"
+              ],
+              "alternativa_correta": 3
+            },
+            {
+              "pergunta": "Como é chamada a maré de menor amplitude?",
+              "alternativas": [
+                "Maré morta",
+                "Maré mínima",
+                "Maré lunar",
+                "Maré baixa"
+              ],
+              "alternativa_correta": 0
+            },
+            {
+              "pergunta": "O que acontece quando Sol, Terra e Lua estão alinhados?",
+              "alternativas": [
+                "Marés mais altas",
+                "Eclipse lunar apenas",
+                "Estações do ano mudam",
+                "O eixo da Terra se inclina"
+              ],
+              "alternativa_correta": 0
+            },
+            {
+              "pergunta": "Qual é a duração do ciclo lunar?",
+              "alternativas": [
+                "15 dias",
+                "365 dias",
+                "29,5 dias",
+                "7 dias"
+              ],
+              "alternativa_correta": 2
+            },
+            {
+              "pergunta": "O que é um eclipse solar?",
+              "alternativas": [
+                "A Terra bloqueia o Sol",
+                "A Lua bloqueia o Sol",
+                "A Lua brilha mais forte",
+                "O Sol gira mais rápido"
+              ],
+              "alternativa_correta": 1
+            },
+            {
+              "pergunta": "Qual fase da Lua ocorre no eclipse solar?",
+              "alternativas": [
+                "Lua Nova",
+                "Lua Cheia",
+                "Lua Crescente",
+                "Lua Minguante"
+              ],
+              "alternativa_correta": 0
+            },
+            {
+              "pergunta": "Em qual fase da Lua ocorre o eclipse lunar?",
+              "alternativas": [
+                "Lua Nova",
+                "Quarto Crescente",
+                "Lua Azul",
+                "Lua Cheia"
+              ],
+              "alternativa_correta": 3
+            },
+            {
+              "pergunta": "Qual é a ordem dos astros no eclipse lunar?",
+              "alternativas": [
+                "Sol - Lua - Terra",
+                "Sol - Terra - Lua",
+                "Lua - Terra - Sol",
+                "Terra - Lua - Sol"
+              ],
+              "alternativa_correta": 1
+            },
+            {
+              "pergunta": "Quem propôs o modelo heliocêntrico?",
+              "alternativas": [
+                "Copérnico",
+                "Galileu",
+                "Aristarco",
+                "Newton"
+              ],
+              "alternativa_correta": 0
+            },
+            {
+              "pergunta": "Para que servia o relógio de sol?",
+              "alternativas": [
+                "Medir eclipses",
+                "Prever chuvas",
+                "Medir o tempo pela luz solar",
+                "Observar estrelas"
+              ],
+              "alternativa_correta": 2
+            },
+            {
+              "pergunta": "Qual povo foi um dos primeiros a usar relógios de sol?",
+              "alternativas": [
+                "Gregos",
+                "Egípcios",
+                "Maias",
+                "Chineses"
+              ],
+              "alternativa_correta": 1
+            },
+            {
+              "pergunta": "Qual movimento da Terra causa dias e noites?",
+              "alternativas": [
+                "Translação",
+                "Precessão",
+                "Inclinação",
+                "Rotação"
+              ],
+              "alternativa_correta": 3
+            },
+            {
+              "pergunta": "Qual movimento determina o ano?",
+              "alternativas": [
+                "Translação",
+                "Rotação",
+                "Precessão",
+                "Nutação"
+              ],
+              "alternativa_correta": 0
             }
           ]
         }
