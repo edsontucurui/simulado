@@ -1937,6 +1937,280 @@
               "alternativa_correta": 2
             }
           ]
+        },
+        "4 - From my House": {
+          "questoes": [
+            {
+              "pergunta": "Como se escreve 'fogão' em inglês?",
+              "alternativas": [
+                "stove",
+                "sink",
+                "chair",
+                "wardrobe"
+              ],
+              "alternativa_correta": 0
+            },
+            {
+              "pergunta": "Como se escreve 'pia' em inglês?",
+              "alternativas": [
+                "mirror",
+                "dryer",
+                "sink",
+                "table"
+              ],
+              "alternativa_correta": 2
+            },
+            {
+              "pergunta": "Como se escreve 'geladeira' em inglês?",
+              "alternativas": [
+                "table",
+                "refrigerator",
+                "television",
+                "mirror"
+              ],
+              "alternativa_correta": 1
+            },
+            {
+              "pergunta": "Como se escreve 'cadeira' em inglês?",
+              "alternativas": [
+                "bed",
+                "chair",
+                "shower",
+                "stove"
+              ],
+              "alternativa_correta": 1
+            },
+            {
+              "pergunta": "Como se escreve 'mesa' em inglês?",
+              "alternativas": [
+                "table",
+                "mirror",
+                "sofa",
+                "washing machine"
+              ],
+              "alternativa_correta": 0
+            },
+            {
+              "pergunta": "Como se escreve 'televisão' em inglês?",
+              "alternativas": [
+                "chair",
+                "dresser",
+                "television",
+                "garage"
+              ],
+              "alternativa_correta": 2
+            },
+            {
+              "pergunta": "Como se escreve 'sofá' em inglês?",
+              "alternativas": [
+                "refrigerator",
+                "dryer",
+                "desk",
+                "couch/sofa"
+              ],
+              "alternativa_correta": 3
+            },
+            {
+              "pergunta": "Como se escreve 'poltrona' em inglês?",
+              "alternativas": [
+                "armchair",
+                "dresser",
+                "bathtub",
+                "garage"
+              ],
+              "alternativa_correta": 0
+            },
+            {
+              "pergunta": "Como se escreve 'espelho' em inglês?",
+              "alternativas": [
+                "wardrobe",
+                "mirror",
+                "refrigerator",
+                "shower"
+              ],
+              "alternativa_correta": 1
+            },
+            {
+              "pergunta": "Como se escreve 'cômoda' em inglês?",
+              "alternativas": [
+                "garage",
+                "chair",
+                "dresser",
+                "bed"
+              ],
+              "alternativa_correta": 2
+            },
+            {
+              "pergunta": "Como se escreve 'cama' em inglês?",
+              "alternativas": [
+                "laundry",
+                "sofa",
+                "bathtub",
+                "bed"
+              ],
+              "alternativa_correta": 3
+            },
+            {
+              "pergunta": "Como se escreve 'livros' em inglês?",
+              "alternativas": [
+                "sink",
+                "bookcase",
+                "bed",
+                "garage"
+              ],
+              "alternativa_correta": 1
+            },
+            {
+              "pergunta": "Como se escreve 'guarda-roupa' em inglês?",
+              "alternativas": [
+                "wardrobe/closet",
+                "dryer",
+                "desk",
+                "garage"
+              ],
+              "alternativa_correta": 0
+            },
+            {
+              "pergunta": "Como se escreve 'escrivaninha' em inglês?",
+              "alternativas": [
+                "bathtub",
+                "armchair",
+                "desk",
+                "television"
+              ],
+              "alternativa_correta": 2
+            },
+            {
+              "pergunta": "Como se escreve 'banheira' em inglês?",
+              "alternativas": [
+                "refrigerator",
+                "bathtub",
+                "bookcase",
+                "dryer"
+              ],
+              "alternativa_correta": 1
+            },
+            {
+              "pergunta": "Como se escreve 'chuveiro' em inglês?",
+              "alternativas": [
+                "shower",
+                "mirror",
+                "sink",
+                "desk"
+              ],
+              "alternativa_correta": 0
+            },
+            {
+              "pergunta": "Como se escreve 'vaso sanitário' em inglês?",
+              "alternativas": [
+                "armchair",
+                "garage",
+                "dresser",
+                "toilet"
+              ],
+              "alternativa_correta": 3
+            },
+            {
+              "pergunta": "Como se escreve 'máquina de lavar' em inglês?",
+              "alternativas": [
+                "bookcase",
+                "bathtub",
+                "washing machine",
+                "kitchen"
+              ],
+              "alternativa_correta": 2
+            },
+            {
+              "pergunta": "Como se escreve 'secadora' em inglês?",
+              "alternativas": [
+                "garage",
+                "dryer",
+                "sink",
+                "dresser"
+              ],
+              "alternativa_correta": 1
+            },
+            {
+              "pergunta": "Como se diz 'cozinha' em inglês?",
+              "alternativas": [
+                "kitchen",
+                "bathroom",
+                "laundry",
+                "garage"
+              ],
+              "alternativa_correta": 0
+            },
+            {
+              "pergunta": "Como se diz 'sala de jantar' em inglês?",
+              "alternativas": [
+                "bathroom",
+                "garage",
+                "dining room",
+                "bedroom"
+              ],
+              "alternativa_correta": 2
+            },
+            {
+              "pergunta": "Como se diz 'sala de estar' em inglês?",
+              "alternativas": [
+                "dresser",
+                "living room",
+                "kitchen",
+                "laundry"
+              ],
+              "alternativa_correta": 1
+            },
+            {
+              "pergunta": "Como se diz 'banheiro' em inglês?",
+              "alternativas": [
+                "kitchen",
+                "bedroom",
+                "garage",
+                "bathroom"
+              ],
+              "alternativa_correta": 3
+            },
+            {
+              "pergunta": "Como se diz 'quarto' em inglês?",
+              "alternativas": [
+                "dining room",
+                "kitchen",
+                "bedroom",
+                "laundry"
+              ],
+              "alternativa_correta": 2
+            },
+            {
+              "pergunta": "Como se diz 'área de serviço' em inglês?",
+              "alternativas": [
+                "laundry",
+                "dining room",
+                "garage",
+                "bathroom"
+              ],
+              "alternativa_correta": 0
+            },
+            {
+              "pergunta": "Como se diz 'garagem' em inglês?",
+              "alternativas": [
+                "bedroom",
+                "garage",
+                "desk",
+                "armchair"
+              ],
+              "alternativa_correta": 1
+            },
+            {
+              "pergunta": "Qual frase está na forma negativa do Present Continuous?",
+              "alternativas": [
+                "She is going to school.",
+                "They are playing outside.",
+                "The family isn't eating breakfast.",
+                "We are studying for the test."
+              ],
+              "alternativa_correta": 2
+            }
+          ]
         }
       }
     },
