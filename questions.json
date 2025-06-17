@@ -1565,6 +1565,260 @@
               "alternativa_correta": 0
             }
           ]
+        },
+        "6 - Terra um Planeta Singular": {
+          "questoes": [
+            {
+              "pergunta": "Qual o formato mais correto da Terra?",
+              "alternativas": [
+                "Esférico perfeito",
+                "Oval",
+                "Geoide",
+                "Irregular achatado"
+              ],
+              "alternativa_correta": 2
+            },
+            {
+              "pergunta": "Por que a Terra não é uma esfera perfeita?",
+              "alternativas": [
+                "Pela atração da Lua",
+                "Pela força centrípeta",
+                "Pela translação",
+                "Pelo achatamento dos polos"
+              ],
+              "alternativa_correta": 3
+            },
+            {
+              "pergunta": "O que é a gravidade?",
+              "alternativas": [
+                "A força de atração entre corpos com massa",
+                "O peso dos objetos",
+                "A força do vento",
+                "O calor do Sol"
+              ],
+              "alternativa_correta": 0
+            },
+            {
+              "pergunta": "Qual movimento da Terra dura cerca de 24 horas?",
+              "alternativas": [
+                "Precessão",
+                "Rotação",
+                "Translação",
+                "Inclinação"
+              ],
+              "alternativa_correta": 1
+            },
+            {
+              "pergunta": "O que é responsável pelas estações do ano?",
+              "alternativas": [
+                "A rotação",
+                "A gravidade",
+                "A força centrípeta",
+                "A translação"
+              ],
+              "alternativa_correta": 3
+            },
+            {
+              "pergunta": "Quem defendeu o heliocentrismo com observações científicas?",
+              "alternativas": [
+                "Galileu Galilei",
+                "Isaac Newton",
+                "Eratóstenes",
+                "Aristóteles"
+              ],
+              "alternativa_correta": 0
+            },
+            {
+              "pergunta": "Qual evidência mostra que a Terra é esférica?",
+              "alternativas": [
+                "Fusos horários",
+                "Alternância das marés",
+                "Sombra em eclipses lunares",
+                "Inclinação da Terra"
+              ],
+              "alternativa_correta": 2
+            },
+            {
+              "pergunta": "O que causa o desaparecimento dos navios no horizonte?",
+              "alternativas": [
+                "Curvatura da Terra",
+                "Altura das ondas",
+                "Reflexo solar",
+                "Névoa do mar"
+              ],
+              "alternativa_correta": 0
+            },
+            {
+              "pergunta": "O que é força centrípeta?",
+              "alternativas": [
+                "Força que empurra para fora",
+                "Força que puxa para o centro",
+                "Força de tração do Sol",
+                "Força gravitacional da Lua"
+              ],
+              "alternativa_correta": 1
+            },
+            {
+              "pergunta": "Como se chama o movimento que dura cerca de 365 dias?",
+              "alternativas": [
+                "Rotação",
+                "Precessão",
+                "Inclinação",
+                "Translação"
+              ],
+              "alternativa_correta": 3
+            },
+            {
+              "pergunta": "Qual a influência da Lua sobre a Terra?",
+              "alternativas": [
+                "Aumenta a rotação",
+                "Gira a atmosfera",
+                "Provoca as marés",
+                "Aumenta a gravidade"
+              ],
+              "alternativa_correta": 2
+            },
+            {
+              "pergunta": "O que acontece em um eclipse solar?",
+              "alternativas": [
+                "A Terra bloqueia o Sol",
+                "A Lua faz sombra na Terra",
+                "A Lua desaparece",
+                "O Sol gira mais rápido"
+              ],
+              "alternativa_correta": 1
+            },
+            {
+              "pergunta": "Em que fase da Lua ocorre o eclipse solar?",
+              "alternativas": [
+                "Lua Nova",
+                "Lua Cheia",
+                "Lua Minguante",
+                "Quarto Crescente"
+              ],
+              "alternativa_correta": 0
+            },
+            {
+              "pergunta": "O que são marés altas e baixas causadas?",
+              "alternativas": [
+                "Pela translação da Terra",
+                "Pela gravidade da Lua",
+                "Pela forma da Terra",
+                "Pelo movimento das nuvens"
+              ],
+              "alternativa_correta": 1
+            },
+            {
+              "pergunta": "Por que a Lua mostra sempre a mesma face para a Terra?",
+              "alternativas": [
+                "Porque gira devagar",
+                "Porque é muito longe",
+                "Porque está parada",
+                "Porque tem rotação sincronizada"
+              ],
+              "alternativa_correta": 3
+            },
+            {
+              "pergunta": "O que acontece em um eclipse lunar?",
+              "alternativas": [
+                "A Lua bloqueia o Sol",
+                "A Terra faz sombra na Lua",
+                "A Lua desaparece",
+                "A Terra gira mais rápido"
+              ],
+              "alternativa_correta": 1
+            },
+            {
+              "pergunta": "Qual o nome do movimento semelhante ao de um pião feito pela Terra?",
+              "alternativas": [
+                "Translação",
+                "Rotação",
+                "Precessão",
+                "Inércia"
+              ],
+              "alternativa_correta": 2
+            },
+            {
+              "pergunta": "Por que existem fusos horários?",
+              "alternativas": [
+                "Porque a Terra é esférica e gira",
+                "Porque a Lua gira",
+                "Porque o Sol gira",
+                "Porque os países pediram"
+              ],
+              "alternativa_correta": 0
+            },
+            {
+              "pergunta": "Qual cientista observou a sombra da Terra nos eclipses?",
+              "alternativas": [
+                "Newton",
+                "Galileu",
+                "Aristóteles",
+                "Copérnico"
+              ],
+              "alternativa_correta": 2
+            },
+            {
+              "pergunta": "Por que os dias são maiores em alguns momentos do ano?",
+              "alternativas": [
+                "Pela gravidade",
+                "Pela inclinação da Terra",
+                "Pela rotação",
+                "Pela precessão"
+              ],
+              "alternativa_correta": 1
+            },
+            {
+              "pergunta": "O que é um ano bissexto?",
+              "alternativas": [
+                "Um ano com 366 dias",
+                "Um ano com eclipse",
+                "Um ano com 11 meses",
+                "Um ano com duas luas cheias"
+              ],
+              "alternativa_correta": 0
+            },
+            {
+              "pergunta": "O que é a linha do Equador?",
+              "alternativas": [
+                "Linha imaginária dos oceanos",
+                "Linha imaginária que divide a Terra em dois hemisférios",
+                "Linha de sombra solar",
+                "Linha da Lua"
+              ],
+              "alternativa_correta": 1
+            },
+            {
+              "pergunta": "Como a gravidade molda o planeta Terra?",
+              "alternativas": [
+                "Altera as estações",
+                "Modifica o clima",
+                "Atrai toda a massa para o centro",
+                "Muda o eixo da Terra"
+              ],
+              "alternativa_correta": 2
+            },
+            {
+              "pergunta": "O que foi observado por Eratóstenes?",
+              "alternativas": [
+                "Diferença nas sombras em dois pontos do Egito",
+                "A Lua se movendo",
+                "A Terra parada",
+                "A maré cheia no deserto"
+              ],
+              "alternativa_correta": 0
+            },
+            {
+              "pergunta": "Por que a Terra tem gravidade irregular em alguns pontos?",
+              "alternativas": [
+                "Pela distância do Sol",
+                "Pelo clima",
+                "Pela inclinação do eixo",
+                "Pela distribuição desigual de massa"
+              ],
+              "alternativa_correta": 3
+            }
+          ]
         }
       }
     },
