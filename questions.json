@@ -2693,6 +2693,375 @@
               "alternativa_correta": 0
             }
           ]
+        },
+        "4 - Formas Geométricas": {
+          "questoes": [
+            {
+              "pergunta": "O que é necessário para que uma figura seja considerada um polígono?",
+              "alternativas": [
+                "Ter apenas curvas",
+                "Ter linhas cruzadas",
+                "Ter contorno fechado, simples e com linhas retas",
+                "Ter mais de 5 lados"
+              ],
+              "alternativa_correta": 2
+            },
+            {
+              "pergunta": "Qual dessas figuras NÃO é um polígono?",
+              "alternativas": [
+                "Triângulo",
+                "Contorno com linha curva",
+                "Quadrado",
+                "Pentágono"
+              ],
+              "alternativa_correta": 1
+            },
+            {
+              "pergunta": "Qual triângulo tem todos os lados congruentes?",
+              "alternativas": [
+                "Escaleno",
+                "Equilátero",
+                "Isósceles",
+                "Retângulo"
+              ],
+              "alternativa_correta": 1
+            },
+            {
+              "pergunta": "Um triângulo com dois lados iguais é classificado como:",
+              "alternativas": [
+                "Equilátero",
+                "Escaleno",
+                "Isósceles",
+                "Obtusângulo"
+              ],
+              "alternativa_correta": 2
+            },
+            {
+              "pergunta": "Qual triângulo possui todos os lados com medidas diferentes?",
+              "alternativas": [
+                "Escaleno",
+                "Equilátero",
+                "Isósceles",
+                "Acutângulo"
+              ],
+              "alternativa_correta": 0
+            },
+            {
+              "pergunta": "Se um triângulo tem lados de 5 cm, 5 cm e 3 cm, ele é:",
+              "alternativas": [
+                "Equilátero",
+                "Escaleno",
+                "Isósceles",
+                "Retângulo"
+              ],
+              "alternativa_correta": 2
+            },
+            {
+              "pergunta": "Qual forma geométrica tem exatamente três lados?",
+              "alternativas": [
+                "Triângulo",
+                "Quadrado",
+                "Pentágono",
+                "Hexágono"
+              ],
+              "alternativa_correta": 0
+            },
+            {
+              "pergunta": "Como se denomina um polígono de quatro lados?",
+              "alternativas": [
+                "Triângulo",
+                "Quadrilátero",
+                "Pentágono",
+                "Octógono"
+              ],
+              "alternativa_correta": 1
+            },
+            {
+              "pergunta": "Qual polígono possui exatamente cinco ângulos?",
+              "alternativas": [
+                "Quadrilátero",
+                "Hexágono",
+                "Pentágono",
+                "Decágono"
+              ],
+              "alternativa_correta": 2
+            },
+            {
+              "pergunta": "Qual é o nome correto para uma figura de seis lados?",
+              "alternativas": [
+                "Pentágono",
+                "Heptágono",
+                "Octógono",
+                "Hexágono"
+              ],
+              "alternativa_correta": 3
+            },
+            {
+              "pergunta": "Que nome recebe um polígono com oito lados?",
+              "alternativas": [
+                "Octógono",
+                "Eneágono",
+                "Decágono",
+                "Undecágono"
+              ],
+              "alternativa_correta": 0
+            },
+            {
+              "pergunta": "Quantos lados possui um heptágono?",
+              "alternativas": [
+                "6",
+                "7",
+                "8",
+                "9"
+              ],
+              "alternativa_correta": 1
+            },
+            {
+              "pergunta": "Qual destas figuras tem o maior número de lados?",
+              "alternativas": [
+                "Hexágono",
+                "Heptágono",
+                "Decágono",
+                "Pentágono"
+              ],
+              "alternativa_correta": 2
+            },
+            {
+              "pergunta": "Qual prefixo numérico corresponde a \"nove\"?",
+              "alternativas": [
+                "Hepta-",
+                "Octa-",
+                "Deca-",
+                "Enea-"
+              ],
+              "alternativa_correta": 3
+            },
+            {
+              "pergunta": "Um polígono com todos os lados iguais é chamado de:",
+              "alternativas": [
+                "Regular",
+                "Irregular",
+                "Simétrico",
+                "Equilátero"
+              ],
+              "alternativa_correta": 0
+            },
+            {
+              "pergunta": "Qual figura NÃO é considerada um polígono?",
+              "alternativas": [
+                "Quadrado",
+                "Círculo",
+                "Triângulo",
+                "Hexágono"
+              ],
+              "alternativa_correta": 1
+            },
+            {
+              "pergunta": "Qual polígono possui exatamente 5 lados?",
+              "alternativas": [
+                "Quadrilátero",
+                "Hexágono",
+                "Pentágono",
+                "Decágono"
+              ],
+              "alternativa_correta": 2
+            },
+            {
+              "pergunta": "Um polígono com 8 ângulos é chamado de:",
+              "alternativas": [
+                "Heptágono",
+                "Eneágono",
+                "Decágono",
+                "Octógono"
+              ],
+              "alternativa_correta": 3
+            },
+            {
+              "pergunta": "Qual é o nome correto para um polígono de 10 lados?",
+              "alternativas": [
+                "Decágono",
+                "Nonágono",
+                "Undecágono",
+                "Dodecágono"
+              ],
+              "alternativa_correta": 0
+            },
+            {
+              "pergunta": "Um polígono com 6 lados congruentes é um:",
+              "alternativas": [
+                "Pentágono",
+                "Heptágono",
+                "Hexágono",
+                "Octógono"
+              ],
+              "alternativa_correta": 2
+            },
+            {
+              "pergunta": "O tringulo a seguir é:",
+              "imagem": {
+                "url": "https://static.todamateria.com.br/upload/im/ag/image-686.jpg",
+                "largura": 95,
+                "altura": 100
+              },                
+              "alternativas": [
+                "Equilátero",
+                "Escaleno",
+                "Isósceles",
+                "Nenhum"
+              ],
+              "alternativa_correta": 0
+            },
+            {
+              "pergunta": "Esse tringulo é:",
+              "imagem": {
+                "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfVrwxb4Lw-8kqhCtm3gQnZiDCViLPl-Cx7w&s",
+                "largura": 95,
+                "altura": 100
+              },                  
+              "alternativas": [
+                "Equilátero",
+                "Escaleno",
+                "Isósceles",
+                "Nenhum"
+              ],
+              "alternativa_correta": 0
+            },
+            {
+              "pergunta": "Chamamos o tringulo a seguir é de",
+              "imagem": {
+                "url": "https://escolaeducacao.com.br/wp-content/uploads/2020/06/triangulo-escaleno.png",
+                "largura": 120,
+                "altura": 110
+              },                
+              "alternativas": [
+                "Equilátero",
+                "Nenhum",
+                "Isósceles",
+                "Escaleno"
+              ],
+              "alternativa_correta": 3
+            },
+            {
+              "pergunta": "De acordo com a medida do ângulo, o triângulo a seguir é:",
+              "imagem": {
+                "url": "https://s2.static.brasilescola.uol.com.br/be/2020/06/1-triangulo-acutangulo.jpg",
+                "largura": 120,
+                "altura": 110
+              },                
+              "alternativas": [
+                "Retângulo",
+                "Acutângulo",
+                "Obtusângulo",
+                "Ângulo"
+              ],
+              "alternativa_correta": 1
+            },
+            {
+              "pergunta": "Considerando a medida do ângulo, o triângulo a seguir é:",
+              "imagem": {
+                "url": "https://br.neurochispas.com/wp-content/uploads/2021/07/Triangulo-retangulo-isosceles-2.png",
+                "largura": 95,
+                "altura": 100
+              },                   
+              "alternativas": [
+                "Retângulo",
+                "Acutângulo",
+                "Obtusângulo",
+                "Ângulo"
+              ],
+              "alternativa_correta": 0
+            },
+            {
+              "pergunta": "Pela medida do ângulo, o triângulo a seguir é:",
+              "imagem": {
+                "url": "https://escolaeducacao.com.br/wp-content/uploads/2020/06/triangulo-obtusangulo.png",
+                "largura": 130,
+                "altura": 120
+              },                
+              "alternativas": [
+                "Retângulo",
+                "Acutângulo",
+                "Obtusângulo",
+                "Ângulo"
+              ],
+              "alternativa_correta": 2
+            },
+            {
+              "pergunta": "O quadriláteros a seguir é um:",
+              "imagem": {
+                "url": "https://static.escolakids.uol.com.br/2022/09/trapezio-isosceles.png",
+                "largura": 110,
+                "altura": 100
+              },                  
+              "alternativas": [
+                "Losango",
+                "Quadrado",
+                "Retângulo",
+                "Trapézio"
+              ],
+              "alternativa_correta": 3
+            },
+            {
+              "pergunta": "Qual o quadriláteros a seguir:",
+              "imagem": {
+                "url": "https://br.neurochispas.com/wp-content/uploads/2021/07/propriedades-de-um-losango.png",
+                "largura": 130,
+                "altura": 100
+              },                  
+              "alternativas": [
+                "Losango",
+                "Quadrado",
+                "Paralelogramo",
+                "Trapézio"
+              ],
+              "alternativa_correta": 0
+            },
+            {
+              "pergunta": "O nome do quadriláteros a seguir é:",
+              "imagem": {
+                "url": "https://static.mundoeducacao.uol.com.br/mundoeducacao/conteudo/angulos-de-um-paralelogramo.jpg",
+                "largura": 135,
+                "altura": 100
+              },                  
+              "alternativas": [
+                "Losango",
+                "Quadrado",
+                "Paralelogramo",
+                "Trapézio"
+              ],
+              "alternativa_correta": 2
+            },
+            {
+              "pergunta": "O quadriláteros tem o nome de:",
+              "imagem": {
+                "url": "https://escolaeducacao.com.br/wp-content/uploads/2020/02/calcular-area-do-retangulo.png",
+                "largura": 95,
+                "altura": 100
+              },                  
+              "alternativas": [
+                "Losango",
+                "Quadrado",
+                "Trapézio",
+                "Retângulo"
+              ],
+              "alternativa_correta": 3
+            },
+            {
+              "pergunta": "A figura a seguir é um:",
+              "imagem": {
+                "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeTA9FW7I19VmRchmSyxljnIpIWnffylTJWXHnzrkxaichxeGw3KyAuD5oYAfV0sz3HYg&usqp=CAU",
+                "largura": 95,
+                "altura": 100
+              },                  
+              "alternativas": [
+                "Representação",
+                "Planificação",
+                "Bifurcação",
+                "Desmontagem"
+              ],
+              "alternativa_correta": 1
+            }
+          ]
         }
       }
     },
