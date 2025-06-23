@@ -2837,16 +2837,6 @@
               "alternativa_correta": 3
             },
             {
-              "pergunta": "Um polígono com todos os lados iguais é chamado de:",
-              "alternativas": [
-                "Regular",
-                "Irregular",
-                "Simétrico",
-                "Equilátero"
-              ],
-              "alternativa_correta": 0
-            },
-            {
               "pergunta": "Qual figura NÃO é considerada um polígono?",
               "alternativas": [
                 "Quadrado",
@@ -2909,7 +2899,7 @@
                 "Isósceles",
                 "Nenhum"
               ],
-              "alternativa_correta": 0
+              "alternativa_correta": 2
             },
             {
               "pergunta": "Esse tringulo é:",
@@ -3035,7 +3025,7 @@
               "pergunta": "O quadriláteros tem o nome de:",
               "imagem": {
                 "url": "https://escolaeducacao.com.br/wp-content/uploads/2020/02/calcular-area-do-retangulo.png",
-                "largura": 95,
+                "largura": 150,
                 "altura": 100
               },                  
               "alternativas": [
