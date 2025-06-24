@@ -791,210 +791,6 @@
               "alternativa_correta": 2
             }
           ]
-        },
-        "Capítulo 6 - Paisagens vegetais da Terra": {
-          "questoes": [
-            {
-              "pergunta": "Qual o termo utilizado para se referir ao grupo de plantas que compõem uma determinada região?",
-              "alternativas": [
-                "Fauna",
-                "Flora",
-                "Fungos",
-                "Verduras"
-              ],
-              "alternativa_correta": 1
-            },
-            {
-              "pergunta": "O que é definido como agrupamento de tipos de vegetação próximos, com condições de geologia e clima semelhantes?",
-              "alternativas": [
-                "Plantas",
-                "Animais",
-                "Bioma",
-                "Vegetação"
-              ],
-              "alternativa_correta": 2
-            },
-            {
-              "pergunta": "São ecossistemas intermediários entre florestas e pradarias, com árvores dispersas e gramíneas. Que vegetação é essa?",
-              "alternativas": [
-                "Savanas",
-                "Floresta tropical",
-                "Pampa",
-                "Caatinga"
-              ],
-              "alternativa_correta": 0
-            },
-            {
-              "pergunta": "Qual é a vegetação típica de regiões com as quatro estações bem definidas?",
-              "alternativas": [
-                "Floresta tropical",
-                "Floresta temperada",
-                "Floresta de coníferas",
-                "Cerrado"
-              ],
-              "alternativa_correta": 1
-            },
-            {
-              "pergunta": "Árvores com folhas em forma de agulha para evitar o acúmulo de neve são típicas de qual floresta?",
-              "alternativas": [
-                "Floresta tropical",
-                "Floresta temperada",
-                "Floresta de coníferas",
-                "Mata Atlântica"
-              ],
-              "alternativa_correta": 2
-            },
-            {
-              "pergunta": "Quais são os seis biomas brasileiros além da Amazônia?",
-              "alternativas": [
-                "Savana, Cerrado, Caatinga, Pampa e Pantanal",
-                "Deserto, Cerrado, Caatinga, Pantanal e Tundra",
-                "Tundra, Mata Atlântica, Cerrado, Caatinga e Pampa",
-                "Mata Atlântica, Cerrado, Caatinga, Pampa e Pantanal"
-              ],
-              "alternativa_correta": 3
-            },
-            {
-              "pergunta": "Um exemplo de floresta tropical é:",
-              "alternativas": [
-                "Floresta temperada",
-                "Floresta Amazônica",
-                "Cerrado",
-                "Caatinga"
-              ],
-              "alternativa_correta": 1
-            },
-            {
-              "pergunta": "Os animais como onça-pintada, arara e macaco são típicos de qual vegetação?",
-              "alternativas": [
-                "Savana",
-                "Caatinga",
-                "Amazônia",
-                "Lagoas"
-              ],
-              "alternativa_correta": 2
-            },
-            {
-              "pergunta": "Qual é o bioma exclusivamente brasileiro conhecido como \"mata branca\"?",
-              "alternativas": [
-                "Caatinga",
-                "Mata Atlântica",
-                "Amazônia",
-                "Cerrado"
-              ],
-              "alternativa_correta": 0
-            },
-            {
-              "pergunta": "Qual função é desempenhada pelas plantas no ecossistema?",
-              "alternativas": [
-                "Poluição do solo",
-                "Absorção de dióxido de carbono",
-                "Absorção de enxofre",
-                "Produção de impurezas"
-              ],
-              "alternativa_correta": 1
-            },
-            {
-              "pergunta": "Qual vegetação é representada por clima seco e presença de cactos e árvores espinhosas?",
-              "alternativas": [
-                "Caatinga",
-                "Planalto",
-                "Deserto",
-                "Vegetação"
-              ],
-              "alternativa_correta": 0
-            },
-            {
-              "pergunta": "Florestas exuberantes e densas com chuvas abundantes e temperatura quente o ano todo caracterizam qual vegetação?",
-              "alternativas": [
-                "Caatinga",
-                "Amazônia",
-                "Deserto",
-                "Cacto"
-              ],
-              "alternativa_correta": 1
-            },
-            {
-              "pergunta": "Qual floresta é típica de climas frios e possui árvores como pinheiros com folhas em forma de agulha?",
-              "alternativas": [
-                "Floresta tropical",
-                "Floresta temperada",
-                "Floresta de coníferas",
-                "Cerrado"
-              ],
-              "alternativa_correta": 2
-            },
-            {
-              "pergunta": "O bioma com vegetação rasteira, predominante no sul do Brasil, é conhecido como:",
-              "alternativas": [
-                "Amazônia",
-                "Caatinga",
-                "Mata Atlântica",
-                "Pampa"
-              ],
-              "alternativa_correta": 3
-            },
-            {
-              "pergunta": "O Pantanal é caracterizado principalmente por:",
-              "alternativas": [
-                "Árvores tortuosas",
-                "Áreas alagadas",
-                "Clima árido",
-                "Florestas densas"
-              ],
-              "alternativa_correta": 1
-            },
-            {
-              "pergunta": "Qual das vegetações a seguir está associada à linha do Equador, com alta umidade e biodiversidade?",
-              "alternativas": [
-                "Floresta temperada",
-                "Cerrado",
-                "Floresta Tropical",
-                "Caatinga"
-              ],
-              "alternativa_correta": 2
-            },
-            {
-              "pergunta": "O bioma brasileiro com vegetação de savana tropical e árvores de pequeno porte é o:",
-              "alternativas": [
-                "Amazônia",
-                "Mata Atlântica",
-                "Caatinga",
-                "Cerrado"
-              ],
-              "alternativa_correta": 3
-            },
-            {
-              "pergunta": "A vegetação típica de regiões áridas e semiáridas, com escassez de chuvas, é encontrada em:",
-              "alternativas": [
-                "Deserto",
-                "Pantanal",
-                "Cerrado",
-                "Amazônia"
-              ],
-              "alternativa_correta": 0
-            },
-            {
-              "pergunta": "A Mata Atlântica foi amplamente desmatada ao longo dos anos. Onde ela se localiza predominantemente?",
-              "alternativas": [
-                "Norte do Brasil",
-                "Leste do Brasil",
-                "Centro-Oeste",
-                "Sul do Brasil"
-              ],
-              "alternativa_correta": 1
-            },
-            {
-              "pergunta": "O que torna a Amazônia tão importante em termos de biodiversidade?",
-              "alternativas": [
-                "Sua localização equatorial",
-                "Suas árvores de folhas caducas",
-                "Sua variedade de espécies",
-                "Sua altitude elevada"
-              ],
-              "alternativa_correta": 2
-            }
-          ]
         }
       }
     },
@@ -2227,210 +2023,6 @@
               "alternativa_correta": 0
             }
           ]
-        },
-        "6 - Hebreus": {
-          "questoes": [
-            {
-              "pergunta": "Quem foi o patriarca considerado o pai do povo hebreu, segundo a tradição bíblica?",
-              "alternativas": [
-                "Abraão",
-                "Jacó",
-                "Moisés",
-                "Salomão"
-              ],
-              "alternativa_correta": 0
-            },
-            {
-              "pergunta": "Qual desses eventos marcou o retorno dos hebreus à Palestina após a escravidão no Egito?",
-              "alternativas": [
-                "Cisma",
-                "Diáspora",
-                "Êxodo",
-                "Exílio da Babilônia"
-              ],
-              "alternativa_correta": 2
-            },
-            {
-              "pergunta": "O rei que sucedeu Davi, conhecido por sua sabedoria e por ter construído o Templo de Jerusalém, foi:",
-              "alternativas": [
-                "Jacó",
-                "Salomão",
-                "Roboão",
-                "Nabucodonosor"
-              ],
-              "alternativa_correta": 1
-            },
-            {
-              "pergunta": "A Torá é composta por quantos livros e qual a sua importância?",
-              "alternativas": [
-                "Contém 7 livros e serve como registro da genealogia hebraica",
-                "É um livro sagrado muçulmano",
-                "É o livro de cânticos usados pelos hebreus",
-                "Contém 5 livros e reúne as leis e tradições religiosas hebraicas"
-              ],
-              "alternativa_correta": 3
-            },
-            {
-              "pergunta": "Como era a estrutura social dos hebreus?",
-              "alternativas": [
-                "Baseada na igualdade entre todos",
-                "Patriarcal, com chefia exercida por homens mais velhos",
-                "Matriarcal, liderada por mulheres",
-                "Feudal, com senhores e vassalos"
-              ],
-              "alternativa_correta": 1
-            },
-            {
-              "pergunta": "O que foi o “Cativeiro da Babilônia”?",
-              "alternativas": [
-                "Período em que os hebreus foram levados à Babilônia após invasão",
-                "A fuga do Egito liderada por Moisés",
-                "A dispersão dos hebreus pelo Império Romano",
-                "Período de governo de Salomão"
-              ],
-              "alternativa_correta": 0
-            },
-            {
-              "pergunta": "O Reino de Israel foi conquistado por qual império?",
-              "alternativas": [
-                "Egípcio",
-                "Romano",
-                "Assírio",
-                "Persa"
-              ],
-              "alternativa_correta": 2
-            },
-            {
-              "pergunta": "Durante o domínio romano, o templo de Jerusalém foi destruído. Isso levou a:",
-              "alternativas": [
-                "Diáspora, ou dispersão dos hebreus pelo mundo",
-                "Êxodo para a Babilônia",
-                "Criação do Reino de Judá",
-                "União das tribos hebraicas novamente"
-              ],
-              "alternativa_correta": 0
-            },
-            {
-              "pergunta": "Quem foi Moisés para os hebreus?",
-              "alternativas": [
-                "Rei do Reino de Judá",
-                "Líder que libertou os hebreus do Egito e recebeu os Dez Mandamentos",
-                "Patriarca da Babilônia",
-                "Fundador de Jerusalém"
-              ],
-              "alternativa_correta": 1
-            },
-            {
-              "pergunta": "O que representa o Sabá (ou Shabat) na tradição hebraica?",
-              "alternativas": [
-                "Celebração da chegada da primavera",
-                "Festa em honra aos patriarcas",
-                "Data do Ano Novo Judaico",
-                "Dia sagrado de descanso e oração semanal"
-              ],
-              "alternativa_correta": 3
-            },
-            {
-              "pergunta": "O povo que provocou a dispersão dos hebreus no século II e o povo que manteve o confronto com os israelenses desde 1948 são, respectivamente:",
-              "alternativas": [
-                "os romanos e os palestinos",
-                "os gregos e os egípcios",
-                "os babilônios e os persas",
-                "os persas e os fenícios"
-              ],
-              "alternativa_correta": 0
-            },
-            {
-              "pergunta": "O que significa dizer que a sociedade hebraica era patriarcal? E quem foram os três primeiros patriarcas hebreus?",
-              "alternativas": [
-                "Era uma sociedade governada por reis e sacerdotes.",
-                "O líder da família cuidava dos bens e condução da família. Patriarcas: Abraão, Isaque e Jacó.",
-                "Os patriarcas eram reis que dominaram a região da Mesopotâmia.",
-                "Sociedade com mulheres no poder. Patriarcas: Sara, Débora e Rebeca."
-              ],
-              "alternativa_correta": 1
-            },
-            {
-              "pergunta": "Sobre a divisão dos reinos hebraicos após a morte de Salomão, é correto afirmar:",
-              "alternativas": [
-                "Todo o reino foi unificado sob o governo de Nabucodonosor.",
-                "As tribos do norte formaram o Reino de Judá e as do sul o Reino de Israel.",
-                "O Reino de Israel era composto por 10 tribos e o de Judá por 2 tribos.",
-                "O reino permaneceu unificado até a chegada dos romanos."
-              ],
-              "alternativa_correta": 2
-            },
-            {
-              "pergunta": "O que foi o Êxodo para os hebreus e qual a causa da cisma hebraica?",
-              "alternativas": [
-                "A divisão do reino por influência dos egípcios e o retorno à Babilônia.",
-                "A saída do Egito rumo à terra prometida; a cisma ocorreu após Roboão recusar reduzir impostos.",
-                "A fuga da Babilônia por causa dos romanos.",
-                "A divisão causada por guerras com os filisteus."
-              ],
-              "alternativa_correta": 1
-            },
-            {
-              "pergunta": "Sobre a religião hebraica, assinale a correta definição de monoteísmo:",
-              "alternativas": [
-                "A crença em vários deuses com funções diferentes.",
-                "A crença na natureza como divindade suprema.",
-                "A crença na existência de um único Deus e na necessidade de adorá-lo.",
-                "A adoração de figuras mitológicas como semideuses."
-              ],
-              "alternativa_correta": 2
-            },
-            {
-              "pergunta": "Qual a importância das datas comemorativas Pessach, Yom Kippur e da Cabala para os hebreus?",
-              "alternativas": [
-                "Pessach: libertação do Egito; Yom Kippur: Dia do Perdão; Cabala: tradição mística.",
-                "Pessach: adoração a deuses; Yom Kippur: festival agrícola; Cabala: lei judaica.",
-                "Pessach: criação do mundo; Yom Kippur: juízo final; Cabala: calendário lunar.",
-                "Pessach: ano novo; Yom Kippur: jejum; Cabala: orações diárias."
-              ],
-              "alternativa_correta": 0
-            },
-            {
-              "pergunta": "Sobre a cultura hebraica, o que ela valorizava? E como era sua economia?",
-              "alternativas": [
-                "Cultura voltada à guerra e economia baseada no comércio marítimo.",
-                "Economia baseada na mineração e cultura politeísta.",
-                "Cultura científica e economia urbana.",
-                "Cultura religiosa monoteísta e economia baseada em agricultura, pecuária e artesanato."
-              ],
-              "alternativa_correta": 3
-            },
-            {
-              "pergunta": "Como se chama o livro sagrado dos hebreus? E quem são os descendentes desse povo nos dias atuais?",
-              "alternativas": [
-                "Bíblia Cristã; hoje são chamados de babilônios e egípcios.",
-                "Talmude; descendem dos árabes e romanos.",
-                "Torá; atualmente são israelenses e judeus.",
-                "Evangelho; chamados hoje de muçulmanos e cristãos."
-              ],
-              "alternativa_correta": 2
-            },
-            {
-              "pergunta": "O que caracterizou a Era dos Juízes entre os hebreus?",
-              "alternativas": [
-                "Período de reis absolutos comandando o povo hebreu.",
-                "Chefes militares com autoridade política e religiosa, como Sansão e Débora.",
-                "Período de anarquia sem liderança definida.",
-                "Época de construção de grandes templos com influência grega."
-              ],
-              "alternativa_correta": 1
-            },
-            {
-              "pergunta": "Como, segundo a tradição, surgiram os povos árabes?",
-              "alternativas": [
-                "A partir dos descendentes de Ismael e Esaú, que foram viver no deserto.",
-                "Através de conflitos entre egípcios e hebreus pelo controle de Canaã.",
-                "Após a queda de Jerusalém, migraram para a Arábia e formaram tribos.",
-                "Descendentes de Moisés que não seguiram a Torá."
-              ],
-              "alternativa_correta": 0
-            }
-          ]
         }
       }
     },
@@ -3300,7 +2892,7 @@
                 "url": "https://static.todamateria.com.br/upload/im/ag/image-686.jpg",
                 "largura": 95,
                 "altura": 100
-              },
+              },                
               "alternativas": [
                 "Equilátero",
                 "Escaleno",
@@ -3315,7 +2907,7 @@
                 "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfVrwxb4Lw-8kqhCtm3gQnZiDCViLPl-Cx7w&s",
                 "largura": 95,
                 "altura": 100
-              },
+              },                  
               "alternativas": [
                 "Equilátero",
                 "Escaleno",
@@ -3330,7 +2922,7 @@
                 "url": "https://escolaeducacao.com.br/wp-content/uploads/2020/06/triangulo-escaleno.png",
                 "largura": 120,
                 "altura": 110
-              },
+              },                
               "alternativas": [
                 "Equilátero",
                 "Nenhum",
@@ -3345,7 +2937,7 @@
                 "url": "https://s2.static.brasilescola.uol.com.br/be/2020/06/1-triangulo-acutangulo.jpg",
                 "largura": 120,
                 "altura": 110
-              },
+              },                
               "alternativas": [
                 "Retângulo",
                 "Acutângulo",
@@ -3360,7 +2952,7 @@
                 "url": "https://br.neurochispas.com/wp-content/uploads/2021/07/Triangulo-retangulo-isosceles-2.png",
                 "largura": 95,
                 "altura": 100
-              },
+              },                   
               "alternativas": [
                 "Retângulo",
                 "Acutângulo",
@@ -3375,7 +2967,7 @@
                 "url": "https://escolaeducacao.com.br/wp-content/uploads/2020/06/triangulo-obtusangulo.png",
                 "largura": 130,
                 "altura": 120
-              },
+              },                
               "alternativas": [
                 "Retângulo",
                 "Acutângulo",
@@ -3390,7 +2982,7 @@
                 "url": "https://static.escolakids.uol.com.br/2022/09/trapezio-isosceles.png",
                 "largura": 110,
                 "altura": 100
-              },
+              },                  
               "alternativas": [
                 "Losango",
                 "Quadrado",
@@ -3405,7 +2997,7 @@
                 "url": "https://br.neurochispas.com/wp-content/uploads/2021/07/propriedades-de-um-losango.png",
                 "largura": 130,
                 "altura": 100
-              },
+              },                  
               "alternativas": [
                 "Losango",
                 "Quadrado",
@@ -3420,7 +3012,7 @@
                 "url": "https://static.mundoeducacao.uol.com.br/mundoeducacao/conteudo/angulos-de-um-paralelogramo.jpg",
                 "largura": 135,
                 "altura": 100
-              },
+              },                  
               "alternativas": [
                 "Losango",
                 "Quadrado",
@@ -3435,7 +3027,7 @@
                 "url": "https://escolaeducacao.com.br/wp-content/uploads/2020/02/calcular-area-do-retangulo.png",
                 "largura": 150,
                 "altura": 100
-              },
+              },                  
               "alternativas": [
                 "Losango",
                 "Quadrado",
@@ -3450,7 +3042,7 @@
                 "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeTA9FW7I19VmRchmSyxljnIpIWnffylTJWXHnzrkxaichxeGw3KyAuD5oYAfV0sz3HYg&usqp=CAU",
                 "largura": 95,
                 "altura": 100
-              },
+              },                  
               "alternativas": [
                 "Representação",
                 "Planificação",
@@ -3458,46 +3050,6 @@
                 "Desmontagem"
               ],
               "alternativa_correta": 1
-            },
-            {
-              "pergunta": "Qual polígono possui exatamente 5 lados?",
-              "alternativas": [
-                "Quadrilátero",
-                "Hexágono",
-                "Pentágono",
-                "Decágono"
-              ],
-              "alternativa_correta": 2
-            },
-            {
-              "pergunta": "Um polígono com 8 ângulos é chamado de:",
-              "alternativas": [
-                "Heptágono",
-                "Eneágono",
-                "Decágono",
-                "Octógono"
-              ],
-              "alternativa_correta": 3
-            },
-            {
-              "pergunta": "Qual é o nome correto para um polígono de 10 lados?",
-              "alternativas": [
-                "Decágono",
-                "Nonágono",
-                "Undecágono",
-                "Dodecágono"
-              ],
-              "alternativa_correta": 0
-            },
-            {
-              "pergunta": "Um polígono com 6 lados congruentes é um:",
-              "alternativas": [
-                "Pentágono",
-                "Heptágono",
-                "Hexágono",
-                "Octógono"
-              ],
-              "alternativa_correta": 2
             }
           ]
         }
