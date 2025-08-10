@@ -2033,6 +2033,300 @@
               "alternativa_correta": 3
             }
           ]
+        },
+        "Capítulo 7 - Vida: Um quebra-cabeça com muitas peças": {
+          "questoes": [
+            {
+              "pergunta": "Qual das seguintes NÃO é uma característica dos seres vivos?",
+              "alternativas": [
+                "Nascer, crescer e morrer",
+                "Realizar fotossíntese",
+                "Não necessitar de energia",
+                "Ser formado por células"
+              ],
+              "alternativa_correta": 2
+            },
+            {
+              "pergunta": "Quem descobriu as células em 1665?",
+              "alternativas": [
+                "Robert Hooke",
+                "Louis Pasteur",
+                "Charles Darwin",
+                "Gregor Mendel"
+              ],
+              "alternativa_correta": 0
+            },
+            {
+              "pergunta": "Qual organela é responsável pela produção de energia na célula?",
+              "alternativas": [
+                "Núcleo",
+                "Mitocôndria",
+                "Ribossomo",
+                "Complexo golgiense"
+              ],
+              "alternativa_correta": 1
+            },
+            {
+              "pergunta": "Qual a porcentagem aproximada de água no corpo humano?",
+              "alternativas": [
+                "0.3",
+                "0.5",
+                "0.6",
+                "0.7"
+              ],
+              "alternativa_correta": 3
+            },
+            {
+              "pergunta": "Qual estrutura NÃO existe em células vegetais?",
+              "alternativas": [
+                "Parede celular",
+                "Cloroplastos",
+                "Centríolos",
+                "Vacúolo"
+              ],
+              "alternativa_correta": 2
+            },
+            {
+              "pergunta": "O que diferencia bactérias de outros seres vivos?",
+              "alternativas": [
+                "Ausência de núcleo definido",
+                "Presença de mitocôndrias",
+                "Incapacidade de reprodução",
+                "Formato esférico"
+              ],
+              "alternativa_correta": 0
+            },
+            {
+              "pergunta": "Qual organela contém o material genético?",
+              "alternativas": [
+                "Mitocôndria",
+                "Núcleo",
+                "Ribossomo",
+                "Lisossomo"
+              ],
+              "alternativa_correta": 1
+            },
+            {
+              "pergunta": "Qual o processo pelo qual plantas produzem alimento?",
+              "alternativas": [
+                "Fotossíntese",
+                "Respiração celular",
+                "Digestão",
+                "Fermentação"
+              ],
+              "alternativa_correta": 0
+            },
+            {
+              "pergunta": "Qual destes NÃO é um componente necessário para a fotossíntese?",
+              "alternativas": [
+                "Luz solar",
+                "Água",
+                "Gás carbônico",
+                "Oxigênio"
+              ],
+              "alternativa_correta": 3
+            },
+            {
+              "pergunta": "Qual a função dos ribossomos?",
+              "alternativas": [
+                "Produzir energia",
+                "Armazenar nutrientes",
+                "Produzir proteínas",
+                "Digerir partículas"
+              ],
+              "alternativa_correta": 2
+            },
+            {
+              "pergunta": "Como são classificados os seres humanos quanto ao número de células?",
+              "alternativas": [
+                "Unicelulares",
+                "Pluricelulares",
+                "Acelulares",
+                "Mesocelulares"
+              ],
+              "alternativa_correta": 1
+            },
+            {
+              "pergunta": "Qual destes é um exemplo de ser unicelular?",
+              "alternativas": [
+                "Bactéria",
+                "Árvore",
+                "Cachorro",
+                "Ser humano"
+              ],
+              "alternativa_correta": 0
+            },
+            {
+              "pergunta": "O que os vírus precisam para se reproduzir?",
+              "alternativas": [
+                "Luz solar",
+                "Água",
+                "Nutrientes",
+                "Células hospedeiras"
+              ],
+              "alternativa_correta": 3
+            },
+            {
+              "pergunta": "Qual organela é responsável pela digestão intracelular?",
+              "alternativas": [
+                "Retículo endoplasmático",
+                "Complexo golgiense",
+                "Lisossomo",
+                "Vacúolo"
+              ],
+              "alternativa_correta": 2
+            },
+            {
+              "pergunta": "Qual a função da membrana plasmática?",
+              "alternativas": [
+                "Produzir energia",
+                "Controlar entrada/saída de substâncias",
+                "Armazenar DNA",
+                "Realizar fotossíntese"
+              ],
+              "alternativa_correta": 1
+            },
+            {
+              "pergunta": "Qual destes é um exemplo de bactéria benéfica?",
+              "alternativas": [
+                "Salmonella",
+                "Escherichia coli",
+                "Streptococcus",
+                "Lactobacilos"
+              ],
+              "alternativa_correta": 3
+            },
+            {
+              "pergunta": "O que a parede celular das plantas contém?",
+              "alternativas": [
+                "Celulose",
+                "Quitina",
+                "Proteínas",
+                "Lipídios"
+              ],
+              "alternativa_correta": 0
+            },
+            {
+              "pergunta": "Qual organela é exclusiva das células vegetais?",
+              "alternativas": [
+                "Mitocôndria",
+                "Núcleo",
+                "Cloroplasto",
+                "Ribossomo"
+              ],
+              "alternativa_correta": 2
+            },
+            {
+              "pergunta": "Qual a sequência correta da organização dos seres vivos?",
+              "alternativas": [
+                "Órgão → Tecido → Célula",
+                "Átomo → Molécula → Célula",
+                "Sistema → Órgão → Tecido",
+                "Organismo → Sistema → Célula"
+              ],
+              "alternativa_correta": 1
+            },
+            {
+              "pergunta": "Qual doença é causada pelo Trypanosoma cruzi?",
+              "alternativas": [
+                "Malária",
+                "Dengue",
+                "Tuberculose",
+                "Doença de Chagas"
+              ],
+              "alternativa_correta": 3
+            },
+            {
+              "pergunta": "O que as microvilosidades intestinais fazem?",
+              "alternativas": [
+                "Aumentam a absorção",
+                "Produzem enzimas",
+                "Armazenam nutrientes",
+                "Eliminam toxinas"
+              ],
+              "alternativa_correta": 0
+            },
+            {
+              "pergunta": "Qual microscópio tem maior poder de ampliação?",
+              "alternativas": [
+                "Óptico",
+                "De varredura",
+                "Eletrônico de transmissão",
+                "Estereoscópico"
+              ],
+              "alternativa_correta": 2
+            },
+            {
+              "pergunta": "O que os cloroplastos contêm?",
+              "alternativas": [
+                "DNA",
+                "Clorofila",
+                "Água",
+                "Proteínas"
+              ],
+              "alternativa_correta": 1
+            },
+            {
+              "pergunta": "Qual a função do complexo golgiense?",
+              "alternativas": [
+                "Produzir energia",
+                "Sintetizar proteínas",
+                "Armazenar DNA",
+                "Empacotar moléculas"
+              ],
+              "alternativa_correta": 3
+            },
+            {
+              "pergunta": "Como são chamados os \"tijolos\" dos seres vivos?",
+              "alternativas": [
+                "Células",
+                "Átomos",
+                "Moléculas",
+                "Tecidos"
+              ],
+              "alternativa_correta": 0
+            },
+            {
+              "pergunta": "Qual destes NÃO é um órgão vegetal?",
+              "alternativas": [
+                "Raiz",
+                "Caule",
+                "Flor",
+                "Mitocôndria"
+              ],
+              "alternativa_correta": 3
+            },
+            {
+              "pergunta": "O que determina o formato das células?",
+              "alternativas": [
+                "Membrana plasmática",
+                "Núcleo",
+                "Citoesqueleto",
+                "Ribossomos"
+              ],
+              "alternativa_correta": 2
+            },
+            {
+              "pergunta": "Qual destes é um vírus?",
+              "alternativas": [
+                "Lactobacilo",
+                "HIV",
+                "Trypanosoma",
+                "Ameba"
+              ],
+              "alternativa_correta": 1
+            },
+            {
+              "pergunta": "O que as plantas liberam durante a fotossíntese?",
+              "alternativas": [
+                "Oxigênio",
+                "Gás carbônico",
+                "Nitrogênio",
+                "Metano"
+              ],
+              "alternativa_correta": 0
+            }
+          ]
         }
       }
     },
