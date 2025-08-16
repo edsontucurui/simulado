@@ -2034,7 +2034,7 @@
             }
           ]
         },
-        "Capítulo 7 - Vida: Um quebra-cabeça com muitas peças": {
+        "7 - Vida: Um quebra-cabeça com muitas peças": {
           "questoes": [
             {
               "pergunta": "Qual das seguintes NÃO é uma característica dos seres vivos?",
@@ -2047,7 +2047,7 @@
               "alternativa_correta": 2
             },
             {
-              "pergunta": "Quem descobriu as células em 1665?",
+              "pergunta": "Quem descobriu as células?",
               "alternativas": [
                 "Robert Hooke",
                 "Louis Pasteur",
@@ -2307,6 +2307,46 @@
               "alternativa_correta": 2
             },
             {
+              "pergunta": "O que é nucleo da célula?",
+              "alternativas": [
+                "Localiza-se no interior da célula, abriga o material genético",
+                "Envolve as células e controla as substâncias que entram e saem delas",
+                "Região entre a membrana plasmática e o núcleo",
+                "Possui uma única célula"
+              ],
+              "alternativa_correta": 0
+            },
+            {
+              "pergunta": "O que é membrana plasmática?",
+              "alternativas": [
+                "Localiza-se no interior da célula, abriga o material genético",
+                "Envolve as células e controla as substâncias que entram e saem delas",
+                "Região entre a membrana plasmática e o núcleo",
+                "Material genético"
+              ],
+              "alternativa_correta": 1
+            },
+            {
+              "pergunta": "A bactérias é de qual reino?",
+              "alternativas": [
+                "Animal",
+                "Vegetal",
+                "Monera",
+                "Canibal"
+              ],
+              "alternativa_correta": 2
+            },
+            {
+              "pergunta": "O que é as células?",
+              "alternativas": [
+                "É a membrana plasmática",
+                "Procariontes",
+                "Estruturas vivas que compõem os seres vivos",
+                "Partículas não vivas"
+              ],
+              "alternativa_correta": 2
+            },
+            {
               "pergunta": "Qual destes é um vírus?",
               "alternativas": [
                 "Lactobacilo",
@@ -2317,6 +2357,26 @@
               "alternativa_correta": 1
             },
             {
+              "pergunta": "Importância das bactérias e suas funções:",
+              "alternativas": [
+                "Produção de Alimento, Produção de Cachorros, Biorremediação, Enegia Elétrica",
+                "Renovação de nitrogênio no ambiente, produção de alimentos e remedios, Desenvolvimento da engenharia genética e biorremedicação de ambientes",
+                "Renovação de nitrogênio no ambiente, produção de animais, engenharia de sistemas e biodiversidades",
+                "Não é importantes, pois são responsáveis por muitas doenças"
+              ],
+              "alternativa_correta": 1
+            },
+            {
+              "pergunta": "Quem descobriu as bactérias?",
+              "alternativas": [
+                "a Milk em 2025",
+                "Robert Hooke",
+                "Charles Darwin",
+                "Anton van Leeuwenhoek em 1683"
+              ],
+              "alternativa_correta": 3
+            },
+            {
               "pergunta": "O que as plantas liberam durante a fotossíntese?",
               "alternativas": [
                 "Oxigênio",
@@ -2325,6 +2385,112 @@
                 "Metano"
               ],
               "alternativa_correta": 0
+            },
+            {
+              "pergunta": "Quais são as partes principais da célula?",
+              "alternativas": [
+                "Membrana, citoplasma e núcleo",
+                "Parede celular, cloroplastos e vacúolo",
+                "Mitocôndrias, ribossomos e lisossomos",
+                "DNA, RNA e proteínas"
+              ],
+              "alternativa_correta": 0
+            },
+            {
+              "pergunta": "O que são seres pluricelulares ou multicelulares?",
+              "alternativas": [
+                "Seres com uma única célula",
+                "Seres formados por muitas células",
+                "Seres sem células",
+                "Seres que mudam de forma"
+              ],
+              "alternativa_correta": 1
+            },
+            {
+              "pergunta": "O que são seres unicelulares?",
+              "alternativas": [
+                "Seres com núcleo ausente",
+                "Seres com muitas células",
+                "Seres formados por uma única célula",
+                "Seres que realizam fotossíntese"
+              ],
+              "alternativa_correta": 2
+            },
+            {
+              "pergunta": "Células que não apresentam núcleo individualizado são:",
+              "alternativas": [
+                "Eucariontes",
+                "Vegetais",
+                "Animais",
+                "Procariontes"
+              ],
+              "alternativa_correta": 3
+            },
+            {
+              "pergunta": "Células com núcleo bem definido são:",
+              "alternativas": [
+                "Eucariontes",
+                "Procariontes",
+                "Bactérias",
+                "Vírus"
+              ],
+              "alternativa_correta": 0
+            },
+            {
+              "pergunta": "O que são bactérias?",
+              "alternativas": [
+                "Vírus complexos",
+                "Seres unicelulares procariontes",
+                "Organismos pluricelulares",
+                "Partículas não vivas"
+              ],
+              "alternativa_correta": 1
+            },
+            {
+              "pergunta": "Bactérias podem ser encontradas sozinhas ou em colônias?",
+              "alternativas": [
+                "VERDADEIRO",
+                "FALSO"
+              ],
+              "alternativa_correta": 0
+            },
+            {
+              "pergunta": "Bactérias podem ser prejudiciais ou úteis?",
+              "alternativas": [
+                "VERDADEIRO",
+                "FALSO"
+              ],
+              "alternativa_correta": 0
+            },
+            {
+              "pergunta": "O que são vírus?",
+              "alternativas": [
+                "Seres procariontes",
+                "Células completas",
+                "Agentes infecciosos acelulares",
+                "Organismos pluricelulares"
+              ],
+              "alternativa_correta": 2
+            },
+            {
+              "pergunta": "O que são parasitas específicos?",
+              "alternativas": [
+                "Vírus que atacam plantas",
+                "Bactérias benéficas",
+                "Fungos decompositores",
+                "Organismos que infectam hospedeiros determinados"
+              ],
+              "alternativa_correta": 3
+            },
+            {
+              "pergunta": "O que são parasitas obrigatórios?",
+              "alternativas": [
+                "Seres que vivem livremente",
+                "Seres que dependem de hospedeiros para sobreviver",
+                "Células independentes",
+                "Bactérias autotróficas"
+              ],
+              "alternativa_correta": 1
             }
           ]
         }
@@ -3375,6 +3541,320 @@
                 "He not is reading a book."
               ],
               "alternativa_correta": 0
+            }
+          ]
+        },
+        "5 - What makes champions": {
+          "questoes": [
+            {
+              "pergunta": "Qual esporte é jogado com uma raquete e uma bola pequena em uma mesa?",
+              "alternativas": [
+                "Baseball",
+                "Hockey",
+                "Ping-pong",
+                "Rugby"
+              ],
+              "alternativa_correta": 2
+            },
+            {
+              "pergunta": "Qual esporte envolve chutar uma bola em um campo grande?",
+              "alternativas": [
+                "Soccer",
+                "Basketball",
+                "Swimming",
+                "Cricket"
+              ],
+              "alternativa_correta": 0
+            },
+            {
+              "pergunta": "Qual adjetivo descreve alguém que tem 1,90m de altura?",
+              "alternativas": [
+                "Short",
+                "Tall",
+                "Thin",
+                "Sad"
+              ],
+              "alternativa_correta": 1
+            },
+            {
+              "pergunta": "Qual é a forma correta do possessive case em \"The book of Maria\"?",
+              "alternativas": [
+                "Marias book",
+                "Marias' book",
+                "Maria's book",
+                "The book of Maria's"
+              ],
+              "alternativa_correta": 2
+            },
+            {
+              "pergunta": "Como se escreve \"os sapatos do João\" no possessive case?",
+              "alternativas": [
+                "Joãos shoes",
+                "João's shoes",
+                "Joãos' shoes",
+                "The shoes of João"
+              ],
+              "alternativa_correta": 1
+            },
+            {
+              "pergunta": "Qual é o terceiro mês do ano em inglês?",
+              "alternativas": [
+                "January",
+                "February",
+                "March",
+                "April"
+              ],
+              "alternativa_correta": 0
+            },
+            {
+              "pergunta": "Qual mês vem antes de \"September\"?",
+              "alternativas": [
+                "July",
+                "October",
+                "November",
+                "August"
+              ],
+              "alternativa_correta": 3
+            },
+            {
+              "pergunta": "Qual frase está no simple present?",
+              "alternativas": [
+                "She is playing tennis.",
+                "She plays tennis every weekend.",
+                "She played tennis yesterday.",
+                "She will play tennis tomorrow."
+              ],
+              "alternativa_correta": 1
+            },
+            {
+              "pergunta": "Qual frase usa o simple present corretamente?",
+              "alternativas": [
+                "They swimming every day.",
+                "They swim every day.",
+                "They are swim every day.",
+                "They swam every day."
+              ],
+              "alternativa_correta": 0
+            },
+            {
+              "pergunta": "Qual esporte NÃO é mencionado no word search do capítulo?",
+              "alternativas": [
+                "Cricket",
+                "Roller skating",
+                "Golf",
+                "Baseball"
+              ],
+              "alternativa_correta": 2
+            },
+            {
+              "pergunta": "Qual adjetivo descreve alguém que sabe muito sobre livros?",
+              "alternativas": [
+                "Funny",
+                "Smart",
+                "Fit",
+                "Excited"
+              ],
+              "alternativa_correta": 1
+            },
+            {
+              "pergunta": "Qual é a forma correta do possessive case em \"The car of my parents\"?",
+              "alternativas": [
+                "My parents car",
+                "My parent's car",
+                "My parents's car",
+                "My parents' car"
+              ],
+              "alternativa_correta": 3
+            },
+            {
+              "pergunta": "Qual mês é abreviado como \"AUG\"?",
+              "alternativas": [
+                "April",
+                "August",
+                "October",
+                "December"
+              ],
+              "alternativa_correta": 0
+            },
+            {
+              "pergunta": "Qual esporte é jogado com um bastão e uma bola pequena?",
+              "alternativas": [
+                "Volleyball",
+                "Soccer",
+                "Hockey",
+                "Baseball"
+              ],
+              "alternativa_correta": 3
+            },
+            {
+              "pergunta": "Qual é a forma correta do possessive case em \"The bike of the children\"?",
+              "alternativas": [
+                "The childrens bike",
+                "The children's bike",
+                "The childrens' bike",
+                "The bike of the children's"
+              ],
+              "alternativa_correta": 1
+            },
+            {
+              "pergunta": "Qual mês tem o menor número de dias?",
+              "alternativas": [
+                "January",
+                "February",
+                "April",
+                "June"
+              ],
+              "alternativa_correta": 0
+            },
+            {
+              "pergunta": "Qual estação é associada a \"snow\" e \"cold weather\"?",
+              "alternativas": [
+                "Summer",
+                "Spring",
+                "Autumn",
+                "Winter"
+              ],
+              "alternativa_correta": 3
+            },
+            {
+              "pergunta": "Qual esporte é individual e praticado em piscinas?",
+              "alternativas": [
+                "Soccer",
+                "Basketball",
+                "Baseball",
+                "Swimming"
+              ],
+              "alternativa_correta": 0
+            },
+            {
+              "pergunta": "Qual adjetivo descreve alguém que está sempre sorrindo?",
+              "alternativas": [
+                "Sad",
+                "Angry",
+                "Tired",
+                "Happy"
+              ],
+              "alternativa_correta": 3
+            },
+            {
+              "pergunta": "Qual é a forma correta do possessive case em \"The shoes of Lucas\"?",
+              "alternativas": [
+                "Lucas shoes",
+                "Lucas's shoes",
+                "Lucases shoes",
+                "The shoes of Lucas's"
+              ],
+              "alternativa_correta": 1
+            },
+            {
+              "pergunta": "Qual esporte usa uma bola pequena e mesa dividida por rede?",
+              "alternativas": [
+                "Tennis",
+                "Volleyball",
+                "Ping-pong",
+                "Basketball"
+              ],
+              "alternativa_correta": 2
+            },
+            {
+              "pergunta": "Qual adjetivo descreve alguém que tem 1,50m de altura?",
+              "alternativas": [
+                "Short",
+                "Tall",
+                "Thin",
+                "Young"
+              ],
+              "alternativa_correta": 1
+            },
+            {
+              "pergunta": "Qual adjetivo completa: \"She reads books every day. She is very ______.\"",
+              "alternativas": [
+                "Funny",
+                "Angry",
+                "Smart",
+                "Tired"
+              ],
+              "alternativa_correta": 2
+            },
+            {
+              "pergunta": "Qual é o possessive case correto de \"The bike of Lucas\"?",
+              "alternativas": [
+                "Lucas's bike",
+                "Lucas bike",
+                "Lucases bike",
+                "Bike of Lucas"
+              ],
+              "alternativa_correta": 0
+            },
+            {
+              "pergunta": "Como se diz \"os sapatos da Maria\" em inglês (possessive case)?",
+              "alternativas": [
+                "Marias shoes",
+                "Maria shoes",
+                "Marias' shoes",
+                "Maria's shoes"
+              ],
+              "alternativa_correta": 3
+            },
+            {
+              "pergunta": "Qual mês vem antes de \"July\"?",
+              "alternativas": [
+                "May",
+                "June",
+                "August",
+                "April"
+              ],
+              "alternativa_correta": 1
+            },
+            {
+              "pergunta": "Qual mês é abreviado como \"SEP\"?",
+              "alternativas": [
+                "August",
+                "October",
+                "September",
+                "November"
+              ],
+              "alternativa_correta": 2
+            },
+            {
+              "pergunta": "Qual é o possessive case correto de \"The books of the students\"?",
+              "alternativas": [
+                "The students books",
+                "The student's books",
+                "The students's books",
+                "The students' books"
+              ],
+              "alternativa_correta": 3
+            },
+            {
+              "pergunta": "Qual esporte é individual e usa raquete?",
+              "alternativas": [
+                "Basketball",
+                "Soccer",
+                "Swimming",
+                "Tennis"
+              ],
+              "alternativa_correta": 3
+            },
+            {
+              "pergunta": "Qual é o possessive case correto de \"The car of my parents\"?",
+              "alternativas": [
+                "My parents car",
+                "My parent's car",
+                "My parents' car",
+                "The car of my parents's"
+              ],
+              "alternativa_correta": 2
+            },
+            {
+              "pergunta": "Qual mês tem apenas 28 dias (ou 29 em anos bissextos)?",
+              "alternativas": [
+                "January",
+                "February",
+                "April",
+                "June"
+              ],
+              "alternativa_correta": 1
             }
           ]
         }
