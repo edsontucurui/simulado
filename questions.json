@@ -4634,6 +4634,428 @@
           ]
         }
       }
+    },
+    "Português": {
+      "capitulo": {
+        "5 - Amar é preciso": {
+          "questoes": [
+            {
+              "pergunta": "Qual palavra é um advérbio de tempo na frase: \"Ela chegou cedo hoje.\"?",
+              "alternativas": [
+                "cedo",
+                "chegou",
+                "hoje",
+                "ela"
+              ],
+              "alternativa_correta": 0
+            },
+            {
+              "pergunta": "Em \"O pássaro voou lentamente\", o advérbio indica:",
+              "alternativas": [
+                "Lugar",
+                "Modo",
+                "Tempo",
+                "Negação"
+              ],
+              "alternativa_correta": 1
+            },
+            {
+              "pergunta": "Qual advérbio completa: \"Ele agiu ______ para resolver o problema.\"?",
+              "alternativas": [
+                "feliz",
+                "rápido",
+                "rapidamente",
+                "rapidez"
+              ],
+              "alternativa_correta": 2
+            },
+            {
+              "pergunta": "\"Aqui\" é um advérbio de:",
+              "alternativas": [
+                "Lugar",
+                "Tempo",
+                "Modo",
+                "Intensidade"
+              ],
+              "alternativa_correta": 0
+            },
+            {
+              "pergunta": "Qual palavra NÃO é um advérbio?",
+              "alternativas": [
+                "devagar",
+                "sempre",
+                "muito",
+                "felicidade"
+              ],
+              "alternativa_correta": 3
+            },
+            {
+              "pergunta": "Qual conjunto forma um campo lexical de \"floresta\"?",
+              "alternativas": [
+                "rio, peixe, barco",
+                "avião, piloto, nuvem",
+                "árvore, animal, folha",
+                "livro, página, caneta"
+              ],
+              "alternativa_correta": 2
+            },
+            {
+              "pergunta": "Qual palavra faz parte da família de \"mar\"?",
+              "alternativas": [
+                "montanha",
+                "nuvem",
+                "sol",
+                "marinho"
+              ],
+              "alternativa_correta": 3
+            },
+            {
+              "pergunta": "Qual palavra NÃO pertence à família de \"correr\"?",
+              "alternativas": [
+                "corrida",
+                "coragem",
+                "corredor",
+                "correndo"
+              ],
+              "alternativa_correta": 1
+            },
+            {
+              "pergunta": "Em \"O vento soprava fortemente\", o advérbio indica:",
+              "alternativas": [
+                "Tempo",
+                "Lugar",
+                "Modo",
+                "Dúvida"
+              ],
+              "alternativa_correta": 2
+            },
+            {
+              "pergunta": "Qual advérbio de intensidade completa: \"Ela está ______ cansada.\"?",
+              "alternativas": [
+                "muito",
+                "aqui",
+                "depois",
+                "lentamente"
+              ],
+              "alternativa_correta": 0
+            },
+            {
+              "pergunta": "\"Talvez\" é um advérbio de:",
+              "alternativas": [
+                "Lugar",
+                "Modo",
+                "Tempo",
+                "Dúvida"
+              ],
+              "alternativa_correta": 3
+            },
+            {
+              "pergunta": "Qual frase contém um advérbio de negação?",
+              "alternativas": [
+                "Ele veio ontem.",
+                "Ela nunca mente.",
+                "Eles estão ali.",
+                "Choveu muito."
+              ],
+              "alternativa_correta": 1
+            },
+            {
+              "pergunta": "\"Livro, biblioteca, leitura\" formam um campo:",
+              "alternativas": [
+                "lexical",
+                "semântico",
+                "numérico",
+                "geográfico"
+              ],
+              "alternativa_correta": 0
+            },
+            {
+              "pergunta": "Qual palavra é derivada de \"paz\"?",
+              "alternativas": [
+                "pazão",
+                "pazinho",
+                "pazento",
+                "pacífico"
+              ],
+              "alternativa_correta": 3
+            },
+            {
+              "pergunta": "Qual conjunto pertence ao campo lexical de \"chuva\"?",
+              "alternativas": [
+                "sol, calor, verão",
+                "guarda-chuva, poça, temporal",
+                "neve, frio, inverno",
+                "vento, folha, outono"
+              ],
+              "alternativa_correta": 1
+            },
+            {
+              "pergunta": "\"Rápido\" e \"rapidamente\" são palavras da mesma:",
+              "alternativas": [
+                "campo semântico",
+                "classe gramatical",
+                "família",
+                "antônimos"
+              ],
+              "alternativa_correta": 2
+            },
+            {
+              "pergunta": "Qual advérbio completa: \"______, ele chegou atrasado.\"?",
+              "alternativas": [
+                "Infelizmente",
+                "Feliz",
+                "Rápido",
+                "Bonito"
+              ],
+              "alternativa_correta": 0
+            },
+            {
+              "pergunta": "\"Amanhã\" é um advérbio de:",
+              "alternativas": [
+                "Modo",
+                "Tempo",
+                "Lugar",
+                "Intensidade"
+              ],
+              "alternativa_correta": 1
+            },
+            {
+              "pergunta": "Qual palavra NÃO faz parte da família de \"cantar\"?",
+              "alternativas": [
+                "cantor",
+                "canção",
+                "canteiro",
+                "encantar"
+              ],
+              "alternativa_correta": 3
+            },
+            {
+              "pergunta": "Qual frase contém um advérbio de lugar?",
+              "alternativas": [
+                "Eles moram ali.",
+                "Ela sorriu docemente.",
+                "Talvez chova amanhã.",
+                "Ele trabalha muito."
+              ],
+              "alternativa_correta": 0
+            },
+            {
+              "pergunta": "\"Docemente\" é um advérbio de:",
+              "alternativas": [
+                "Modo",
+                "Tempo",
+                "Lugar",
+                "Intensidade"
+              ],
+              "alternativa_correta": 0
+            },
+            {
+              "pergunta": "Qual palavra faz parte da família de \"flor\"?",
+              "alternativas": [
+                "voar",
+                "folha",
+                "florescer",
+                "pedra"
+              ],
+              "alternativa_correta": 2
+            },
+            {
+              "pergunta": "\"Ontem\" é um advérbio de:",
+              "alternativas": [
+                "Tempo",
+                "Modo",
+                "Lugar",
+                "Dúvida"
+              ],
+              "alternativa_correta": 0
+            },
+            {
+              "pergunta": "Qual palavra é derivada de \"verdade\"?",
+              "alternativas": [
+                "verdão",
+                "VERDADEIRO",
+                "verdinho",
+                "verdejar"
+              ],
+              "alternativa_correta": 1
+            },
+            {
+              "pergunta": "Qual frase contém um advérbio de intensidade?",
+              "alternativas": [
+                "Ele chegou cedo.",
+                "Ela está ali.",
+                "Choveu bastante.",
+                "Talvez eles venham."
+              ],
+              "alternativa_correta": 2
+            }
+          ]
+        },
+        "4 - Amar é preciso": {
+          "questoes": [
+            {
+              "pergunta": "Qual conjunto forma um campo lexical de \"HOSPITAL\"?",
+              "alternativas": [
+                "médico, receita, farmácia",
+                "enfermeiro, maca, ambulância",
+                "professor, quadro, giz",
+                "pedreiro, cimento, tijolo"
+              ],
+              "alternativa_correta": 1
+            },
+            {
+              "pergunta": "Qual palavra NÃO pertence ao campo lexical de \"PRAIA\"?",
+              "alternativas": [
+                "areia",
+                "onda",
+                "guarda-sol",
+                "trator"
+              ],
+              "alternativa_correta": 3
+            },
+            {
+              "pergunta": "\"Martelo, prego, serra\" fazem parte do campo lexical de:",
+              "alternativas": [
+                "construção",
+                "cozinha",
+                "escola",
+                "jardim"
+              ],
+              "alternativa_correta": 0
+            },
+            {
+              "pergunta": "Qual conjunto NÃO forma um campo lexical coerente?",
+              "alternativas": [
+                "avião, banana, sapato",
+                "violão, corda, palheta",
+                "livro, página, capa",
+                "bola, gol, juiz"
+              ],
+              "alternativa_correta": 0
+            },
+            {
+              "pergunta": "Qual palavra completa o campo lexical: \"faca, garfo, ______\"?",
+              "alternativas": [
+                "panela",
+                "fogão",
+                "colher",
+                "geladeira"
+              ],
+              "alternativa_correta": 2
+            },
+            {
+              "pergunta": "\"Quadro, pincel, tinta\" pertencem ao campo lexical de:",
+              "alternativas": [
+                "música",
+                "esporte",
+                "escrita",
+                "pintura"
+              ],
+              "alternativa_correta": 3
+            },
+            {
+              "pergunta": "Qual palavra estaria em um campo lexical sobre \"FUTEBOL\"?",
+              "alternativas": [
+                "rede",
+                "escanteio",
+                "palco",
+                "paleta"
+              ],
+              "alternativa_correta": 1
+            },
+            {
+              "pergunta": "Qual conjunto forma um campo lexical de \"JARDIM\"?",
+              "alternativas": [
+                "flor, regador, pá",
+                "lápis, borracha, caderno",
+                "panela, colher, fogão",
+                "martelo, prego, serra"
+              ],
+              "alternativa_correta": 0
+            },
+            {
+              "pergunta": "Qual palavra completa: \"jornal, revista, ______\"?",
+              "alternativas": [
+                "notícia",
+                "música",
+                "dança",
+                "pintura"
+              ],
+              "alternativa_correta": 0
+            },
+            {
+              "pergunta": "\"Tela, mouse, teclado\" formam um campo lexical sobre:",
+              "alternativas": [
+                "cozinha",
+                "carro",
+                "computador",
+                "escola"
+              ],
+              "alternativa_correta": 2
+            },
+            {
+              "pergunta": "Qual conjunto NÃO pertence a um mesmo campo lexical?",
+              "alternativas": [
+                "violino, piano, flauta",
+                "gol, escanteio, pênalti",
+                "rosa, margarida, tulipa",
+                "martelo, livro, lápis"
+              ],
+              "alternativa_correta": 3
+            },
+            {
+              "pergunta": "\"Garçon, cardápio, menu\" estão associados ao campo lexical de:",
+              "alternativas": [
+                "restaurante",
+                "hospital",
+                "loja",
+                "farmácia"
+              ],
+              "alternativa_correta": 0
+            },
+            {
+              "pergunta": "Qual palavra faz parte do campo lexical de \"BIBLIOTECA\"?",
+              "alternativas": [
+                "estetoscópio",
+                "frigideira",
+                "prateleira",
+                "volante"
+              ],
+              "alternativa_correta": 2
+            },
+            {
+              "pergunta": "Qual palavra NÃO pertence ao campo lexical de \"COZINHA\"?",
+              "alternativas": [
+                "panela",
+                "colher",
+                "fogão",
+                "estetoscópio"
+              ],
+              "alternativa_correta": 3
+            },
+            {
+              "pergunta": "\"Quadro-negro, giz, caderno\" pertencem ao campo lexical de:",
+              "alternativas": [
+                "escola",
+                "oficina",
+                "praia",
+                "teatro"
+              ],
+              "alternativa_correta": 0
+            },
+            {
+              "pergunta": "Qual conjunto forma um campo lexical de \"FARMÁCIA\"?",
+              "alternativas": [
+                "martelo, prego, serra",
+                "flor, vaso, regador",
+                "remédio, balcão, receita",
+                "prato, copo, talher"
+              ],
+              "alternativa_correta": 2
+            }
+          ]
+        }
+      }
     }
   }
 }
