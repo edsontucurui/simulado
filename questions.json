@@ -995,6 +995,290 @@
               "alternativa_correta": 2
             }
           ]
+        },
+        "7 - Mudanças na superfície da Terra": {
+          "questoes": [
+            {
+              "pergunta": "A ação humana sobre o ambiente recebe o nome de:",
+              "alternativas": [
+                "Erosão natural",
+                "Intemperismo biológico",
+                "Ação antrópica",
+                "Movimento tectônico"
+              ],
+              "alternativa_correta": 2
+            },
+            {
+              "pergunta": "Qual a diferença entre erosão fluvial e pluvial?",
+              "alternativas": [
+                "Fluvial é causada pela chuva; pluvial, pelos rios",
+                "Pluvial é provocada por ventos fortes",
+                "Fluvial ocorre nos rios; pluvial, pela chuva",
+                "Ambas têm a mesma origem"
+              ],
+              "alternativa_correta": 2
+            },
+            {
+              "pergunta": "Por que os terremotos costumam ser menos destrutivos no Japão do que na Índia?",
+              "alternativas": [
+                "Porque os terremotos no Japão são mais fracos",
+                "Porque o Japão tem infraestrutura reforçada",
+                "Porque a Índia tem menos população exposta",
+                "Porque no Japão só ocorrem no mar"
+              ],
+              "alternativa_correta": 1
+            },
+            {
+              "pergunta": "Qual é o ponto no interior da Terra onde o terremoto começa?",
+              "alternativas": [
+                "Epicentro",
+                "Hipocentro",
+                "Manto",
+                "Crosta"
+              ],
+              "alternativa_correta": 1
+            },
+            {
+              "pergunta": "Qual fator NÃO provoca mudanças na litosfera?",
+              "alternativas": [
+                "Movimentos tectônicos",
+                "Vulcanismo",
+                "Intemperismo",
+                "Rotação da Terra"
+              ],
+              "alternativa_correta": 3
+            },
+            {
+              "pergunta": "Gêiseres e fumarolas são fenômenos ligados a:",
+              "alternativas": [
+                "Ventos intensos",
+                "Movimentos de placas",
+                "Saída de água e gases da Terra",
+                "Desmoronamento de solos"
+              ],
+              "alternativa_correta": 2
+            },
+            {
+              "pergunta": "Por que o Brasil não tem terremotos frequentes?",
+              "alternativas": [
+                "Está sobre falha geológica ativa",
+                "Localiza-se no centro de uma placa tectônica",
+                "Está no Círculo de Fogo do Pacífico",
+                "Possui muita floresta"
+              ],
+              "alternativa_correta": 1
+            },
+            {
+              "pergunta": "Quais são as principais camadas internas da Terra?",
+              "alternativas": [
+                "Atmosfera, hidrosfera, biosfera",
+                "Crosta, manto, núcleo",
+                "Litosfera, hidrosfera, atmosfera",
+                "Crosta, hidrosfera, biosfera"
+              ],
+              "alternativa_correta": 1
+            },
+            {
+              "pergunta": "Qual camada é composta por gases e envolve o planeta?",
+              "alternativas": [
+                "Litosfera",
+                "Atmosfera",
+                "Hidrosfera",
+                "Biosfera"
+              ],
+              "alternativa_correta": 1
+            },
+            {
+              "pergunta": "O Brasil está localizado na:",
+              "alternativas": [
+                "Placa do Pacífico",
+                "Placa Sul-Americana",
+                "Placa de Nazca",
+                "Placa Euroasiática"
+              ],
+              "alternativa_correta": 1
+            },
+            {
+              "pergunta": "O epicentro é o ponto...",
+              "alternativas": [
+                "Na superfície acima do hipocentro",
+                "No interior da Terra",
+                "Onde se origina o terremoto",
+                "No manto"
+              ],
+              "alternativa_correta": 0
+            },
+            {
+              "pergunta": "O intemperismo é:",
+              "alternativas": [
+                "Formação de rochas",
+                "Produção de magma",
+                "Atividade vulcânica",
+                "Desgaste das rochas"
+              ],
+              "alternativa_correta": 3
+            },
+            {
+              "pergunta": "O núcleo interno é formado por:",
+              "alternativas": [
+                "Ferro e níquel em estado sólido",
+                "Magma líquido",
+                "Rochas cristalinas",
+                "Lava pastosa"
+              ],
+              "alternativa_correta": 0
+            },
+            {
+              "pergunta": "A biosfera é composta por:",
+              "alternativas": [
+                "Apenas rochas",
+                "Apenas água",
+                "Apenas atmosfera",
+                "Conjunto que permite a vida"
+              ],
+              "alternativa_correta": 3
+            },
+            {
+              "pergunta": "A litosfera corresponde a:",
+              "alternativas": [
+                "Crosta + parte superior do manto",
+                "Atmosfera",
+                "Núcleo externo",
+                "Hidrosfera"
+              ],
+              "alternativa_correta": 0
+            },
+            {
+              "pergunta": "O Japão está localizado em região de:",
+              "alternativas": [
+                "Círculo de Fogo do Pacífico",
+                "Planície fluvial",
+                "Depressão absoluta",
+                "Plataforma estável"
+              ],
+              "alternativa_correta": 0
+            },
+            {
+              "pergunta": "O intemperismo pode ser:",
+              "alternativas": [
+                "Químico, físico ou biológico",
+                "Apenas químico",
+                "Apenas físico",
+                "Apenas biológico"
+              ],
+              "alternativa_correta": 0
+            },
+            {
+              "pergunta": "O núcleo externo é:",
+              "alternativas": [
+                "Líquido",
+                "Sólido",
+                "Gasoso",
+                "Rochoso"
+              ],
+              "alternativa_correta": 0
+            },
+            {
+              "pergunta": "Gêiseres liberam...",
+              "alternativas": [
+                "Água quente e vapor",
+                "Apenas gases",
+                "Lava incandescente",
+                "Rochas"
+              ],
+              "alternativa_correta": 0
+            },
+            {
+              "pergunta": "A atmosfera é:",
+              "alternativas": [
+                "Camada gasosa que envolve a Terra",
+                "Camada de magma",
+                "Camada de rochas",
+                "Camada de gelo"
+              ],
+              "alternativa_correta": 0
+            },
+            {
+              "pergunta": "Qual erosão é causada pelo vento?",
+              "alternativas": [
+                "Eólica",
+                "Fluvial",
+                "Pluvial",
+                "Glacial"
+              ],
+              "alternativa_correta": 0
+            },
+            {
+              "pergunta": "Qual erosão ocorre em geleiras?",
+              "alternativas": [
+                "Fluvial",
+                "Pluvial",
+                "Marinha",
+                "Glacial"
+              ],
+              "alternativa_correta": 3
+            },
+            {
+              "pergunta": "Qual erosão é causada pelo impacto da chuva?",
+              "alternativas": [
+                "Eólica",
+                "Glacial",
+                "Pluvial",
+                "Fluvial"
+              ],
+              "alternativa_correta": 2
+            },
+            {
+              "pergunta": "Compõe a Crosta da Terra a:",
+              "alternativas": [
+                "Litosfera",
+                "Núcleo Externo",
+                "Mesosfera",
+                "Atmosfera"
+              ],
+              "alternativa_correta": 0
+            },
+            {
+              "pergunta": "Compõe o Manto da Terra o:",
+              "alternativas": [
+                "Núcleo Externo e Núcleo Interno",
+                "Astenosfera e Mesosfera",
+                "Litosfera",
+                "Placas tectônicas"
+              ],
+              "alternativa_correta": 1
+            },
+            {
+              "pergunta": "Compôe o Núcleo da Terra o:",
+              "alternativas": [
+                "Astenosfera e Mesosfera",
+                "Litosfera",
+                "Intemperismo",
+                "Núcleo Externo e Núcleo Interno"
+              ],
+              "alternativa_correta": 3
+            },
+            {
+              "pergunta": "O que é Manto da estrutura interior da Terra?",
+              "alternativas": [
+                "Está localizado abaixo da crosta terrestre e é constituido por materiais do estado sólido e pastoso",
+                "É a camada fina e superficial da Terra",
+                "É a camada mais profunda da Terra, composto por materiais pesados como níquel e ferro",
+                "É usado para cobrir a Terra"
+              ],
+              "alternativa_correta": 0
+            },
+            {
+              "pergunta": "O que é Núcleo da estrutura interior da Terra?",
+              "alternativas": [
+                "É a camada fina e superficial da Terra",
+                "Está localizado abaixo da crosta terrestre e é constituido por materiais do estado sólido e pastoso",
+                "É a camada mais profunda da Terra, composto por materiais pesados como níquel e ferro",
+                "É o processo de desagregação das Rochas"
+              ],
+              "alternativa_correta": 2
+            }
+          ]
         }
       }
     },
@@ -2945,7 +3229,7 @@
               "alternativa_correta": 3
             },
             {
-              "pergunta": "O que Dario I criou para facilitar o comércio e a cobrança de impostos?",
+              "pergunta": "O que Dario criou para facilitar o comércio e a cobrança de impostos?",
               "alternativas": [
                 "Sistema de pesos, medidas e moeda (dárico)",
                 "Um novo alfabeto",
@@ -2975,17 +3259,7 @@
               "alternativa_correta": 2
             },
             {
-              "pergunta": "Quais eram as principais capitais persas?",
-              "alternativas": [
-                "Roma e Atenas",
-                "Susa, Pasárgada e Persépolis",
-                "Babilônia e Nínive",
-                "Jerusalém e Tiro"
-              ],
-              "alternativa_correta": 1
-            },
-            {
-              "pergunta": "Qual foi uma das medidas administrativas de Dario I?",
+              "pergunta": "Qual foi uma das medidas administrativas de Dario?",
               "alternativas": [
                 "Expansão do Egito",
                 "Aliança com gregos",
@@ -2997,7 +3271,7 @@
             {
               "pergunta": "Quem sucedeu Ciro no trono persa?",
               "alternativas": [
-                "Dario I",
+                "Dario",
                 "Cambises II",
                 "Xerxes",
                 "Artaxerxes"
@@ -3043,26 +3317,6 @@
                 "Metalurgia avançada"
               ],
               "alternativa_correta": 2
-            },
-            {
-              "pergunta": "Quais eram as principais cidades fenícias?",
-              "alternativas": [
-                "Atenas e Esparta",
-                "Tiro, Sidom, Biblos e Ugarit",
-                "Cartago e Roma",
-                "Jerusalém e Jerusalém"
-              ],
-              "alternativa_correta": 1
-            },
-            {
-              "pergunta": "O que os fenícios comerciavam com o Egito em troca de papiro?",
-              "alternativas": [
-                "Madeira de cedro",
-                "Armas de ferro",
-                "Estátuas",
-                "Escravos"
-              ],
-              "alternativa_correta": 0
             },
             {
               "pergunta": "Quais eram os deuses mais cultuados pelos fenícios?",
@@ -3145,16 +3399,6 @@
               "alternativa_correta": 3
             },
             {
-              "pergunta": "Qual deusa era cultuada como símbolo de fertilidade entre os cretenses?",
-              "alternativas": [
-                "Uma grande-mãe ligada à agricultura",
-                "Afrodite",
-                "Ísis",
-                "Atena"
-              ],
-              "alternativa_correta": 0
-            },
-            {
               "pergunta": "Que mito está associado à cultura cretense?",
               "alternativas": [
                 "Cavalo de Troia",
@@ -3163,16 +3407,6 @@
                 "Ulisses"
               ],
               "alternativa_correta": 1
-            },
-            {
-              "pergunta": "O que significa 'talassocracia'?",
-              "alternativas": [
-                "Domínio terrestre",
-                "Governo dos deuses",
-                "Predomínio do mar",
-                "Controle da agricultura"
-              ],
-              "alternativa_correta": 2
             },
             {
               "pergunta": "Qual era a principal característica das construções cretenses?",
@@ -3199,7 +3433,7 @@
               "alternativas": [
                 "Ciro, o Grande",
                 "Cambises II",
-                "Dario I",
+                "Dario",
                 "Xerxes"
               ],
               "alternativa_correta": 0
@@ -3215,7 +3449,7 @@
               "alternativa_correta": 1
             },
             {
-              "pergunta": "Quantos anos Dario I governou o Império Persa?",
+              "pergunta": "Quantos anos Dario governou o Império Persa?",
               "alternativas": [
                 "20 anos",
                 "15 anos",
@@ -3245,26 +3479,6 @@
               "alternativa_correta": 0
             },
             {
-              "pergunta": "Como era chamada a principal cidade fenícia da África?",
-              "alternativas": [
-                "Biblos",
-                "Cartago",
-                "Sidom",
-                "Ugarit"
-              ],
-              "alternativa_correta": 1
-            },
-            {
-              "pergunta": "Qual metalurgia os fenícios dominavam?",
-              "alternativas": [
-                "Ouro e prata",
-                "Estanho",
-                "Bronze e ferro",
-                "Mercúrio"
-              ],
-              "alternativa_correta": 2
-            },
-            {
               "pergunta": "Qual foi a importância do alfabeto fenício?",
               "alternativas": [
                 "Serviu para adoração religiosa",
@@ -3285,36 +3499,6 @@
               "alternativa_correta": 0
             },
             {
-              "pergunta": "Qual recurso natural famoso vinha do Líbano?",
-              "alternativas": [
-                "Mármore",
-                "Cedro",
-                "Trigo",
-                "Petróleo"
-              ],
-              "alternativa_correta": 1
-            },
-            {
-              "pergunta": "Que tipo de governo existia nas cidades fenícias?",
-              "alternativas": [
-                "Império centralizado",
-                "Monarquia única",
-                "Cidades-Estado independentes",
-                "República"
-              ],
-              "alternativa_correta": 2
-            },
-            {
-              "pergunta": "Qual deusa fenícia era ligada à fertilidade?",
-              "alternativas": [
-                "Ísis",
-                "Afrodite",
-                "Atena",
-                "Astarote"
-              ],
-              "alternativa_correta": 3
-            },
-            {
               "pergunta": "Como era chamada a forma de domínio marítimo dos cretenses?",
               "alternativas": [
                 "Democracia",
@@ -3323,16 +3507,6 @@
                 "Monarquia absoluta"
               ],
               "alternativa_correta": 1
-            },
-            {
-              "pergunta": "Que fenômeno natural pode ter causado a crise de Creta?",
-              "alternativas": [
-                "Tsunami na Grécia",
-                "Tempestades de areia",
-                "Erupção vulcânica e maremotos",
-                "Terremoto na Itália"
-              ],
-              "alternativa_correta": 2
             },
             {
               "pergunta": "Quem ajudou Teseu a derrotar o Minotauro?",
@@ -3345,76 +3519,6 @@
               "alternativa_correta": 3
             },
             {
-              "pergunta": "O que os cretenses exportavam principalmente?",
-              "alternativas": [
-                "Vasos de cerâmica e bronze",
-                "Escravos",
-                "Tecidos de púrpura",
-                "Madeira de cedro"
-              ],
-              "alternativa_correta": 0
-            },
-            {
-              "pergunta": "O que representava o touro para os cretenses?",
-              "alternativas": [
-                "A guerra",
-                "Força e fertilidade",
-                "A agricultura",
-                "A morte"
-              ],
-              "alternativa_correta": 1
-            },
-            {
-              "pergunta": "Que rei grego se ligava à lenda do Minotauro?",
-              "alternativas": [
-                "Agamenon",
-                "Ulisses",
-                "Minos",
-                "Leônidas"
-              ],
-              "alternativa_correta": 2
-            },
-            {
-              "pergunta": "Que palácio cretense era tão grande que lembrava um labirinto?",
-              "alternativas": [
-                "Sidom",
-                "Pasárgada",
-                "Biblos",
-                "Cnossos"
-              ],
-              "alternativa_correta": 3
-            },
-            {
-              "pergunta": "Quantas pessoas o palácio de Cnossos poderia abrigar?",
-              "alternativas": [
-                "Mais de 10 mil",
-                "Cerca de 500",
-                "Apenas 1000",
-                "Cerca de 2000"
-              ],
-              "alternativa_correta": 0
-            },
-            {
-              "pergunta": "Qual a principal divindade feminina cretense era associada à:",
-              "alternativas": [
-                "Guerra",
-                "Agricultura e fertilidade",
-                "Caça",
-                "Navegação"
-              ],
-              "alternativa_correta": 1
-            },
-            {
-              "pergunta": "O que a arquitetura cretense revela?",
-              "alternativas": [
-                "Pobreza da ilha",
-                "Ausência de organização",
-                "Riqueza e complexidade cultural",
-                "Simples construções"
-              ],
-              "alternativa_correta": 2
-            },
-            {
               "pergunta": "Qual herói grego matou o Minotauro?",
               "alternativas": [
                 "Aquiles",
@@ -3423,36 +3527,6 @@
                 "Teseu"
               ],
               "alternativa_correta": 3
-            },
-            {
-              "pergunta": "Que povo dominou Creta após sua crise?",
-              "alternativas": [
-                "Micênicos",
-                "Persas",
-                "Fenícios",
-                "Romanos"
-              ],
-              "alternativa_correta": 0
-            },
-            {
-              "pergunta": "Qual era o papel das mulheres na religião cretense?",
-              "alternativas": [
-                "Nenhum",
-                "Podiam conduzir rituais",
-                "Eram proibidas de cultuar",
-                "Eram deusas"
-              ],
-              "alternativa_correta": 1
-            },
-            {
-              "pergunta": "Que material as cerâmicas cretenses eram feitas?",
-              "alternativas": [
-                "Marfim",
-                "Ferro",
-                "Argila",
-                "Vidro"
-              ],
-              "alternativa_correta": 2
             }
           ]
         }
