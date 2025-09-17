@@ -3529,6 +3529,404 @@
               "alternativa_correta": 3
             }
           ]
+        },
+        "8 - Os Gregos Antigos": {
+          "questoes": [
+            {
+              "pergunta": "Qual era a principal característica política da Grécia Antiga?",
+              "alternativas": [
+                "Um reino unificado",
+                "Um império centralizado",
+                "Cidades-Estado independentes",
+                "Uma confederação tribal"
+              ],
+              "alternativa_correta": 2
+            },
+            {
+              "pergunta": "Como os gregos se autodenominavam?",
+              "alternativas": [
+                "Helenos",
+                "Gregos",
+                "Aqueus",
+                "Dórios"
+              ],
+              "alternativa_correta": 0
+            },
+            {
+              "pergunta": "Qual período da história grega é marcado pelo auge cultural e político de Atenas e Esparta?",
+              "alternativas": [
+                "Período Homérico",
+                "Período Clássico",
+                "Período Helenístico",
+                "Período Arcaico"
+              ],
+              "alternativa_correta": 1
+            },
+            {
+              "pergunta": "Quem podia ser considerado cidadão em Atenas?",
+              "alternativas": [
+                "Homens e mulheres atenienses",
+                "Homens, atenienses, maiores de 20 anos, filhos de pais atenienses",
+                "Todos os habitantes livres da cidade",
+                "Apenas os grandes proprietários de terra"
+              ],
+              "alternativa_correta": 1
+            },
+            {
+              "pergunta": "Quem foi o reformista ateniense conhecido como \"pai da democracia\"?",
+              "alternativas": [
+                "Drácon",
+                "Sólon",
+                "Péricles",
+                "Clístenes"
+              ],
+              "alternativa_correta": 3
+            },
+            {
+              "pergunta": "Qual órgão em Atenas era responsável por analisar e preparar as propostas para a Assembleia?",
+              "alternativas": [
+                "A Assembleia dos Cidadãos",
+                "O Conselho dos Quinhentos",
+                "O Tribunal Popular",
+                "O Areópago"
+              ],
+              "alternativa_correta": 0
+            },
+            {
+              "pergunta": "Como era a democracia ateniense?",
+              "alternativas": [
+                "Representativa",
+                "Oligárquica",
+                "Direta",
+                "Tirânica"
+              ],
+              "alternativa_correta": 2
+            },
+            {
+              "pergunta": "Qual era a base da sociedade espartana?",
+              "alternativas": [
+                "O comércio marítimo",
+                "O militarismo",
+                "A filosofia",
+                "A agricultura"
+              ],
+              "alternativa_correta": 0
+            },
+            {
+              "pergunta": "Como eram chamados os servos do Estado em Esparta?",
+              "alternativas": [
+                "Periecos",
+                "Gelecos",
+                "Hilotas",
+                "Escravos"
+              ],
+              "alternativa_correta": 2
+            },
+            {
+              "pergunta": "Qual foi o conflito entre a Liga de Delos (Atenas) e a Liga do Peloponeso (Esparta)?",
+              "alternativas": [
+                "Guerras Médicas",
+                "Guerras Púnicas",
+                "Guerra de Troia",
+                "Guerra do Peloponeso"
+              ],
+              "alternativa_correta": 3
+            },
+            {
+              "pergunta": "Quem foi o grande conquistador macedônio que expandiu o império até a Índia?",
+              "alternativas": [
+                "Alexandre, o Grande",
+                "Júlio César",
+                "Filipe II",
+                "Xerxes"
+              ],
+              "alternativa_correta": 0
+            },
+            {
+              "pergunta": "Qual o principal legado cultural das conquistas de Alexandre?",
+              "alternativas": [
+                "A Latinização do Oriente",
+                "O Helenismo",
+                "A Democratização",
+                "A Persianização"
+              ],
+              "alternativa_correta": 1
+            },
+            {
+              "pergunta": "Qual era o deus supremo do panteão grego?",
+              "alternativas": [
+                "Zeus",
+                "Poseidon",
+                "Hades",
+                "Apolo"
+              ],
+              "alternativa_correta": 0
+            },
+            {
+              "pergunta": "Qual reformista ateniense criou o primeiro código de leis escritas?",
+              "alternativas": [
+                "Drácon",
+                "Sólon",
+                "Clístenes",
+                "Péricles"
+              ],
+              "alternativa_correta": 0
+            },
+            {
+              "pergunta": "Qual batalha ficou famosa pela resistência heroica de Leônidas?",
+              "alternativas": [
+                "Batalha de Maratona",
+                "Batalha das Termópilas",
+                "Batalha de Salamina",
+                "Batalha de Plateia"
+              ],
+              "alternativa_correta": 1
+            },
+            {
+              "pergunta": "Qual civilização anterior aos gregos clássicos teve como centro a cidade de Micenas?",
+              "alternativas": [
+                "Minóica",
+                "Micênica",
+                "Dórica",
+                "Jônica"
+              ],
+              "alternativa_correta": 1
+            },
+            {
+              "pergunta": "Qual era a principal função dos estrategos em Atenas?",
+              "alternativas": [
+                "Administrar a justiça",
+                "Cuidar dos assuntos militares e da política externa",
+                "Organizar cerimônias religiosas",
+                "Presidir o Conselho dos Quinhentos"
+              ],
+              "alternativa_correta": 0
+            },
+            {
+              "pergunta": "Qual camada social em Atenas era formada por pequenos agricultores que viviam endividados?",
+              "alternativas": [
+                "Os Aristocratas",
+                "Os Comerciantes",
+                "Os Pequenos Proprietários",
+                "Os Estrangeiros"
+              ],
+              "alternativa_correta": 2
+            },
+            {
+              "pergunta": "Qual evento marcou o início da dominação macedônica sobre a Grécia?",
+              "alternativas": [
+                "A Batalha de Queronéia",
+                "A Batalha de Gaugamela",
+                "O Congresso de Corinto",
+                "A Invasão de Filipe II"
+              ],
+              "alternativa_correta": 0
+            }
+          ]
+        },
+        "9 - Os Romanos Antigos": {
+          "questoes": [
+            {
+              "pergunta": "Qual é a lenda que explica a origem de Roma?",
+              "alternativas": [
+                "A Guerra de Troia",
+                "A Viagem de Eneias",
+                "O Rapto das Sabinas",
+                "Rômulo e Remo amamentados por uma loba"
+              ],
+              "alternativa_correta": 3
+            },
+            {
+              "pergunta": "Em qual rio Roma foi fundada?",
+              "alternativas": [
+                "Rio Nilo",
+                "Rio Tibre",
+                "Rio Eufrates",
+                "Rio Danúbio"
+              ],
+              "alternativa_correta": 1
+            },
+            {
+              "pergunta": "Qual povo dominou Roma durante a Monarquia e exerceu grande influência cultural?",
+              "alternativas": [
+                "Gregos",
+                "Etruscos",
+                "Fenícios",
+                "Cartagineses"
+              ],
+              "alternativa_correta": 1
+            },
+            {
+              "pergunta": "Qual era a classe social dominante na Roma Monárquica, formada por grandes proprietários de terra?",
+              "alternativas": [
+                "Plebeus",
+                "Clientelas",
+                "Patrícios",
+                "Escravos"
+              ],
+              "alternativa_correta": 2
+            },
+            {
+              "pergunta": "Qual conselho era formado pelos patrícios mais velhos?",
+              "alternativas": [
+                "Assembleia da Plebe",
+                "Consulado",
+                "Magistratura",
+                "Senado"
+              ],
+              "alternativa_correta": 3
+            },
+            {
+              "pergunta": "Qual grupo social em Roma era composto por pessoas livres que dependiam de um patrício para proteção?",
+              "alternativas": [
+                "Plebeus",
+                "Clientelas",
+                "Escravos",
+                "Estrangeiros"
+              ],
+              "alternativa_correta": 1
+            },
+            {
+              "pergunta": "Qual período da história romana veio após a Monarquia?",
+              "alternativas": [
+                "Império",
+                "Ditadura",
+                "Anarquia",
+                "República"
+              ],
+              "alternativa_correta": 0
+            },
+            {
+              "pergunta": "Qual era a principal atividade econômica no início de Roma?",
+              "alternativas": [
+                "Comércio",
+                "Artesanato",
+                "Agricultura e pastoreio",
+                "Mineração"
+              ],
+              "alternativa_correta": 2
+            },
+            {
+              "pergunta": "A revolta patrícia que expulsou o último rei etrusco deu início a qual período?",
+              "alternativas": [
+                "O Império",
+                "A Ditadura",
+                "A Monarquia",
+                "A República"
+              ],
+              "alternativa_correta": 3
+            },
+            {
+              "pergunta": "Qual NÃO era um dos três deuses principais do panteão romano inicial?",
+              "alternativas": [
+                "Júpiter",
+                "Marte",
+                "Quirino",
+                "Netuno"
+              ],
+              "alternativa_correta": 3
+            },
+            {
+              "pergunta": "A religião romana inicial, de caráter rural, é conhecida como:",
+              "alternativas": [
+                "Helenismo",
+                "Judaísmo",
+                "Paganismo",
+                "Zoroastrismo"
+              ],
+              "alternativa_correta": 2
+            },
+            {
+              "pergunta": "Qual povo influenciou a prática romana de examinar vísceras de animais para adivinhação?",
+              "alternativas": [
+                "Gregos",
+                "Etruscos",
+                "Fenícios",
+                "Sabinos"
+              ],
+              "alternativa_correta": 1
+            },
+            {
+              "pergunta": "Inicialmente, as lutas de gladiadores tinham qual significado?",
+              "alternativas": [
+                "Entretenimento público",
+                "Forma de sacrifício humano",
+                "Treinamento militar",
+                "Rito de passagem"
+              ],
+              "alternativa_correta": 1
+            },
+            {
+              "pergunta": "Qual era a língua falada pelos romanos?",
+              "alternativas": [
+                "Grego",
+                "Latim",
+                "Etrusco",
+                "Osco"
+              ],
+              "alternativa_correta": 1
+            },
+            {
+              "pergunta": "Que tipo de fonte histórica inclui inscrições em túmulos e paredes?",
+              "alternativas": [
+                "Fontes Literárias",
+                "Fontes Numismáticas",
+                "Fontes Arquitetônicas",
+                "Fontes Epigráficas"
+              ],
+              "alternativa_correta": 3
+            },
+            {
+              "pergunta": "Quais foram os dois povos italiotas que, segundo a versão histórica, se uniram para fundar Roma?",
+              "alternativas": [
+                "Etruscos e Gregos",
+                "Latinos e Sabinos",
+                "Fenícios e Cartagineses",
+                "Samnitas e Úmbrios"
+              ],
+              "alternativa_correta": 0
+            },
+            {
+              "pergunta": "O que etimologicamente significa a palavra \"Senado\"?",
+              "alternativas": [
+                "\"Governo\"",
+                "\"Mais velho\"",
+                "\"Conselho\"",
+                "\"Poder\""
+              ],
+              "alternativa_correta": 1
+            },
+            {
+              "pergunta": "Qual era a principal obrigação de um \"cliente\" para com seu \"patrono\"?",
+              "alternativas": [
+                "Pagar impostos",
+                "Servir no exército",
+                "Votar conforme sua orientação",
+                "Prestar serviços e lealdade"
+              ],
+              "alternativa_correta": 3
+            },
+            {
+              "pergunta": "Qual dessas construções foi desenvolvida em Roma durante o período monárquico?",
+              "alternativas": [
+                "Coliseu",
+                "Aquedutos",
+                "Sistema de esgoto",
+                "Termas de Caracala"
+              ],
+              "alternativa_correta": 2
+            },
+            {
+              "pergunta": "Qual era a condição dos plebeus na Roma Monárquica?",
+              "alternativas": [
+                "Dominavam o Senado",
+                "Eram escravos do Estado",
+                "Estrangeiros com direitos",
+                "Livres, mas sem direitos políticos"
+              ],
+              "alternativa_correta": 3
+            }
+          ]
         }
       }
     },
